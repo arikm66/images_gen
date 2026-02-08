@@ -20,8 +20,9 @@ parser = argparse.ArgumentParser(
 Examples:
   python create_images.py                    # Process default file (nouns_short.json) with HF model
   python create_images.py -f nouns.json      # Process custom file
-  python create_images.py --file nouns.json  # Same as above
   python create_images.py -m dalle           # Use DALL-E instead of Hugging Face
+  python create_images.py -m together        # Use Together.ai
+  python create_images.py -m segmind         # Use Segmind
   python create_images.py -f nouns.json -m dalle  # Custom file with DALL-E
     '''
 )
@@ -32,9 +33,9 @@ parser.add_argument(
 )
 parser.add_argument(
     '-m', '--model',
-    choices=['hf', 'dalle'],
+    choices=['hf', 'dalle', 'together', 'segmind'],
     default='hf',
-    help='AI model to use: hf (Hugging Face) or dalle (DALL-E) (default: hf)'
+    help='AI model to use: hf (Hugging Face), dalle (DALL-E), together (Together.ai), or segmind (Segmind) (default: hf)'
 )
 args = parser.parse_args()
 
@@ -46,7 +47,7 @@ if args.model == 'hf':
     API_URL = "https://router.huggingface.co/hf-inference/models/black-forest-labs/FLUX.1-schnell"
     headers = {"Authorization": f"Bearer {HF_API_TOKEN}"}
     print(f"Using Hugging Face model: FLUX.1-schnell")
-else:  # dalle
+elif args.model == 'dalle':
     # DALL-E API setup
     # Get your API key at: https://platform.openai.com/api-keys
     OPENAI_API_KEY = os.getenv('OPENAI_API_KEY', 'your-openai-api-key-here')
@@ -56,6 +57,26 @@ else:  # dalle
         "Content-Type": "application/json"
     }
     print(f"Using OpenAI DALL-E model")
+elif args.model == 'together':
+    # Together.ai API setup ($5 free credits)
+    # Get your API key at: https://api.together.xyz/settings/api-keys
+    TOGETHER_API_KEY = os.getenv('TOGETHER_API_KEY', 'your-together-api-key-here')
+    API_URL = "https://api.together.xyz/v1/images/generations"
+    headers = {
+        "Authorization": f"Bearer {TOGETHER_API_KEY}",
+        "Content-Type": "application/json"
+    }
+    print(f"Using Together.ai model")
+else:  # segmind
+    # Segmind API setup (1,000 free credits/month)
+    # Get your API key at: https://www.segmind.com/
+    SEGMIND_API_KEY = os.getenv('SEGMIND_API_KEY', 'your-segmind-api-key-here')
+    API_URL = "https://api.segmind.com/v1/sdxl1.0-txt2img"
+    headers = {
+        "x-api-key": SEGMIND_API_KEY,
+        "Content-Type": "application/json"
+    }
+    print(f"Using Segmind model")
 
 # Read the specified JSON file
 input_file = args.file
@@ -117,7 +138,7 @@ for i, noun in enumerate(nouns, 1):
                     json={"inputs": prompt},
                     timeout=120
                 )
-            else:  # dalle
+            elif args.model == 'dalle':
                 # Call OpenAI DALL-E API
                 response = requests.post(
                     API_URL,
@@ -131,6 +152,40 @@ for i, noun in enumerate(nouns, 1):
                     },
                     timeout=120
                 )
+            elif args.model == 'together':
+                # Call Together.ai API
+                response = requests.post(
+                    API_URL,
+                    headers=headers,
+                    json={
+                        "model": "black-forest-labs/FLUX.1-schnell-Free",
+                        "prompt": prompt,
+                        "width": 1024,
+                        "height": 1024,
+                        "steps": 4,
+                        "n": 1
+                    },
+                    timeout=120
+                )
+            else:  # segmind
+                # Call Segmind API
+                response = requests.post(
+                    API_URL,
+                    headers=headers,
+                    json={
+                        "prompt": prompt,
+                        "negative_prompt": "blurry, low quality, distorted, ugly",
+                        "samples": 1,
+                        "scheduler": "UniPC",
+                        "num_inference_steps": 25,
+                        "guidance_scale": 7.5,
+                        "seed": -1,
+                        "img_width": 1024,
+                        "img_height": 1024,
+                        "base64": False
+                    },
+                    timeout=120
+                )
             
             if response.status_code == 200:
                 if args.model == 'hf':
@@ -141,7 +196,7 @@ for i, noun in enumerate(nouns, 1):
                     # Save the image with transparent background
                     output_image.save(filename, 'PNG')
                     print(f"  ✓ Saved with transparent background: {filename}")
-                else:  # dalle
+                elif args.model == 'dalle':
                     # DALL-E returns a URL to the image
                     image_url = response.json()['data'][0]['url']
                     
@@ -151,6 +206,40 @@ for i, noun in enumerate(nouns, 1):
                     
                     # Remove background
                     input_image = Image.open(io.BytesIO(img_response.content))
+                    output_image = remove(input_image)
+                    
+                    # Save the image with transparent background
+                    output_image.save(filename, 'PNG')
+                    print(f"  ✓ Saved with transparent background: {filename}")
+                elif args.model == 'together':
+                    # Together.ai returns a URL or base64 depending on response_format
+                    result = response.json()
+                    if 'data' in result and len(result['data']) > 0:
+                        # Get the image URL or b64_json
+                        if 'url' in result['data'][0]:
+                            image_url = result['data'][0]['url']
+                            img_response = requests.get(image_url, timeout=30)
+                            img_response.raise_for_status()
+                            input_image = Image.open(io.BytesIO(img_response.content))
+                        elif 'b64_json' in result['data'][0]:
+                            import base64
+                            image_data = base64.b64decode(result['data'][0]['b64_json'])
+                            input_image = Image.open(io.BytesIO(image_data))
+                        
+                        # Remove background
+                        output_image = remove(input_image)
+                        
+                        # Save the image with transparent background
+                        output_image.save(filename, 'PNG')
+                        print(f"  ✓ Saved with transparent background: {filename}")
+                    else:
+                        print(f"  ✗ Unexpected response format from Together.ai")
+                        break
+                else:  # segmind
+                    # Segmind returns the image directly as bytes
+                    input_image = Image.open(io.BytesIO(response.content))
+                    
+                    # Remove background
                     output_image = remove(input_image)
                     
                     # Save the image with transparent background
