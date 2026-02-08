@@ -2,6 +2,7 @@ import json
 import os
 import requests
 import time
+import sys
 from dotenv import load_dotenv
 from rembg import remove
 from PIL import Image
@@ -81,6 +82,13 @@ for i, noun in enumerate(nouns, 1):
                 print(f"  ✓ Saved with transparent background: {filename}")
                 success = True
                 generated_count += 1
+            elif response.status_code == 402:
+                # Credit balance depleted - abort script
+                print(f"  ✗ Credit balance depleted (Status: 402)")
+                failed_count += 1
+                print(f"\n⚠ Aborting script due to insufficient credits.")
+                print(f"Summary: Generated: {generated_count}, Skipped: {skipped_count}, Failed: {failed_count}")
+                sys.exit(1)
             elif response.status_code == 503:
                 # Model is loading, wait and retry
                 retry_count += 1

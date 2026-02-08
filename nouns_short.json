@@ -31,20 +31,5 @@
   { "nameEn": "Key", "nameHe": "מפתח", "categoryHe": "חפצים" },
   { "nameEn": "Wallet", "nameHe": "ארנק", "categoryHe": "חפצים" },
   { "nameEn": "Umbrella", "nameHe": "מטריה", "categoryHe": "חפצים" },
-  { "nameEn": "Book", "nameHe": "ספר", "categoryHe": "חפצים" },
-  { "nameEn": "Pen", "nameHe": "עט", "categoryHe": "חפצים" },
-  { "nameEn": "Notebook", "nameHe": "מחברת", "categoryHe": "חפצים" },
-  { "nameEn": "Chair", "nameHe": "כיסא", "categoryHe": "חפצים" },
-  { "nameEn": "Table", "nameHe": "שולחן", "categoryHe": "חפצים" },
-  { "nameEn": "Bed", "nameHe": "מיטה", "categoryHe": "חפצים" },
-  { "nameEn": "Mirror", "nameHe": "מראה", "categoryHe": "חפצים" },
-  { "nameEn": "Lamp", "nameHe": "מנורה", "categoryHe": "חפצים" },
-  { "nameEn": "Mountain", "nameHe": "הר", "categoryHe": "טבע" },
-  { "nameEn": "Valley", "nameHe": "עמק", "categoryHe": "טבע" },
-  { "nameEn": "Hill", "nameHe": "גבעה", "categoryHe": "טבע" },
-  { "nameEn": "River", "nameHe": "נהר", "categoryHe": "טבע" },
-  { "nameEn": "Lake", "nameHe": "אגם", "categoryHe": "טבע" },
-  { "nameEn": "Ocean", "nameHe": "אוקיינוס", "categoryHe": "טבע" },
-  { "nameEn": "Sea", "nameHe": "ים", "categoryHe": "טבע" },
-  { "nameEn": "Island", "nameHe": "אי", "categoryHe": "טבע" }
+  { "nameEn": "Book", "nameHe": "ספר", "categoryHe": "חפצים" }
 ]
