@@ -3,6 +3,7 @@ import os
 import requests
 import time
 import sys
+import argparse
 from dotenv import load_dotenv
 from rembg import remove
 from PIL import Image
@@ -11,15 +12,59 @@ import io
 # Load environment variables
 load_dotenv()
 
-# Hugging Face API setup (free tier, generous limits)
-# Get your free token at: https://huggingface.co/settings/tokens
-HF_API_TOKEN = os.getenv('HF_API_TOKEN', 'your-huggingface-token-here')
-API_URL = "https://router.huggingface.co/hf-inference/models/black-forest-labs/FLUX.1-schnell"
+# Parse command line arguments
+parser = argparse.ArgumentParser(
+    description='Generate images for nouns using Hugging Face AI models with transparent backgrounds.',
+    formatter_class=argparse.RawDescriptionHelpFormatter,
+    epilog='''
+Examples:
+  python create_images.py                    # Process default file (nouns_short.json) with HF model
+  python create_images.py -f nouns.json      # Process custom file
+  python create_images.py --file nouns.json  # Same as above
+  python create_images.py -m dalle           # Use DALL-E instead of Hugging Face
+  python create_images.py -f nouns.json -m dalle  # Custom file with DALL-E
+    '''
+)
+parser.add_argument(
+    '-f', '--file',
+    default='nouns_short.json',
+    help='JSON file containing nouns to process (default: nouns_short.json)'
+)
+parser.add_argument(
+    '-m', '--model',
+    choices=['hf', 'dalle'],
+    default='hf',
+    help='AI model to use: hf (Hugging Face) or dalle (DALL-E) (default: hf)'
+)
+args = parser.parse_args()
 
-headers = {"Authorization": f"Bearer {HF_API_TOKEN}"}
+# API Configuration
+if args.model == 'hf':
+    # Hugging Face API setup (free tier, generous limits)
+    # Get your free token at: https://huggingface.co/settings/tokens
+    HF_API_TOKEN = os.getenv('HF_API_TOKEN', 'your-huggingface-token-here')
+    API_URL = "https://router.huggingface.co/hf-inference/models/black-forest-labs/FLUX.1-schnell"
+    headers = {"Authorization": f"Bearer {HF_API_TOKEN}"}
+    print(f"Using Hugging Face model: FLUX.1-schnell")
+else:  # dalle
+    # DALL-E API setup
+    # Get your API key at: https://platform.openai.com/api-keys
+    OPENAI_API_KEY = os.getenv('OPENAI_API_KEY', 'your-openai-api-key-here')
+    API_URL = "https://api.openai.com/v1/images/generations"
+    headers = {
+        "Authorization": f"Bearer {OPENAI_API_KEY}",
+        "Content-Type": "application/json"
+    }
+    print(f"Using OpenAI DALL-E model")
 
-# Read the nouns_short.json file
-with open('nouns_short.json', 'r', encoding='utf-8') as f:
+# Read the specified JSON file
+input_file = args.file
+if not os.path.exists(input_file):
+    print(f"Error: File '{input_file}' not found.")
+    sys.exit(1)
+
+print(f"Processing file: {input_file}")
+with open(input_file, 'r', encoding='utf-8') as f:
     nouns = json.load(f)
 
 # Create images directory if it doesn't exist
@@ -64,22 +109,54 @@ for i, noun in enumerate(nouns, 1):
     
     while retry_count < max_retries and not success:
         try:
-            # Call Hugging Face Inference API
-            response = requests.post(
-                API_URL,
-                headers=headers,
-                json={"inputs": prompt},
-                timeout=120
-            )
+            if args.model == 'hf':
+                # Call Hugging Face Inference API
+                response = requests.post(
+                    API_URL,
+                    headers=headers,
+                    json={"inputs": prompt},
+                    timeout=120
+                )
+            else:  # dalle
+                # Call OpenAI DALL-E API
+                response = requests.post(
+                    API_URL,
+                    headers=headers,
+                    json={
+                        "model": "dall-e-3",
+                        "prompt": prompt,
+                        "n": 1,
+                        "size": "1024x1024",
+                        "quality": "standard"
+                    },
+                    timeout=120
+                )
             
             if response.status_code == 200:
-                # Remove background from the generated image
-                input_image = Image.open(io.BytesIO(response.content))
-                output_image = remove(input_image)
+                if args.model == 'hf':
+                    # Remove background from the generated image
+                    input_image = Image.open(io.BytesIO(response.content))
+                    output_image = remove(input_image)
+                    
+                    # Save the image with transparent background
+                    output_image.save(filename, 'PNG')
+                    print(f"  ✓ Saved with transparent background: {filename}")
+                else:  # dalle
+                    # DALL-E returns a URL to the image
+                    image_url = response.json()['data'][0]['url']
+                    
+                    # Download the image
+                    img_response = requests.get(image_url, timeout=30)
+                    img_response.raise_for_status()
+                    
+                    # Remove background
+                    input_image = Image.open(io.BytesIO(img_response.content))
+                    output_image = remove(input_image)
+                    
+                    # Save the image with transparent background
+                    output_image.save(filename, 'PNG')
+                    print(f"  ✓ Saved with transparent background: {filename}")
                 
-                # Save the image with transparent background
-                output_image.save(filename, 'PNG')
-                print(f"  ✓ Saved with transparent background: {filename}")
                 success = True
                 generated_count += 1
             elif response.status_code == 402:
