@@ -17,8 +17,9 @@ __pycache__/
 *.txt
 !requirements.txt
 
-# Generated images
+# Generated images and old files
 images/
+Old/
 
 # IDE
 .vscode/
