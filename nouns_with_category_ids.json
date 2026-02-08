@@ -1,0 +1,7695 @@
+[
+  {
+    "nameEn": "Lion",
+    "nameHe": "אריה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Tiger",
+    "nameHe": "נמר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Elephant",
+    "nameHe": "פיל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Giraffe",
+    "nameHe": "ג'ירפה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Wolf",
+    "nameHe": "זאב",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Zebra",
+    "nameHe": "זברה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Monkey",
+    "nameHe": "קוף",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Rabbit",
+    "nameHe": "ארנב",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Deer",
+    "nameHe": "אייל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Bear",
+    "nameHe": "דוב",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Dolphin",
+    "nameHe": "דולפין",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Shark",
+    "nameHe": "כריש",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Whale",
+    "nameHe": "לווייתן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Eagle",
+    "nameHe": "נשר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Owl",
+    "nameHe": "ינשוף",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Parrot",
+    "nameHe": "תוכי",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Snake",
+    "nameHe": "נחש",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Frog",
+    "nameHe": "צפרדע",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Turtle",
+    "nameHe": "צב",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Bee",
+    "nameHe": "דבורה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Hammer",
+    "nameHe": "פטיש",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Screwdriver",
+    "nameHe": "מברג",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Computer",
+    "nameHe": "מחשב",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Keyboard",
+    "nameHe": "מקלדת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Mouse",
+    "nameHe": "עכבר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Monitor",
+    "nameHe": "מסך",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Phone",
+    "nameHe": "טלפון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Camera",
+    "nameHe": "מצלמה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Clock",
+    "nameHe": "שעון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Key",
+    "nameHe": "מפתח",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Wallet",
+    "nameHe": "ארנק",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Umbrella",
+    "nameHe": "מטריה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Book",
+    "nameHe": "ספר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Pen",
+    "nameHe": "עט",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Notebook",
+    "nameHe": "מחברת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Chair",
+    "nameHe": "כיסא",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Table",
+    "nameHe": "שולחן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Bed",
+    "nameHe": "מיטה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Mirror",
+    "nameHe": "מראה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Lamp",
+    "nameHe": "מנורה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Mountain",
+    "nameHe": "הר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Valley",
+    "nameHe": "עמק",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Hill",
+    "nameHe": "גבעה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "River",
+    "nameHe": "נהר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Lake",
+    "nameHe": "אגם",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Ocean",
+    "nameHe": "אוקיינוס",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Sea",
+    "nameHe": "ים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Island",
+    "nameHe": "אי",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Forest",
+    "nameHe": "יער",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Desert",
+    "nameHe": "מדבר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Tree",
+    "nameHe": "עץ",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Flower",
+    "nameHe": "פרח",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Cloud",
+    "nameHe": "ענן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Sun",
+    "nameHe": "שמש",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Moon",
+    "nameHe": "ירח",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Star",
+    "nameHe": "כוכב",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Rock",
+    "nameHe": "סלע",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Sand",
+    "nameHe": "חול",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Rain",
+    "nameHe": "גשם",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Snow",
+    "nameHe": "שלג",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Doctor",
+    "nameHe": "רופא",
+    "category": {
+      "$oid": "69876de125b1a590af8ca606"
+    }
+  },
+  {
+    "nameEn": "Nurse",
+    "nameHe": "אח/אחות",
+    "category": {
+      "$oid": "69876de125b1a590af8ca606"
+    }
+  },
+  {
+    "nameEn": "Teacher",
+    "nameHe": "מורה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca606"
+    }
+  },
+  {
+    "nameEn": "Student",
+    "nameHe": "סטודנט",
+    "category": {
+      "$oid": "69876de125b1a590af8ca606"
+    }
+  },
+  {
+    "nameEn": "Pilot",
+    "nameHe": "טייס",
+    "category": {
+      "$oid": "69876de125b1a590af8ca606"
+    }
+  },
+  {
+    "nameEn": "Chef",
+    "nameHe": "טבח",
+    "category": {
+      "$oid": "69876de125b1a590af8ca606"
+    }
+  },
+  {
+    "nameEn": "Artist",
+    "nameHe": "אמן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca606"
+    }
+  },
+  {
+    "nameEn": "Baker",
+    "nameHe": "אופה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca606"
+    }
+  },
+  {
+    "nameEn": "Firefighter",
+    "nameHe": "כבאי",
+    "category": {
+      "$oid": "69876de125b1a590af8ca606"
+    }
+  },
+  {
+    "nameEn": "Police Officer",
+    "nameHe": "שוטר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca606"
+    }
+  },
+  {
+    "nameEn": "Judge",
+    "nameHe": "שופט",
+    "category": {
+      "$oid": "69876de125b1a590af8ca606"
+    }
+  },
+  {
+    "nameEn": "Scientist",
+    "nameHe": "מדען",
+    "category": {
+      "$oid": "69876de125b1a590af8ca606"
+    }
+  },
+  {
+    "nameEn": "Astronaut",
+    "nameHe": "אסטרונאוט",
+    "category": {
+      "$oid": "69876de125b1a590af8ca606"
+    }
+  },
+  {
+    "nameEn": "Farmer",
+    "nameHe": "חקלאי",
+    "category": {
+      "$oid": "69876de125b1a590af8ca606"
+    }
+  },
+  {
+    "nameEn": "Soldier",
+    "nameHe": "חייל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca606"
+    }
+  },
+  {
+    "nameEn": "Pizza",
+    "nameHe": "פיצה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Burger",
+    "nameHe": "המבורגר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Salad",
+    "nameHe": "סלט",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Bread",
+    "nameHe": "לחם",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Cheese",
+    "nameHe": "גבינה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Egg",
+    "nameHe": "ביצה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Apple",
+    "nameHe": "תפוח",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Banana",
+    "nameHe": "בננה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Orange",
+    "nameHe": "תפוז",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Grape",
+    "nameHe": "ענבים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Water",
+    "nameHe": "מים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Milk",
+    "nameHe": "חלב",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Juice",
+    "nameHe": "מיץ",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Cake",
+    "nameHe": "עוגה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Chocolate",
+    "nameHe": "שוקולד",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Hospital",
+    "nameHe": "בית חולים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "School",
+    "nameHe": "בית ספר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Airport",
+    "nameHe": "שדה תעופה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Library",
+    "nameHe": "ספרייה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Park",
+    "nameHe": "פארק",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Beach",
+    "nameHe": "חוף",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Stadium",
+    "nameHe": "אצטדיון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Mall",
+    "nameHe": "קניון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Bakery",
+    "nameHe": "מאפייה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Museum",
+    "nameHe": "מוזיאון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Car",
+    "nameHe": "מכונית",
+    "category": {
+      "$oid": "69876de125b1a590af8ca609"
+    }
+  },
+  {
+    "nameEn": "Bicycle",
+    "nameHe": "אופניים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca609"
+    }
+  },
+  {
+    "nameEn": "Airplane",
+    "nameHe": "מטוס",
+    "category": {
+      "$oid": "69876de125b1a590af8ca609"
+    }
+  },
+  {
+    "nameEn": "Boat",
+    "nameHe": "סירה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca609"
+    }
+  },
+  {
+    "nameEn": "Train",
+    "nameHe": "רכבת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca609"
+    }
+  },
+  {
+    "nameEn": "Truck",
+    "nameHe": "משאית",
+    "category": {
+      "$oid": "69876de125b1a590af8ca609"
+    }
+  },
+  {
+    "nameEn": "Bus",
+    "nameHe": "אוטובוס",
+    "category": {
+      "$oid": "69876de125b1a590af8ca609"
+    }
+  },
+  {
+    "nameEn": "Motorcycle",
+    "nameHe": "אופנוע",
+    "category": {
+      "$oid": "69876de125b1a590af8ca609"
+    }
+  },
+  {
+    "nameEn": "Helicopter",
+    "nameHe": "מסוק",
+    "category": {
+      "$oid": "69876de125b1a590af8ca609"
+    }
+  },
+  {
+    "nameEn": "Submarine",
+    "nameHe": "צוללת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca609"
+    }
+  },
+  {
+    "nameEn": "Violin",
+    "nameHe": "כינור",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60a"
+    }
+  },
+  {
+    "nameEn": "Guitar",
+    "nameHe": "גיטרה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60a"
+    }
+  },
+  {
+    "nameEn": "Piano",
+    "nameHe": "פסנתר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60a"
+    }
+  },
+  {
+    "nameEn": "Drum",
+    "nameHe": "תוף",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60a"
+    }
+  },
+  {
+    "nameEn": "Flute",
+    "nameHe": "חליל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60a"
+    }
+  },
+  {
+    "nameEn": "Trumpet",
+    "nameHe": "חצוצרה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60a"
+    }
+  },
+  {
+    "nameEn": "Harp",
+    "nameHe": "נבל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60a"
+    }
+  },
+  {
+    "nameEn": "Saxophone",
+    "nameHe": "סקסופון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60a"
+    }
+  },
+  {
+    "nameEn": "Accordion",
+    "nameHe": "אקורדיון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60a"
+    }
+  },
+  {
+    "nameEn": "Cello",
+    "nameHe": "צ'לו",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60a"
+    }
+  },
+  {
+    "nameEn": "Jacket",
+    "nameHe": "ז'קט",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Dress",
+    "nameHe": "שמלה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Socks",
+    "nameHe": "גרביים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Hat",
+    "nameHe": "כובע",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Scarf",
+    "nameHe": "צעיף",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Gloves",
+    "nameHe": "כפפות",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Skirts",
+    "nameHe": "חצאית",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Belt",
+    "nameHe": "חגורה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Tie",
+    "nameHe": "עניבה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Boots",
+    "nameHe": "מגפיים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Telescope",
+    "nameHe": "טלסקופ",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60b"
+    }
+  },
+  {
+    "nameEn": "Microscope",
+    "nameHe": "מיקרוסקופ",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60b"
+    }
+  },
+  {
+    "nameEn": "Test Tube",
+    "nameHe": "מבחנה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60b"
+    }
+  },
+  {
+    "nameEn": "Magnet",
+    "nameHe": "מגנט",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60b"
+    }
+  },
+  {
+    "nameEn": "Compass",
+    "nameHe": "מצפן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60b"
+    }
+  },
+  {
+    "nameEn": "Battery",
+    "nameHe": "סוללה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60b"
+    }
+  },
+  {
+    "nameEn": "Thermometer",
+    "nameHe": "מדחום",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60b"
+    }
+  },
+  {
+    "nameEn": "Calculator",
+    "nameHe": "מחשבון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60b"
+    }
+  },
+  {
+    "nameEn": "Satellite",
+    "nameHe": "לוויין",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60b"
+    }
+  },
+  {
+    "nameEn": "Robot",
+    "nameHe": "רובוט",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60b"
+    }
+  },
+  {
+    "nameEn": "Football",
+    "nameHe": "כדורגל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60c"
+    }
+  },
+  {
+    "nameEn": "Racket",
+    "nameHe": "מחבט",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60c"
+    }
+  },
+  {
+    "nameEn": "Bicycle Helmet",
+    "nameHe": "קסדה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60c"
+    }
+  },
+  {
+    "nameEn": "Skateboard",
+    "nameHe": "סקייטבורד",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60c"
+    }
+  },
+  {
+    "nameEn": "Surfboard",
+    "nameHe": "גלשן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60c"
+    }
+  },
+  {
+    "nameEn": "Trophy",
+    "nameHe": "גביע",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60c"
+    }
+  },
+  {
+    "nameEn": "Whistle",
+    "nameHe": "משרוקית",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60c"
+    }
+  },
+  {
+    "nameEn": "Dumbbell",
+    "nameHe": "משקולת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60c"
+    }
+  },
+  {
+    "nameEn": "Tent",
+    "nameHe": "אוהל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60c"
+    }
+  },
+  {
+    "nameEn": "Backpack",
+    "nameHe": "תרמיל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60c"
+    }
+  },
+  {
+    "nameEn": "Panda",
+    "nameHe": "פנדה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Kangaroo",
+    "nameHe": "קנגורו",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Octopus",
+    "nameHe": "תמנון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Penguin",
+    "nameHe": "פינגווין",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Butterfly",
+    "nameHe": "פרפר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Spider",
+    "nameHe": "עכביש",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Horse",
+    "nameHe": "סוס",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Cow",
+    "nameHe": "פרה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Sheep",
+    "nameHe": "כבשה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Duck",
+    "nameHe": "ברווז",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Tomato",
+    "nameHe": "עגבנייה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Cucumber",
+    "nameHe": "מלפפון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Potato",
+    "nameHe": "תפוח אדמה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Onion",
+    "nameHe": "בצל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Garlic",
+    "nameHe": "שום",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Carrot",
+    "nameHe": "גזר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Corn",
+    "nameHe": "תירס",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Strawberry",
+    "nameHe": "תות",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Watermelon",
+    "nameHe": "אבטיח",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Honey",
+    "nameHe": "דבש",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Brush",
+    "nameHe": "מברשת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Soap",
+    "nameHe": "סבון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Towel",
+    "nameHe": "מגבת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Spoon",
+    "nameHe": "כף",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Fork",
+    "nameHe": "מזלג",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Knife",
+    "nameHe": "סכין",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Plate",
+    "nameHe": "צלחת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Glass",
+    "nameHe": "כוס",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Pot",
+    "nameHe": "סיר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Pan",
+    "nameHe": "מחבת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Window",
+    "nameHe": "חלון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Door",
+    "nameHe": "דלת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Roof",
+    "nameHe": "גג",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Stairs",
+    "nameHe": "מדרגות",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Fence",
+    "nameHe": "גדר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Castle",
+    "nameHe": "טירה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Church",
+    "nameHe": "כנסייה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Synagogue",
+    "nameHe": "בית כנסת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Mosque",
+    "nameHe": "מסגד",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Bridge",
+    "nameHe": "גשר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Island",
+    "nameHe": "אי",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Volcano",
+    "nameHe": "הר געש",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Waterfall",
+    "nameHe": "מפל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Cave",
+    "nameHe": "מערה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Rainbow",
+    "nameHe": "קשת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Leaf",
+    "nameHe": "עלה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Root",
+    "nameHe": "שורש",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Seed",
+    "nameHe": "זרע",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Iceberg",
+    "nameHe": "קרחון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Thunder",
+    "nameHe": "רעם",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Stapler",
+    "nameHe": "שדכן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60e"
+    }
+  },
+  {
+    "nameEn": "Paperclip",
+    "nameHe": "אטב נייר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60e"
+    }
+  },
+  {
+    "nameEn": "Folder",
+    "nameHe": "תיקייה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60e"
+    }
+  },
+  {
+    "nameEn": "Envelope",
+    "nameHe": "מעטפה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60e"
+    }
+  },
+  {
+    "nameEn": "Stamp",
+    "nameHe": "בול",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60e"
+    }
+  },
+  {
+    "nameEn": "Eraser",
+    "nameHe": "מחק",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60e"
+    }
+  },
+  {
+    "nameEn": "Ruler",
+    "nameHe": "סרגל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60e"
+    }
+  },
+  {
+    "nameEn": "Calculator",
+    "nameHe": "מחשבון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60e"
+    }
+  },
+  {
+    "nameEn": "Printer",
+    "nameHe": "מדפסת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60e"
+    }
+  },
+  {
+    "nameEn": "Scissors",
+    "nameHe": "מספריים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60e"
+    }
+  },
+  {
+    "nameEn": "Planet",
+    "nameHe": "כוכב לכת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60f"
+    }
+  },
+  {
+    "nameEn": "Comet",
+    "nameHe": "כוכב שביט",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60f"
+    }
+  },
+  {
+    "nameEn": "Asteroid",
+    "nameHe": "אסטרואיד",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60f"
+    }
+  },
+  {
+    "nameEn": "Spaceship",
+    "nameHe": "חללית",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60f"
+    }
+  },
+  {
+    "nameEn": "Rocket",
+    "nameHe": "טיל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60f"
+    }
+  },
+  {
+    "nameEn": "Space station",
+    "nameHe": "תחנת חלל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60f"
+    }
+  },
+  {
+    "nameEn": "Space suit",
+    "nameHe": "חליפת חלל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60f"
+    }
+  },
+  {
+    "nameEn": "Crater",
+    "nameHe": "מכתש",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60f"
+    }
+  },
+  {
+    "nameEn": "Meteor",
+    "nameHe": "מטאור",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60f"
+    }
+  },
+  {
+    "nameEn": "Black hole",
+    "nameHe": "חור שחור",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60f"
+    }
+  },
+  {
+    "nameEn": "Skull",
+    "nameHe": "גולגולת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca610"
+    }
+  },
+  {
+    "nameEn": "Skeleton",
+    "nameHe": "שלד",
+    "category": {
+      "$oid": "69876de125b1a590af8ca610"
+    }
+  },
+  {
+    "nameEn": "Heart",
+    "nameHe": "לב",
+    "category": {
+      "$oid": "69876de125b1a590af8ca610"
+    }
+  },
+  {
+    "nameEn": "Lungs",
+    "nameHe": "ריאות",
+    "category": {
+      "$oid": "69876de125b1a590af8ca610"
+    }
+  },
+  {
+    "nameEn": "Brain",
+    "nameHe": "מוח",
+    "category": {
+      "$oid": "69876de125b1a590af8ca610"
+    }
+  },
+  {
+    "nameEn": "Tooth",
+    "nameHe": "שן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca610"
+    }
+  },
+  {
+    "nameEn": "Finger",
+    "nameHe": "אצבע",
+    "category": {
+      "$oid": "69876de125b1a590af8ca610"
+    }
+  },
+  {
+    "nameEn": "Shoulder",
+    "nameHe": "כתף",
+    "category": {
+      "$oid": "69876de125b1a590af8ca610"
+    }
+  },
+  {
+    "nameEn": "Knee",
+    "nameHe": "ברך",
+    "category": {
+      "$oid": "69876de125b1a590af8ca610"
+    }
+  },
+  {
+    "nameEn": "Muscle",
+    "nameHe": "שריר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca610"
+    }
+  },
+  {
+    "nameEn": "Shovel",
+    "nameHe": "את חפירה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca611"
+    }
+  },
+  {
+    "nameEn": "Rake",
+    "nameHe": "מגרפה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca611"
+    }
+  },
+  {
+    "nameEn": "Watering can",
+    "nameHe": "משפך",
+    "category": {
+      "$oid": "69876de125b1a590af8ca611"
+    }
+  },
+  {
+    "nameEn": "Hose",
+    "nameHe": "צינור",
+    "category": {
+      "$oid": "69876de125b1a590af8ca611"
+    }
+  },
+  {
+    "nameEn": "Lawnmower",
+    "nameHe": "מכסחת דשא",
+    "category": {
+      "$oid": "69876de125b1a590af8ca611"
+    }
+  },
+  {
+    "nameEn": "Wheelbarrow",
+    "nameHe": "מריצה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca611"
+    }
+  },
+  {
+    "nameEn": "Seeds",
+    "nameHe": "זרעים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca611"
+    }
+  },
+  {
+    "nameEn": "Flowerpot",
+    "nameHe": "עציץ",
+    "category": {
+      "$oid": "69876de125b1a590af8ca611"
+    }
+  },
+  {
+    "nameEn": "Gloves",
+    "nameHe": "כפפות עבודה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca611"
+    }
+  },
+  {
+    "nameEn": "Soil",
+    "nameHe": "אדמה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca611"
+    }
+  },
+  {
+    "nameEn": "Camel",
+    "nameHe": "גמל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Squirrel",
+    "nameHe": "סנאי",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Crab",
+    "nameHe": "סרטן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Owl",
+    "nameHe": "ינשוף",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Spider",
+    "nameHe": "עכביש",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Whale",
+    "nameHe": "לווייתן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Mouse",
+    "nameHe": "עכבר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Beehive",
+    "nameHe": "כוורת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Web",
+    "nameHe": "קורי עכביש",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Nest",
+    "nameHe": "קן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Sofa",
+    "nameHe": "ספה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Closet",
+    "nameHe": "ארון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Curtain",
+    "nameHe": "וילון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Rug",
+    "nameHe": "שטיח",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Pillow",
+    "nameHe": "כרית",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Blanket",
+    "nameHe": "שמיכה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Clock",
+    "nameHe": "שעון קיר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Television",
+    "nameHe": "טלוויזיה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Remote",
+    "nameHe": "שלט",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Vase",
+    "nameHe": "אגרטל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Rice",
+    "nameHe": "אורז",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Pasta",
+    "nameHe": "פסטה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Soup",
+    "nameHe": "מרק",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Chicken",
+    "nameHe": "עוף",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Fish",
+    "nameHe": "דג",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Steak",
+    "nameHe": "סטייק",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Lemon",
+    "nameHe": "לימון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Banana",
+    "nameHe": "בננה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Butter",
+    "nameHe": "חמאה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Salt",
+    "nameHe": "מלח",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Tower",
+    "nameHe": "מגדל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Prison",
+    "nameHe": "בית סוהר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Factory",
+    "nameHe": "מפעל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Farm",
+    "nameHe": "חווה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Market",
+    "nameHe": "שוק",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Garage",
+    "nameHe": "מוסך",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Office",
+    "nameHe": "משרד",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Bank",
+    "nameHe": "בנק",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Hotel",
+    "nameHe": "מלון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Cinema",
+    "nameHe": "קולנוע",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Suitcase",
+    "nameHe": "מזוודה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Tent",
+    "nameHe": "אוהל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Flashlight",
+    "nameHe": "פנס",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Matches",
+    "nameHe": "גפרורים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Candle",
+    "nameHe": "נר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Ladder",
+    "nameHe": "סולם",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Saw",
+    "nameHe": "מסור",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Drill",
+    "nameHe": "מקדחה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Brick",
+    "nameHe": "לבנה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Nail",
+    "nameHe": "מסמר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Tractor",
+    "nameHe": "טרקטור",
+    "category": {
+      "$oid": "69876de125b1a590af8ca609"
+    }
+  },
+  {
+    "nameEn": "Ambulance",
+    "nameHe": "אמבולנס",
+    "category": {
+      "$oid": "69876de125b1a590af8ca609"
+    }
+  },
+  {
+    "nameEn": "Taxi",
+    "nameHe": "מונית",
+    "category": {
+      "$oid": "69876de125b1a590af8ca609"
+    }
+  },
+  {
+    "nameEn": "Scooter",
+    "nameHe": "קורקינט",
+    "category": {
+      "$oid": "69876de125b1a590af8ca609"
+    }
+  },
+  {
+    "nameEn": "Parachute",
+    "nameHe": "מצנח",
+    "category": {
+      "$oid": "69876de125b1a590af8ca609"
+    }
+  },
+  {
+    "nameEn": "Uniform",
+    "nameHe": "מדים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Sneakers",
+    "nameHe": "נעלי ספורט",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Heels",
+    "nameHe": "נעלי עקב",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Glasses",
+    "nameHe": "משקפיים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Jewelry",
+    "nameHe": "תכשיטים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Whisk",
+    "nameHe": "מטרפה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca612"
+    }
+  },
+  {
+    "nameEn": "Toaster",
+    "nameHe": "טוסטר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca612"
+    }
+  },
+  {
+    "nameEn": "Kettle",
+    "nameHe": "קומקום",
+    "category": {
+      "$oid": "69876de125b1a590af8ca612"
+    }
+  },
+  {
+    "nameEn": "Microwave",
+    "nameHe": "מיקרוגל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca612"
+    }
+  },
+  {
+    "nameEn": "Blender",
+    "nameHe": "בלנדר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca612"
+    }
+  },
+  {
+    "nameEn": "Oven",
+    "nameHe": "תנור",
+    "category": {
+      "$oid": "69876de125b1a590af8ca612"
+    }
+  },
+  {
+    "nameEn": "Rolling pin",
+    "nameHe": "מערוך",
+    "category": {
+      "$oid": "69876de125b1a590af8ca612"
+    }
+  },
+  {
+    "nameEn": "Sieve",
+    "nameHe": "מסננת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca612"
+    }
+  },
+  {
+    "nameEn": "Peeler",
+    "nameHe": "קולפן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca612"
+    }
+  },
+  {
+    "nameEn": "Grater",
+    "nameHe": "פומפייה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca612"
+    }
+  },
+  {
+    "nameEn": "Lightning",
+    "nameHe": "ברק",
+    "category": {
+      "$oid": "69876de125b1a590af8ca613"
+    }
+  },
+  {
+    "nameEn": "Tornado",
+    "nameHe": "טורנדו",
+    "category": {
+      "$oid": "69876de125b1a590af8ca613"
+    }
+  },
+  {
+    "nameEn": "Hurricane",
+    "nameHe": "הוריקן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca613"
+    }
+  },
+  {
+    "nameEn": "Fog",
+    "nameHe": "ערפל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca613"
+    }
+  },
+  {
+    "nameEn": "Frost",
+    "nameHe": "כפור",
+    "category": {
+      "$oid": "69876de125b1a590af8ca613"
+    }
+  },
+  {
+    "nameEn": "Hail",
+    "nameHe": "ברד",
+    "category": {
+      "$oid": "69876de125b1a590af8ca613"
+    }
+  },
+  {
+    "nameEn": "Wind",
+    "nameHe": "רוח",
+    "category": {
+      "$oid": "69876de125b1a590af8ca613"
+    }
+  },
+  {
+    "nameEn": "Storm",
+    "nameHe": "סערה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca613"
+    }
+  },
+  {
+    "nameEn": "Dew",
+    "nameHe": "טל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca613"
+    }
+  },
+  {
+    "nameEn": "Snowflake",
+    "nameHe": "פתית שלג",
+    "category": {
+      "$oid": "69876de125b1a590af8ca613"
+    }
+  },
+  {
+    "nameEn": "Concrete",
+    "nameHe": "בטון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca614"
+    }
+  },
+  {
+    "nameEn": "Steel",
+    "nameHe": "פלדה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca614"
+    }
+  },
+  {
+    "nameEn": "Wood",
+    "nameHe": "עץ (חומר)",
+    "category": {
+      "$oid": "69876de125b1a590af8ca614"
+    }
+  },
+  {
+    "nameEn": "Glass",
+    "nameHe": "זכוכית",
+    "category": {
+      "$oid": "69876de125b1a590af8ca614"
+    }
+  },
+  {
+    "nameEn": "Marble",
+    "nameHe": "שיש",
+    "category": {
+      "$oid": "69876de125b1a590af8ca614"
+    }
+  },
+  {
+    "nameEn": "Cement",
+    "nameHe": "מלט",
+    "category": {
+      "$oid": "69876de125b1a590af8ca614"
+    }
+  },
+  {
+    "nameEn": "Plaster",
+    "nameHe": "גבס",
+    "category": {
+      "$oid": "69876de125b1a590af8ca614"
+    }
+  },
+  {
+    "nameEn": "Tile",
+    "nameHe": "אריח",
+    "category": {
+      "$oid": "69876de125b1a590af8ca614"
+    }
+  },
+  {
+    "nameEn": "Pipe",
+    "nameHe": "צינור",
+    "category": {
+      "$oid": "69876de125b1a590af8ca614"
+    }
+  },
+  {
+    "nameEn": "Wire",
+    "nameHe": "תיל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca614"
+    }
+  },
+  {
+    "nameEn": "Wrench",
+    "nameHe": "מפתח ברגים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca615"
+    }
+  },
+  {
+    "nameEn": "Pliers",
+    "nameHe": "פלייר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca615"
+    }
+  },
+  {
+    "nameEn": "Level",
+    "nameHe": "פלס",
+    "category": {
+      "$oid": "69876de125b1a590af8ca615"
+    }
+  },
+  {
+    "nameEn": "Tape measure",
+    "nameHe": "סרט מדידה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca615"
+    }
+  },
+  {
+    "nameEn": "Axe",
+    "nameHe": "גרזן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca615"
+    }
+  },
+  {
+    "nameEn": "Bolt",
+    "nameHe": "בורג (עם אום)",
+    "category": {
+      "$oid": "69876de125b1a590af8ca615"
+    }
+  },
+  {
+    "nameEn": "Nut",
+    "nameHe": "אום",
+    "category": {
+      "$oid": "69876de125b1a590af8ca615"
+    }
+  },
+  {
+    "nameEn": "Chisel",
+    "nameHe": "אזמל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca615"
+    }
+  },
+  {
+    "nameEn": "Sandpaper",
+    "nameHe": "נייר זכוכית",
+    "category": {
+      "$oid": "69876de125b1a590af8ca615"
+    }
+  },
+  {
+    "nameEn": "Clamp",
+    "nameHe": "כליבה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca615"
+    }
+  },
+  {
+    "nameEn": "Liver",
+    "nameHe": "כבד",
+    "category": {
+      "$oid": "69876de125b1a590af8ca610"
+    }
+  },
+  {
+    "nameEn": "Kidney",
+    "nameHe": "כליה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca610"
+    }
+  },
+  {
+    "nameEn": "Stomach",
+    "nameHe": "קיבה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca610"
+    }
+  },
+  {
+    "nameEn": "Tongue",
+    "nameHe": "לשון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca610"
+    }
+  },
+  {
+    "nameEn": "Elbow",
+    "nameHe": "מרפק",
+    "category": {
+      "$oid": "69876de125b1a590af8ca610"
+    }
+  },
+  {
+    "nameEn": "Wrist",
+    "nameHe": "פרק כף היד",
+    "category": {
+      "$oid": "69876de125b1a590af8ca610"
+    }
+  },
+  {
+    "nameEn": "Ankle",
+    "nameHe": "קרסול",
+    "category": {
+      "$oid": "69876de125b1a590af8ca610"
+    }
+  },
+  {
+    "nameEn": "Spine",
+    "nameHe": "עמוד שדרה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca610"
+    }
+  },
+  {
+    "nameEn": "Blood",
+    "nameHe": "דם",
+    "category": {
+      "$oid": "69876de125b1a590af8ca610"
+    }
+  },
+  {
+    "nameEn": "Skin",
+    "nameHe": "עור",
+    "category": {
+      "$oid": "69876de125b1a590af8ca610"
+    }
+  },
+  {
+    "nameEn": "Crocodile",
+    "nameHe": "תנין",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Rhino",
+    "nameHe": "קרנף",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Hippo",
+    "nameHe": "היפופוטם",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Peacock",
+    "nameHe": "טווס",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Swan",
+    "nameHe": "ברבור",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Bat",
+    "nameHe": "עטלף",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Beaver",
+    "nameHe": "בונה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Snail",
+    "nameHe": "חלזון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Worm",
+    "nameHe": "תולעת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Ant",
+    "nameHe": "נמלה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Pear",
+    "nameHe": "אגס",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Peach",
+    "nameHe": "אפרסק",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Cherry",
+    "nameHe": "דובדבן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Mango",
+    "nameHe": "מנגו",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Pineapple",
+    "nameHe": "אננס",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Honey",
+    "nameHe": "דבש",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Sugar",
+    "nameHe": "סוכר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Flour",
+    "nameHe": "קמח",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Olive",
+    "nameHe": "זית",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Mushroom",
+    "nameHe": "פטריה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Subway",
+    "nameHe": "רכבת תחתית",
+    "category": {
+      "$oid": "69876de125b1a590af8ca609"
+    }
+  },
+  {
+    "nameEn": "Canoe",
+    "nameHe": "קאנו",
+    "category": {
+      "$oid": "69876de125b1a590af8ca609"
+    }
+  },
+  {
+    "nameEn": "Glider",
+    "nameHe": "דאון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca609"
+    }
+  },
+  {
+    "nameEn": "Caravan",
+    "nameHe": "קרוואן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca609"
+    }
+  },
+  {
+    "nameEn": "Ferry",
+    "nameHe": "מעבורת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca609"
+    }
+  },
+  {
+    "nameEn": "Skyscraper",
+    "nameHe": "גורד שחקים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Cottage",
+    "nameHe": "בקתה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Palace",
+    "nameHe": "ארמון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Gym",
+    "nameHe": "חדר כושר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Pharmacy",
+    "nameHe": "בית מרקחת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Post office",
+    "nameHe": "דואר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Harbor",
+    "nameHe": "נמל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Library",
+    "nameHe": "ספרייה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Theater",
+    "nameHe": "תיאטרון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Cafeteria",
+    "nameHe": "קפיטריה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Briefcase",
+    "nameHe": "תיק מסמכים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Necklace",
+    "nameHe": "שרשרת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Ring",
+    "nameHe": "טבעת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Bracelet",
+    "nameHe": "צמיד",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Earring",
+    "nameHe": "עגיל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Perfume",
+    "nameHe": "בושם",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Lipstick",
+    "nameHe": "שפתון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Toothbrush",
+    "nameHe": "מברשת שיניים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Razor",
+    "nameHe": "סכין גילוח",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Comb",
+    "nameHe": "מסרק",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Vest",
+    "nameHe": "ווסט",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Shorts",
+    "nameHe": "מכנסיים קצרים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Raincoat",
+    "nameHe": "מעיל גשם",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Pajamas",
+    "nameHe": "פיג'מה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Swimsuit",
+    "nameHe": "בגד ים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Microchip",
+    "nameHe": "שבב",
+    "category": {
+      "$oid": "69876de125b1a590af8ca616"
+    }
+  },
+  {
+    "nameEn": "Circuit board",
+    "nameHe": "לוח מעגלים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca616"
+    }
+  },
+  {
+    "nameEn": "Resistor",
+    "nameHe": "נגד",
+    "category": {
+      "$oid": "69876de125b1a590af8ca616"
+    }
+  },
+  {
+    "nameEn": "Capacitor",
+    "nameHe": "קבל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca616"
+    }
+  },
+  {
+    "nameEn": "Sensor",
+    "nameHe": "חיישן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca616"
+    }
+  },
+  {
+    "nameEn": "Antenna",
+    "nameHe": "אנטנה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca616"
+    }
+  },
+  {
+    "nameEn": "Speaker",
+    "nameHe": "רמקול",
+    "category": {
+      "$oid": "69876de125b1a590af8ca616"
+    }
+  },
+  {
+    "nameEn": "Headphones",
+    "nameHe": "אוזניות",
+    "category": {
+      "$oid": "69876de125b1a590af8ca616"
+    }
+  },
+  {
+    "nameEn": "Charger",
+    "nameHe": "מטען",
+    "category": {
+      "$oid": "69876de125b1a590af8ca616"
+    }
+  },
+  {
+    "nameEn": "Drone",
+    "nameHe": "רחפן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca616"
+    }
+  },
+  {
+    "nameEn": "Starfish",
+    "nameHe": "כוכב ים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca617"
+    }
+  },
+  {
+    "nameEn": "Jellyfish",
+    "nameHe": "מדוזה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca617"
+    }
+  },
+  {
+    "nameEn": "Coral",
+    "nameHe": "אלמוג",
+    "category": {
+      "$oid": "69876de125b1a590af8ca617"
+    }
+  },
+  {
+    "nameEn": "Lobster",
+    "nameHe": "לובסטר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca617"
+    }
+  },
+  {
+    "nameEn": "Shrimp",
+    "nameHe": "חסילון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca617"
+    }
+  },
+  {
+    "nameEn": "Seahorse",
+    "nameHe": "סוסון ים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca617"
+    }
+  },
+  {
+    "nameEn": "Seal",
+    "nameHe": "כלב ים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca617"
+    }
+  },
+  {
+    "nameEn": "Walrus",
+    "nameHe": "ניבתן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca617"
+    }
+  },
+  {
+    "nameEn": "Otter",
+    "nameHe": "לוטרה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca617"
+    }
+  },
+  {
+    "nameEn": "Shell",
+    "nameHe": "צדפה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca617"
+    }
+  },
+  {
+    "nameEn": "Doll",
+    "nameHe": "בובה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca618"
+    }
+  },
+  {
+    "nameEn": "Puzzle",
+    "nameHe": "פאזל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca618"
+    }
+  },
+  {
+    "nameEn": "Dice",
+    "nameHe": "קוביות משחק",
+    "category": {
+      "$oid": "69876de125b1a590af8ca618"
+    }
+  },
+  {
+    "nameEn": "Ball",
+    "nameHe": "כדור",
+    "category": {
+      "$oid": "69876de125b1a590af8ca618"
+    }
+  },
+  {
+    "nameEn": "Teddy bear",
+    "nameHe": "דובי",
+    "category": {
+      "$oid": "69876de125b1a590af8ca618"
+    }
+  },
+  {
+    "nameEn": "Lego brick",
+    "nameHe": "לבנת לגו",
+    "category": {
+      "$oid": "69876de125b1a590af8ca618"
+    }
+  },
+  {
+    "nameEn": "Yo-yo",
+    "nameHe": "יו-יו",
+    "category": {
+      "$oid": "69876de125b1a590af8ca618"
+    }
+  },
+  {
+    "nameEn": "Kite",
+    "nameHe": "עפיפון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca618"
+    }
+  },
+  {
+    "nameEn": "Chessboard",
+    "nameHe": "לוח שחמט",
+    "category": {
+      "$oid": "69876de125b1a590af8ca618"
+    }
+  },
+  {
+    "nameEn": "Playing cards",
+    "nameHe": "קלפי משחק",
+    "category": {
+      "$oid": "69876de125b1a590af8ca618"
+    }
+  },
+  {
+    "nameEn": "Cradle",
+    "nameHe": "עריסה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca619"
+    }
+  },
+  {
+    "nameEn": "Bookshelf",
+    "nameHe": "מדף ספרים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca619"
+    }
+  },
+  {
+    "nameEn": "Bench",
+    "nameHe": "ספסל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca619"
+    }
+  },
+  {
+    "nameEn": "Desk",
+    "nameHe": "שולחן כתיבה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca619"
+    }
+  },
+  {
+    "nameEn": "Cabinet",
+    "nameHe": "ארונית",
+    "category": {
+      "$oid": "69876de125b1a590af8ca619"
+    }
+  },
+  {
+    "nameEn": "Stool",
+    "nameHe": "שרפרף",
+    "category": {
+      "$oid": "69876de125b1a590af8ca619"
+    }
+  },
+  {
+    "nameEn": "Armchair",
+    "nameHe": "כורסה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca619"
+    }
+  },
+  {
+    "nameEn": "Wardrobe",
+    "nameHe": "ארון בגדים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca619"
+    }
+  },
+  {
+    "nameEn": "Mattress",
+    "nameHe": "מזרן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca619"
+    }
+  },
+  {
+    "nameEn": "Headboard",
+    "nameHe": "משענת מיטה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca619"
+    }
+  },
+  {
+    "nameEn": "Wolf",
+    "nameHe": "זאב",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Fox",
+    "nameHe": "שועל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Badger",
+    "nameHe": "גירית",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Hedgehog",
+    "nameHe": "קיפוד",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Hamster",
+    "nameHe": "אוגר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Guinea pig",
+    "nameHe": "שרקן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Lizard",
+    "nameHe": "לטאה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Chameleon",
+    "nameHe": "זיקית",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Raven",
+    "nameHe": "עורב",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Woodpecker",
+    "nameHe": "נקר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Broccoli",
+    "nameHe": "ברוקולי",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Cauliflower",
+    "nameHe": "כרובית",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Eggplant",
+    "nameHe": "חציל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Pepper",
+    "nameHe": "פלפל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Spinach",
+    "nameHe": "תרד",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Asparagus",
+    "nameHe": "אספרגוס",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Almond",
+    "nameHe": "שקד",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Walnut",
+    "nameHe": "אגוז מלך",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Peanut",
+    "nameHe": "בוטן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Coconut",
+    "nameHe": "קוקוס",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Jail",
+    "nameHe": "בית כלא",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Courtroom",
+    "nameHe": "אולם בית משפט",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Playground",
+    "nameHe": "מגרש משחקים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Fountain",
+    "nameHe": "מזרקה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Statue",
+    "nameHe": "פסל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Monument",
+    "nameHe": "אנדרטה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Square",
+    "nameHe": "כיכר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Alley",
+    "nameHe": "סמטה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Highway",
+    "nameHe": "כביש מהיר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Tunnel",
+    "nameHe": "מנהרה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Pancreas",
+    "nameHe": "לבלב",
+    "category": {
+      "$oid": "69876de125b1a590af8ca610"
+    }
+  },
+  {
+    "nameEn": "Bladder",
+    "nameHe": "שלפוחית השתן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca610"
+    }
+  },
+  {
+    "nameEn": "Rib",
+    "nameHe": "צלע",
+    "category": {
+      "$oid": "69876de125b1a590af8ca610"
+    }
+  },
+  {
+    "nameEn": "Jaw",
+    "nameHe": "לסת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca610"
+    }
+  },
+  {
+    "nameEn": "Eyebrow",
+    "nameHe": "גבה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca610"
+    }
+  },
+  {
+    "nameEn": "Eyelash",
+    "nameHe": "ריס",
+    "category": {
+      "$oid": "69876de125b1a590af8ca610"
+    }
+  },
+  {
+    "nameEn": "Nail",
+    "nameHe": "ציפורן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca610"
+    }
+  },
+  {
+    "nameEn": "Thumb",
+    "nameHe": "אגודל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca610"
+    }
+  },
+  {
+    "nameEn": "Heel",
+    "nameHe": "עקב",
+    "category": {
+      "$oid": "69876de125b1a590af8ca610"
+    }
+  },
+  {
+    "nameEn": "Forehead",
+    "nameHe": "מצח",
+    "category": {
+      "$oid": "69876de125b1a590af8ca610"
+    }
+  },
+  {
+    "nameEn": "Compass",
+    "nameHe": "מצפן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Map",
+    "nameHe": "מפה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Globe",
+    "nameHe": "גלובוס",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Magnifying glass",
+    "nameHe": "זכוכית מגדלת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Binoculars",
+    "nameHe": "משקפת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Umbrella",
+    "nameHe": "מטרייה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Cushion",
+    "nameHe": "כרית נוי",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Needle",
+    "nameHe": "מחט",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Thread",
+    "nameHe": "חוט",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Button",
+    "nameHe": "כפתור",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Sweater",
+    "nameHe": "סוודר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Cardigan",
+    "nameHe": "קרדיגן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Tights",
+    "nameHe": "גרביונים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Cape",
+    "nameHe": "גלימה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Slipper",
+    "nameHe": "נעל בית",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Sandals",
+    "nameHe": "סנדלים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Gloves",
+    "nameHe": "כפפות",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Mitten",
+    "nameHe": "כפפה ללא אצבעות",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Bikini",
+    "nameHe": "ביקיני",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Trunks",
+    "nameHe": "בגד ים (גברים)",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Excavator",
+    "nameHe": "מחפר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61a"
+    }
+  },
+  {
+    "nameEn": "Crane",
+    "nameHe": "מנוף",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61a"
+    }
+  },
+  {
+    "nameEn": "Bulldozer",
+    "nameHe": "דחפור",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61a"
+    }
+  },
+  {
+    "nameEn": "Cement mixer",
+    "nameHe": "מערבל בטון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61a"
+    }
+  },
+  {
+    "nameEn": "Forklift",
+    "nameHe": "מלגזה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61a"
+    }
+  },
+  {
+    "nameEn": "Scaffolding",
+    "nameHe": "פיגומים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61a"
+    }
+  },
+  {
+    "nameEn": "Jackhammer",
+    "nameHe": "פטיש אוויר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61a"
+    }
+  },
+  {
+    "nameEn": "Cone",
+    "nameHe": "קונוס תנועה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61a"
+    }
+  },
+  {
+    "nameEn": "Hard hat",
+    "nameHe": "קסדת מגן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61a"
+    }
+  },
+  {
+    "nameEn": "Diamond",
+    "nameHe": "יהלום",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61b"
+    }
+  },
+  {
+    "nameEn": "Ruby",
+    "nameHe": "אודם",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61b"
+    }
+  },
+  {
+    "nameEn": "Emerald",
+    "nameHe": "ברקת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61b"
+    }
+  },
+  {
+    "nameEn": "Sapphire",
+    "nameHe": "ספיר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61b"
+    }
+  },
+  {
+    "nameEn": "Gold",
+    "nameHe": "זהב",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61b"
+    }
+  },
+  {
+    "nameEn": "Silver",
+    "nameHe": "כסף (מתכת)",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61b"
+    }
+  },
+  {
+    "nameEn": "Copper",
+    "nameHe": "נחושת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61b"
+    }
+  },
+  {
+    "nameEn": "Iron",
+    "nameHe": "ברזל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61b"
+    }
+  },
+  {
+    "nameEn": "Quartz",
+    "nameHe": "קוורץ",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61b"
+    }
+  },
+  {
+    "nameEn": "Coal",
+    "nameHe": "פחם",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61b"
+    }
+  },
+  {
+    "nameEn": "Highlighter",
+    "nameHe": "מרקר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61c"
+    }
+  },
+  {
+    "nameEn": "Pencil sharpener",
+    "nameHe": "מחדד",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61c"
+    }
+  },
+  {
+    "nameEn": "Correction tape",
+    "nameHe": "טיפקס",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61c"
+    }
+  },
+  {
+    "nameEn": "Compass",
+    "nameHe": "מחוגה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61c"
+    }
+  },
+  {
+    "nameEn": "Protractor",
+    "nameHe": "מד זווית",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61c"
+    }
+  },
+  {
+    "nameEn": "Clipboard",
+    "nameHe": "לוח כתיבה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61c"
+    }
+  },
+  {
+    "nameEn": "Glue stick",
+    "nameHe": "דבק סטיק",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61c"
+    }
+  },
+  {
+    "nameEn": "Calculator",
+    "nameHe": "מחשבון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61c"
+    }
+  },
+  {
+    "nameEn": "Fountain pen",
+    "nameHe": "עט נובע",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61c"
+    }
+  },
+  {
+    "nameEn": "Chalk",
+    "nameHe": "גיר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61c"
+    }
+  },
+  {
+    "nameEn": "Washing machine",
+    "nameHe": "מכונת כביסה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61d"
+    }
+  },
+  {
+    "nameEn": "Dryer",
+    "nameHe": "מייבש כביסה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61d"
+    }
+  },
+  {
+    "nameEn": "Dishwasher",
+    "nameHe": "מדיח כלים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61d"
+    }
+  },
+  {
+    "nameEn": "Vacuum cleaner",
+    "nameHe": "שואב אבק",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61d"
+    }
+  },
+  {
+    "nameEn": "Air conditioner",
+    "nameHe": "מזגן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61d"
+    }
+  },
+  {
+    "nameEn": "Fan",
+    "nameHe": "מאוורר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61d"
+    }
+  },
+  {
+    "nameEn": "Heater",
+    "nameHe": "תנור חימום",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61d"
+    }
+  },
+  {
+    "nameEn": "Iron",
+    "nameHe": "מגהץ",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61d"
+    }
+  },
+  {
+    "nameEn": "Hairdryer",
+    "nameHe": "מייבש שיער",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61d"
+    }
+  },
+  {
+    "nameEn": "Coffee machine",
+    "nameHe": "מכונת קפה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61d"
+    }
+  },
+  {
+    "nameEn": "Flamingo",
+    "nameHe": "פלמינגו",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Pelican",
+    "nameHe": "שקנאי",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Ostrich",
+    "nameHe": "יען",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Peacock",
+    "nameHe": "טווס",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Swan",
+    "nameHe": "ברבור",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Bat",
+    "nameHe": "עטלף",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Mole",
+    "nameHe": "חפרפרת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Otter",
+    "nameHe": "לוטרה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Sloth",
+    "nameHe": "עצלן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Porcupine",
+    "nameHe": "דורבן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Plum",
+    "nameHe": "שזיף",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Apricot",
+    "nameHe": "משמש",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Pomegranate",
+    "nameHe": "רימון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Fig",
+    "nameHe": "תאנה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Date",
+    "nameHe": "תמר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Walnut",
+    "nameHe": "אגוז מלך",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Hazelnut",
+    "nameHe": "אגוז לוז",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Cinnamon",
+    "nameHe": "קינמון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Basil",
+    "nameHe": "בזיליקום",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Parsley",
+    "nameHe": "פטרוזיליה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "T-shirt",
+    "nameHe": "חולצת טריקו",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Jeans",
+    "nameHe": "ג'ינס",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Suit",
+    "nameHe": "חליפה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Coat",
+    "nameHe": "מעיל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Raincoat",
+    "nameHe": "מעיל גשם",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Bathrobe",
+    "nameHe": "חלוק רחצה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Gloves",
+    "nameHe": "כפפות",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Belt",
+    "nameHe": "חגורה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Wallet",
+    "nameHe": "ארנק",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Handbag",
+    "nameHe": "תיק יד",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Microscope",
+    "nameHe": "מיקרוסקופ",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60b"
+    }
+  },
+  {
+    "nameEn": "Test tube",
+    "nameHe": "מבחנה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60b"
+    }
+  },
+  {
+    "nameEn": "Beaker",
+    "nameHe": "כוס כימית",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60b"
+    }
+  },
+  {
+    "nameEn": "Thermometer",
+    "nameHe": "מדחום",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60b"
+    }
+  },
+  {
+    "nameEn": "Scalpel",
+    "nameHe": "אזמל מנתחים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60b"
+    }
+  },
+  {
+    "nameEn": "Petri dish",
+    "nameHe": "צלחת פטרי",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60b"
+    }
+  },
+  {
+    "nameEn": "Syringe",
+    "nameHe": "מזרק",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60b"
+    }
+  },
+  {
+    "nameEn": "Stethoscope",
+    "nameHe": "סטטוסקופ",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60b"
+    }
+  },
+  {
+    "nameEn": "DNA model",
+    "nameHe": "מודל דנ\"א",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60b"
+    }
+  },
+  {
+    "nameEn": "Prism",
+    "nameHe": "מנסרה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60b"
+    }
+  },
+  {
+    "nameEn": "Castle",
+    "nameHe": "טירה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Palace",
+    "nameHe": "ארמון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Temple",
+    "nameHe": "מקדש",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Pagoda",
+    "nameHe": "פגודה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Pyramid",
+    "nameHe": "פירמידה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Lighthouse",
+    "nameHe": "מגדלור",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Windmill",
+    "nameHe": "תחנת רוח",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Barn",
+    "nameHe": "אסם",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Greenhouse",
+    "nameHe": "חממה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Silo",
+    "nameHe": "סילו",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Tooth",
+    "nameHe": "שן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca610"
+    }
+  },
+  {
+    "nameEn": "Nose",
+    "nameHe": "אף",
+    "category": {
+      "$oid": "69876de125b1a590af8ca610"
+    }
+  },
+  {
+    "nameEn": "Ear",
+    "nameHe": "אוזן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca610"
+    }
+  },
+  {
+    "nameEn": "Eye",
+    "nameHe": "עין",
+    "category": {
+      "$oid": "69876de125b1a590af8ca610"
+    }
+  },
+  {
+    "nameEn": "Mouth",
+    "nameHe": "פה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca610"
+    }
+  },
+  {
+    "nameEn": "Hand",
+    "nameHe": "יד",
+    "category": {
+      "$oid": "69876de125b1a590af8ca610"
+    }
+  },
+  {
+    "nameEn": "Foot",
+    "nameHe": "רגל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca610"
+    }
+  },
+  {
+    "nameEn": "Shoulder",
+    "nameHe": "כתף",
+    "category": {
+      "$oid": "69876de125b1a590af8ca610"
+    }
+  },
+  {
+    "nameEn": "Elbow",
+    "nameHe": "מרפק",
+    "category": {
+      "$oid": "69876de125b1a590af8ca610"
+    }
+  },
+  {
+    "nameEn": "Knee",
+    "nameHe": "ברך",
+    "category": {
+      "$oid": "69876de125b1a590af8ca610"
+    }
+  },
+  {
+    "nameEn": "Sword",
+    "nameHe": "חרב",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61e"
+    }
+  },
+  {
+    "nameEn": "Shield",
+    "nameHe": "מגן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61e"
+    }
+  },
+  {
+    "nameEn": "Helmet",
+    "nameHe": "קסדה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61e"
+    }
+  },
+  {
+    "nameEn": "Bow",
+    "nameHe": "קשת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61e"
+    }
+  },
+  {
+    "nameEn": "Arrow",
+    "nameHe": "חץ",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61e"
+    }
+  },
+  {
+    "nameEn": "Spear",
+    "nameHe": "חנית",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61e"
+    }
+  },
+  {
+    "nameEn": "Armor",
+    "nameHe": "שריון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61e"
+    }
+  },
+  {
+    "nameEn": "Cannon",
+    "nameHe": "תותח",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61e"
+    }
+  },
+  {
+    "nameEn": "Catapult",
+    "nameHe": "בליסטרה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61e"
+    }
+  },
+  {
+    "nameEn": "Axe",
+    "nameHe": "גרזן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61e"
+    }
+  },
+  {
+    "nameEn": "Sleeping bag",
+    "nameHe": "שק שינה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61f"
+    }
+  },
+  {
+    "nameEn": "Lantern",
+    "nameHe": "עששית",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61f"
+    }
+  },
+  {
+    "nameEn": "Campfire",
+    "nameHe": "מדורה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61f"
+    }
+  },
+  {
+    "nameEn": "Backpack",
+    "nameHe": "תרמיל גב",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61f"
+    }
+  },
+  {
+    "nameEn": "Compass",
+    "nameHe": "מצפן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61f"
+    }
+  },
+  {
+    "nameEn": "Canteen",
+    "nameHe": "מימייה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61f"
+    }
+  },
+  {
+    "nameEn": "Binoculars",
+    "nameHe": "משקפת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61f"
+    }
+  },
+  {
+    "nameEn": "Hammock",
+    "nameHe": "ערסל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61f"
+    }
+  },
+  {
+    "nameEn": "Cooler",
+    "nameHe": "צידנית",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61f"
+    }
+  },
+  {
+    "nameEn": "Pocket knife",
+    "nameHe": "אולר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61f"
+    }
+  },
+  {
+    "nameEn": "Engine",
+    "nameHe": "מנוע",
+    "category": {
+      "$oid": "69876de125b1a590af8ca620"
+    }
+  },
+  {
+    "nameEn": "Steering wheel",
+    "nameHe": "הגה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca620"
+    }
+  },
+  {
+    "nameEn": "Tire",
+    "nameHe": "צמיג",
+    "category": {
+      "$oid": "69876de125b1a590af8ca620"
+    }
+  },
+  {
+    "nameEn": "Battery",
+    "nameHe": "מצבר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca620"
+    }
+  },
+  {
+    "nameEn": "Bumper",
+    "nameHe": "פגוש",
+    "category": {
+      "$oid": "69876de125b1a590af8ca620"
+    }
+  },
+  {
+    "nameEn": "Headlight",
+    "nameHe": "פנס קדמי",
+    "category": {
+      "$oid": "69876de125b1a590af8ca620"
+    }
+  },
+  {
+    "nameEn": "Windshield",
+    "nameHe": "שמשה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca620"
+    }
+  },
+  {
+    "nameEn": "Mirror",
+    "nameHe": "מראה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca620"
+    }
+  },
+  {
+    "nameEn": "Exhaust",
+    "nameHe": "מפלט",
+    "category": {
+      "$oid": "69876de125b1a590af8ca620"
+    }
+  },
+  {
+    "nameEn": "Brake",
+    "nameHe": "בלם",
+    "category": {
+      "$oid": "69876de125b1a590af8ca620"
+    }
+  },
+  {
+    "nameEn": "Barrel",
+    "nameHe": "חבית",
+    "category": {
+      "$oid": "69876de125b1a590af8ca621"
+    }
+  },
+  {
+    "nameEn": "Basket",
+    "nameHe": "סל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca621"
+    }
+  },
+  {
+    "nameEn": "Bottle",
+    "nameHe": "בקבוק",
+    "category": {
+      "$oid": "69876de125b1a590af8ca621"
+    }
+  },
+  {
+    "nameEn": "Box",
+    "nameHe": "קופסה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca621"
+    }
+  },
+  {
+    "nameEn": "Bucket",
+    "nameHe": "דלי",
+    "category": {
+      "$oid": "69876de125b1a590af8ca621"
+    }
+  },
+  {
+    "nameEn": "Can",
+    "nameHe": "פחית",
+    "category": {
+      "$oid": "69876de125b1a590af8ca621"
+    }
+  },
+  {
+    "nameEn": "Jar",
+    "nameHe": "צנצנת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca621"
+    }
+  },
+  {
+    "nameEn": "Sack",
+    "nameHe": "שק",
+    "category": {
+      "$oid": "69876de125b1a590af8ca621"
+    }
+  },
+  {
+    "nameEn": "Tray",
+    "nameHe": "מגש",
+    "category": {
+      "$oid": "69876de125b1a590af8ca621"
+    }
+  },
+  {
+    "nameEn": "Crate",
+    "nameHe": "ארגז",
+    "category": {
+      "$oid": "69876de125b1a590af8ca621"
+    }
+  },
+  {
+    "nameEn": "Laptop",
+    "nameHe": "מחשב נייד",
+    "category": {
+      "$oid": "69876de125b1a590af8ca616"
+    }
+  },
+  {
+    "nameEn": "Tablet",
+    "nameHe": "טאבלט",
+    "category": {
+      "$oid": "69876de125b1a590af8ca616"
+    }
+  },
+  {
+    "nameEn": "Cable",
+    "nameHe": "כבל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca616"
+    }
+  },
+  {
+    "nameEn": "Plug",
+    "nameHe": "תקע",
+    "category": {
+      "$oid": "69876de125b1a590af8ca616"
+    }
+  },
+  {
+    "nameEn": "Socket",
+    "nameHe": "שקע",
+    "category": {
+      "$oid": "69876de125b1a590af8ca616"
+    }
+  },
+  {
+    "nameEn": "Router",
+    "nameHe": "נתב",
+    "category": {
+      "$oid": "69876de125b1a590af8ca616"
+    }
+  },
+  {
+    "nameEn": "Projector",
+    "nameHe": "מקרן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca616"
+    }
+  },
+  {
+    "nameEn": "Microphone",
+    "nameHe": "מיקרופון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca616"
+    }
+  },
+  {
+    "nameEn": "Remote",
+    "nameHe": "שלט רחוק",
+    "category": {
+      "$oid": "69876de125b1a590af8ca616"
+    }
+  },
+  {
+    "nameEn": "Switch",
+    "nameHe": "מתג",
+    "category": {
+      "$oid": "69876de125b1a590af8ca616"
+    }
+  },
+  {
+    "nameEn": "Sausage",
+    "nameHe": "נקניקייה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Honey",
+    "nameHe": "דבש",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Yogurt",
+    "nameHe": "יוגורט",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Muffin",
+    "nameHe": "מאפין",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Taco",
+    "nameHe": "טאקו",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Noodle",
+    "nameHe": "אטרייה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Cereal",
+    "nameHe": "דגני בוקר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Waffle",
+    "nameHe": "וופל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Pancake",
+    "nameHe": "פנקייק",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Toast",
+    "nameHe": "צנים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Scorpion",
+    "nameHe": "עקרב",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Spider",
+    "nameHe": "עכביש",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Lizard",
+    "nameHe": "לטאה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Alligator",
+    "nameHe": "אליגטור",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Cheetah",
+    "nameHe": "ברדלס",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Hyena",
+    "nameHe": "צבוע",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Koala",
+    "nameHe": "קואלה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Platypus",
+    "nameHe": "ברווזן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Moose",
+    "nameHe": "אייל קורא",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Goat",
+    "nameHe": "עז",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Parking lot",
+    "nameHe": "חניון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Plaza",
+    "nameHe": "רחבה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Port",
+    "nameHe": "נמל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Quarry",
+    "nameHe": "מחצבה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Reservoir",
+    "nameHe": "מאגר מים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Resort",
+    "nameHe": "אתר נופש",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Ruins",
+    "nameHe": "הריסות",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Safari",
+    "nameHe": "ספארי",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Sanctuary",
+    "nameHe": "בית מקדש",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Shipyard",
+    "nameHe": "מספנה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Anvil",
+    "nameHe": "סדן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Broom",
+    "nameHe": "מטאטא",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Chain",
+    "nameHe": "שרשרת (מתכת)",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Curtain",
+    "nameHe": "וילון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Dice",
+    "nameHe": "קוביות",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Feather",
+    "nameHe": "נוצה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Gavel",
+    "nameHe": "פטיש שופטים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Hook",
+    "nameHe": "וו",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Knot",
+    "nameHe": "קשר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Lever",
+    "nameHe": "מנוף (מכני)",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Tuxedo",
+    "nameHe": "טוקסידו",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Gown",
+    "nameHe": "שמלת ערב",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Overall",
+    "nameHe": "סרבל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Shawl",
+    "nameHe": "צעיף כתפיים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Suspenders",
+    "nameHe": "שלייקעס",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Bowtie",
+    "nameHe": "עניבת פרפר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Leggings",
+    "nameHe": "טייץ",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Beret",
+    "nameHe": "כומתה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Cufflink",
+    "nameHe": "חפת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Veil",
+    "nameHe": "הינומה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Soap",
+    "nameHe": "סבון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca622"
+    }
+  },
+  {
+    "nameEn": "Shampoo",
+    "nameHe": "שמפו",
+    "category": {
+      "$oid": "69876de125b1a590af8ca622"
+    }
+  },
+  {
+    "nameEn": "Sponge",
+    "nameHe": "ספוג",
+    "category": {
+      "$oid": "69876de125b1a590af8ca622"
+    }
+  },
+  {
+    "nameEn": "Floss",
+    "nameHe": "חוט דנטלי",
+    "category": {
+      "$oid": "69876de125b1a590af8ca622"
+    }
+  },
+  {
+    "nameEn": "Mouthwash",
+    "nameHe": "מי פה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca622"
+    }
+  },
+  {
+    "nameEn": "Lotion",
+    "nameHe": "תחליב",
+    "category": {
+      "$oid": "69876de125b1a590af8ca622"
+    }
+  },
+  {
+    "nameEn": "Deodorant",
+    "nameHe": "דאודורנט",
+    "category": {
+      "$oid": "69876de125b1a590af8ca622"
+    }
+  },
+  {
+    "nameEn": "Cotton swab",
+    "nameHe": "מקלון אוזניים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca622"
+    }
+  },
+  {
+    "nameEn": "Tweezers",
+    "nameHe": "פינצטה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca622"
+    }
+  },
+  {
+    "nameEn": "Nail clipper",
+    "nameHe": "קוצץ ציפורניים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca622"
+    }
+  },
+  {
+    "nameEn": "Canvas",
+    "nameHe": "קנבס",
+    "category": {
+      "$oid": "69876de125b1a590af8ca623"
+    }
+  },
+  {
+    "nameEn": "Easels",
+    "nameHe": "כן ציור",
+    "category": {
+      "$oid": "69876de125b1a590af8ca623"
+    }
+  },
+  {
+    "nameEn": "Paintbrush",
+    "nameHe": "מכחול",
+    "category": {
+      "$oid": "69876de125b1a590af8ca623"
+    }
+  },
+  {
+    "nameEn": "Palette",
+    "nameHe": "פלטה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca623"
+    }
+  },
+  {
+    "nameEn": "Clay",
+    "nameHe": "חימר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca623"
+    }
+  },
+  {
+    "nameEn": "Glitter",
+    "nameHe": "נצנצים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca623"
+    }
+  },
+  {
+    "nameEn": "Yarn",
+    "nameHe": "חוט צמר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca623"
+    }
+  },
+  {
+    "nameEn": "Needle",
+    "nameHe": "מחט סריגה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca623"
+    }
+  },
+  {
+    "nameEn": "Sketchbook",
+    "nameHe": "מחברת רישום",
+    "category": {
+      "$oid": "69876de125b1a590af8ca623"
+    }
+  },
+  {
+    "nameEn": "Stencil",
+    "nameHe": "שבלונה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca623"
+    }
+  },
+  {
+    "nameEn": "Galaxy",
+    "nameHe": "גלקסיה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca624"
+    }
+  },
+  {
+    "nameEn": "Nebula",
+    "nameHe": "ערפילית",
+    "category": {
+      "$oid": "69876de125b1a590af8ca624"
+    }
+  },
+  {
+    "nameEn": "Constellation",
+    "nameHe": "קבוצת כוכבים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca624"
+    }
+  },
+  {
+    "nameEn": "Meteorite",
+    "nameHe": "מטאוריט",
+    "category": {
+      "$oid": "69876de125b1a590af8ca624"
+    }
+  },
+  {
+    "nameEn": "Black hole",
+    "nameHe": "חור שחור",
+    "category": {
+      "$oid": "69876de125b1a590af8ca624"
+    }
+  },
+  {
+    "nameEn": "Quasar",
+    "nameHe": "קוואזר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca624"
+    }
+  },
+  {
+    "nameEn": "Pulsar",
+    "nameHe": "פולסאר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca624"
+    }
+  },
+  {
+    "nameEn": "Supernova",
+    "nameHe": "סופרנובה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca624"
+    }
+  },
+  {
+    "nameEn": "Eclipse",
+    "nameHe": "ליקוי",
+    "category": {
+      "$oid": "69876de125b1a590af8ca624"
+    }
+  },
+  {
+    "nameEn": "Auroras",
+    "nameHe": "זוהר הקוטב",
+    "category": {
+      "$oid": "69876de125b1a590af8ca624"
+    }
+  },
+  {
+    "nameEn": "Mop",
+    "nameHe": "סמרטוט רצפה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Dustpan",
+    "nameHe": "יע וי",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Ironing board",
+    "nameHe": "קרש גיהוץ",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Hanger",
+    "nameHe": "קולב",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Clothespin",
+    "nameHe": "אטב כביסה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Trash can",
+    "nameHe": "פח אשפה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Plug",
+    "nameHe": "פקק",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Drain",
+    "nameHe": "ניקוז",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Faucet",
+    "nameHe": "ברז",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Switch",
+    "nameHe": "מפסק",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Cabbage",
+    "nameHe": "כרוב",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Lettuce",
+    "nameHe": "חסה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Radish",
+    "nameHe": "צנונית",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Beet",
+    "nameHe": "סלק",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Pumpkin",
+    "nameHe": "דלעת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Zucchini",
+    "nameHe": "קישוא",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Pea",
+    "nameHe": "אפונה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Bean",
+    "nameHe": "שעועית",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Lentil",
+    "nameHe": "עדשה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Chickpea",
+    "nameHe": "חומוס (גרגר)",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Squirrel",
+    "nameHe": "סנאי",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Chipmunk",
+    "nameHe": "טמניאס",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Beaver",
+    "nameHe": "בונה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Mole",
+    "nameHe": "חפרפרת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Raccoon",
+    "nameHe": "דביבון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Skunk",
+    "nameHe": "בואש",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Porcupine",
+    "nameHe": "דורבן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Armadillo",
+    "nameHe": "ארמדילו",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Sloth",
+    "nameHe": "עצלן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Anteater",
+    "nameHe": "דוב נמלים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Cactus",
+    "nameHe": "קקטוס",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Fern",
+    "nameHe": "שרך",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Moss",
+    "nameHe": "טחב",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Mushroom",
+    "nameHe": "פטריה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Bamboo",
+    "nameHe": "במבוק",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Palm",
+    "nameHe": "דקל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Pine",
+    "nameHe": "אורן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Seaweed",
+    "nameHe": "אצות",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Coral",
+    "nameHe": "אלמוג",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Reed",
+    "nameHe": "קנה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Postcard",
+    "nameHe": "גלויה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60e"
+    }
+  },
+  {
+    "nameEn": "Tape",
+    "nameHe": "סרט דביק",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60e"
+    }
+  },
+  {
+    "nameEn": "Binder",
+    "nameHe": "קלסר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60e"
+    }
+  },
+  {
+    "nameEn": "Paper",
+    "nameHe": "נייר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60e"
+    }
+  },
+  {
+    "nameEn": "Carton",
+    "nameHe": "קרטון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60e"
+    }
+  },
+  {
+    "nameEn": "Eraser",
+    "nameHe": "מחק",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60e"
+    }
+  },
+  {
+    "nameEn": "Pushpin",
+    "nameHe": "נעץ",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60e"
+    }
+  },
+  {
+    "nameEn": "Ink",
+    "nameHe": "דיו",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60e"
+    }
+  },
+  {
+    "nameEn": "Magnifying glass",
+    "nameHe": "זכוכית מגדלת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60e"
+    }
+  },
+  {
+    "nameEn": "Ledger",
+    "nameHe": "ספר חשבונות",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60e"
+    }
+  },
+  {
+    "nameEn": "Bunk bed",
+    "nameHe": "מיטת קומותיים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca619"
+    }
+  },
+  {
+    "nameEn": "Ottoman",
+    "nameHe": "הדום",
+    "category": {
+      "$oid": "69876de125b1a590af8ca619"
+    }
+  },
+  {
+    "nameEn": "Sideboard",
+    "nameHe": "מזנון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca619"
+    }
+  },
+  {
+    "nameEn": "Coffee table",
+    "nameHe": "שולחן סלון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca619"
+    }
+  },
+  {
+    "nameEn": "Coat rack",
+    "nameHe": "מתלה מעילים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca619"
+    }
+  },
+  {
+    "nameEn": "Dresser",
+    "nameHe": "שידה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca619"
+    }
+  },
+  {
+    "nameEn": "Nightstand",
+    "nameHe": "שידת לילה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca619"
+    }
+  },
+  {
+    "nameEn": "Counter",
+    "nameHe": "דלפק",
+    "category": {
+      "$oid": "69876de125b1a590af8ca619"
+    }
+  },
+  {
+    "nameEn": "Cabinet",
+    "nameHe": "ארון מטבח",
+    "category": {
+      "$oid": "69876de125b1a590af8ca619"
+    }
+  },
+  {
+    "nameEn": "Drawer",
+    "nameHe": "מגירה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca619"
+    }
+  },
+  {
+    "nameEn": "Engine",
+    "nameHe": "מנוע",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60b"
+    }
+  },
+  {
+    "nameEn": "Turbine",
+    "nameHe": "טורבינה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60b"
+    }
+  },
+  {
+    "nameEn": "Generator",
+    "nameHe": "גנרטור",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60b"
+    }
+  },
+  {
+    "nameEn": "Lever",
+    "nameHe": "מנוף",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60b"
+    }
+  },
+  {
+    "nameEn": "Pulley",
+    "nameHe": "גלגלת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60b"
+    }
+  },
+  {
+    "nameEn": "Wedge",
+    "nameHe": "טריז",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60b"
+    }
+  },
+  {
+    "nameEn": "Axle",
+    "nameHe": "סרן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60b"
+    }
+  },
+  {
+    "nameEn": "Scale",
+    "nameHe": "מאזניים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60b"
+    }
+  },
+  {
+    "nameEn": "Magnet",
+    "nameHe": "מגנט",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60b"
+    }
+  },
+  {
+    "nameEn": "Lens",
+    "nameHe": "עדשה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60b"
+    }
+  },
+  {
+    "nameEn": "Wheelchair",
+    "nameHe": "כיסא גלגלים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca625"
+    }
+  },
+  {
+    "nameEn": "Crutches",
+    "nameHe": "קבייים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca625"
+    }
+  },
+  {
+    "nameEn": "Stretcher",
+    "nameHe": "אלונקה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca625"
+    }
+  },
+  {
+    "nameEn": "Bandage",
+    "nameHe": "תחבושת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca625"
+    }
+  },
+  {
+    "nameEn": "Thermometer",
+    "nameHe": "מדחום",
+    "category": {
+      "$oid": "69876de125b1a590af8ca625"
+    }
+  },
+  {
+    "nameEn": "Inhaler",
+    "nameHe": "משאף",
+    "category": {
+      "$oid": "69876de125b1a590af8ca625"
+    }
+  },
+  {
+    "nameEn": "Scalpel",
+    "nameHe": "אזמל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca625"
+    }
+  },
+  {
+    "nameEn": "Mask",
+    "nameHe": "מסכה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca625"
+    }
+  },
+  {
+    "nameEn": "Gloves",
+    "nameHe": "כפפות חד פעמיות",
+    "category": {
+      "$oid": "69876de125b1a590af8ca625"
+    }
+  },
+  {
+    "nameEn": "IV Drip",
+    "nameHe": "אינפוזיה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca625"
+    }
+  },
+  {
+    "nameEn": "Ladybug",
+    "nameHe": "מושית השבע (פרת משה רבנו)",
+    "category": {
+      "$oid": "69876de125b1a590af8ca626"
+    }
+  },
+  {
+    "nameEn": "Grasshopper",
+    "nameHe": "חגב",
+    "category": {
+      "$oid": "69876de125b1a590af8ca626"
+    }
+  },
+  {
+    "nameEn": "Dragonfly",
+    "nameHe": "שפירית",
+    "category": {
+      "$oid": "69876de125b1a590af8ca626"
+    }
+  },
+  {
+    "nameEn": "Mosquito",
+    "nameHe": "יתוש",
+    "category": {
+      "$oid": "69876de125b1a590af8ca626"
+    }
+  },
+  {
+    "nameEn": "Caterpillar",
+    "nameHe": "זחל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca626"
+    }
+  },
+  {
+    "nameEn": "Moth",
+    "nameHe": "עש",
+    "category": {
+      "$oid": "69876de125b1a590af8ca626"
+    }
+  },
+  {
+    "nameEn": "Cockroach",
+    "nameHe": "תיקן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca626"
+    }
+  },
+  {
+    "nameEn": "Beetle",
+    "nameHe": "חיפושית",
+    "category": {
+      "$oid": "69876de125b1a590af8ca626"
+    }
+  },
+  {
+    "nameEn": "Wasp",
+    "nameHe": "צרעה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca626"
+    }
+  },
+  {
+    "nameEn": "Fly",
+    "nameHe": "זבוב",
+    "category": {
+      "$oid": "69876de125b1a590af8ca626"
+    }
+  },
+  {
+    "nameEn": "Lens cap",
+    "nameHe": "מכסה עדשה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca627"
+    }
+  },
+  {
+    "nameEn": "Tripod",
+    "nameHe": "חצובה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca627"
+    }
+  },
+  {
+    "nameEn": "Flash",
+    "nameHe": "מבזק",
+    "category": {
+      "$oid": "69876de125b1a590af8ca627"
+    }
+  },
+  {
+    "nameEn": "Memory card",
+    "nameHe": "כרטיס זיכרון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca627"
+    }
+  },
+  {
+    "nameEn": "Reflector",
+    "nameHe": "רפלקטור",
+    "category": {
+      "$oid": "69876de125b1a590af8ca627"
+    }
+  },
+  {
+    "nameEn": "Shutter",
+    "nameHe": "תריס",
+    "category": {
+      "$oid": "69876de125b1a590af8ca627"
+    }
+  },
+  {
+    "nameEn": "Viewfinder",
+    "nameHe": "עינית",
+    "category": {
+      "$oid": "69876de125b1a590af8ca627"
+    }
+  },
+  {
+    "nameEn": "Strap",
+    "nameHe": "רצועה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca627"
+    }
+  },
+  {
+    "nameEn": "Battery pack",
+    "nameHe": "סוללה רזרבית",
+    "category": {
+      "$oid": "69876de125b1a590af8ca627"
+    }
+  },
+  {
+    "nameEn": "Filter",
+    "nameHe": "פילטר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca627"
+    }
+  },
+  {
+    "nameEn": "Thimble",
+    "nameHe": "אצבעון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca628"
+    }
+  },
+  {
+    "nameEn": "Sewing machine",
+    "nameHe": "מכונת תפירה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca628"
+    }
+  },
+  {
+    "nameEn": "Mannequin",
+    "nameHe": "בובת תצוגה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca628"
+    }
+  },
+  {
+    "nameEn": "Pattern",
+    "nameHe": "גזרה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca628"
+    }
+  },
+  {
+    "nameEn": "Zipper",
+    "nameHe": "רוכסן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca628"
+    }
+  },
+  {
+    "nameEn": "Fabric",
+    "nameHe": "בד",
+    "category": {
+      "$oid": "69876de125b1a590af8ca628"
+    }
+  },
+  {
+    "nameEn": "Chalk",
+    "nameHe": "גיר סימון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca628"
+    }
+  },
+  {
+    "nameEn": "Pin",
+    "nameHe": "סיכה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca628"
+    }
+  },
+  {
+    "nameEn": "Thread spool",
+    "nameHe": "סליל חוט",
+    "category": {
+      "$oid": "69876de125b1a590af8ca628"
+    }
+  },
+  {
+    "nameEn": "Elastic",
+    "nameHe": "גומי",
+    "category": {
+      "$oid": "69876de125b1a590af8ca628"
+    }
+  },
+  {
+    "nameEn": "Arch",
+    "nameHe": "קשת (מבנה)",
+    "category": {
+      "$oid": "69876de125b1a590af8ca629"
+    }
+  },
+  {
+    "nameEn": "Column",
+    "nameHe": "עמוד",
+    "category": {
+      "$oid": "69876de125b1a590af8ca629"
+    }
+  },
+  {
+    "nameEn": "Dome",
+    "nameHe": "כיפה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca629"
+    }
+  },
+  {
+    "nameEn": "Balcony",
+    "nameHe": "מרפסת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca629"
+    }
+  },
+  {
+    "nameEn": "Ceiling",
+    "nameHe": "תקרה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca629"
+    }
+  },
+  {
+    "nameEn": "Floor",
+    "nameHe": "רצפה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca629"
+    }
+  },
+  {
+    "nameEn": "Wall",
+    "nameHe": "קיר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca629"
+    }
+  },
+  {
+    "nameEn": "Beam",
+    "nameHe": "קורה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca629"
+    }
+  },
+  {
+    "nameEn": "Staircase",
+    "nameHe": "גרם מדרגות",
+    "category": {
+      "$oid": "69876de125b1a590af8ca629"
+    }
+  },
+  {
+    "nameEn": "Chimney",
+    "nameHe": "ארובה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca629"
+    }
+  },
+  {
+    "nameEn": "Walnut",
+    "nameHe": "אגוז מלך",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Honey",
+    "nameHe": "דבש",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Pickle",
+    "nameHe": "מלפפון חמוץ",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Mustard",
+    "nameHe": "חרדל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Ketchup",
+    "nameHe": "קטשופ",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Vinegar",
+    "nameHe": "חומץ",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Spice",
+    "nameHe": "תבלין",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Flour",
+    "nameHe": "קמח",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Wheat",
+    "nameHe": "חיטה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Oat",
+    "nameHe": "שיבולת שועל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Ship",
+    "nameHe": "ספינה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca609"
+    }
+  },
+  {
+    "nameEn": "Yacht",
+    "nameHe": "יאכטה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca609"
+    }
+  },
+  {
+    "nameEn": "Canoe",
+    "nameHe": "קאנו",
+    "category": {
+      "$oid": "69876de125b1a590af8ca609"
+    }
+  },
+  {
+    "nameEn": "Scooter",
+    "nameHe": "קורקינט",
+    "category": {
+      "$oid": "69876de125b1a590af8ca609"
+    }
+  },
+  {
+    "nameEn": "Wheelbarrow",
+    "nameHe": "מריצה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca609"
+    }
+  },
+  {
+    "nameEn": "Crane",
+    "nameHe": "מנוף",
+    "category": {
+      "$oid": "69876de125b1a590af8ca609"
+    }
+  },
+  {
+    "nameEn": "Skateboard",
+    "nameHe": "סקייטבורד",
+    "category": {
+      "$oid": "69876de125b1a590af8ca609"
+    }
+  },
+  {
+    "nameEn": "Trolley",
+    "nameHe": "עגלת קניות",
+    "category": {
+      "$oid": "69876de125b1a590af8ca609"
+    }
+  },
+  {
+    "nameEn": "Stroller",
+    "nameHe": "עגלת תינוק",
+    "category": {
+      "$oid": "69876de125b1a590af8ca609"
+    }
+  },
+  {
+    "nameEn": "Sled",
+    "nameHe": "מזחלת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca609"
+    }
+  },
+  {
+    "nameEn": "Owl",
+    "nameHe": "ינשוף",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Seagull",
+    "nameHe": "שחף",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Woodpecker",
+    "nameHe": "נקר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Pigeon",
+    "nameHe": "יונה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Crow",
+    "nameHe": "עורב",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Swan",
+    "nameHe": "ברבור",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Turkey",
+    "nameHe": "תרנגול הודו",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Rooster",
+    "nameHe": "תרנגול",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Hen",
+    "nameHe": "תרנגולת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Chick",
+    "nameHe": "אפרוח",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Trophy",
+    "nameHe": "גביע",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Medal",
+    "nameHe": "מדליה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Flag",
+    "nameHe": "דגל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Badge",
+    "nameHe": "תג",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Ticket",
+    "nameHe": "כרטיס",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Receipt",
+    "nameHe": "קבלה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Newspaper",
+    "nameHe": "עיתון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Magazine",
+    "nameHe": "מגזין",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Poster",
+    "nameHe": "פוסטר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Map",
+    "nameHe": "מפה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Park",
+    "nameHe": "פארק",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Garden",
+    "nameHe": "גינה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Zoo",
+    "nameHe": "גן חיות",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Aquarium",
+    "nameHe": "אקווריום (מקום)",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Stadium",
+    "nameHe": "אצטדיון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Gym",
+    "nameHe": "חדר כושר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Plaza",
+    "nameHe": "רחבה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Square",
+    "nameHe": "כיכר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Alley",
+    "nameHe": "סמטה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Boulevard",
+    "nameHe": "שדרה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Dumbbell",
+    "nameHe": "משקולת יד",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62a"
+    }
+  },
+  {
+    "nameEn": "Barbell",
+    "nameHe": "מוט משקולות",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62a"
+    }
+  },
+  {
+    "nameEn": "Treadmill",
+    "nameHe": "הליכון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62a"
+    }
+  },
+  {
+    "nameEn": "Racket",
+    "nameHe": "מחבט",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62a"
+    }
+  },
+  {
+    "nameEn": "Shuttlecock",
+    "nameHe": "כדור נוצה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62a"
+    }
+  },
+  {
+    "nameEn": "Golf club",
+    "nameHe": "מקל גולף",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62a"
+    }
+  },
+  {
+    "nameEn": "Surfboard",
+    "nameHe": "גלשן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62a"
+    }
+  },
+  {
+    "nameEn": "Bat",
+    "nameHe": "מחבט בייסבול",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62a"
+    }
+  },
+  {
+    "nameEn": "Glove",
+    "nameHe": "כפפת איגרוף",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62a"
+    }
+  },
+  {
+    "nameEn": "Helmet",
+    "nameHe": "קסדת ספורט",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62a"
+    }
+  },
+  {
+    "nameEn": "Bathtub",
+    "nameHe": "אמבטיה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62b"
+    }
+  },
+  {
+    "nameEn": "Shower",
+    "nameHe": "מקלחת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62b"
+    }
+  },
+  {
+    "nameEn": "Toilet",
+    "nameHe": "אסלה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62b"
+    }
+  },
+  {
+    "nameEn": "Sink",
+    "nameHe": "כיור",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62b"
+    }
+  },
+  {
+    "nameEn": "Faucet",
+    "nameHe": "ברז",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62b"
+    }
+  },
+  {
+    "nameEn": "Plunger",
+    "nameHe": "פומפה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62b"
+    }
+  },
+  {
+    "nameEn": "Tile",
+    "nameHe": "אריח",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62b"
+    }
+  },
+  {
+    "nameEn": "Towel rack",
+    "nameHe": "מתלה מגבות",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62b"
+    }
+  },
+  {
+    "nameEn": "Mirror",
+    "nameHe": "מראה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62b"
+    }
+  },
+  {
+    "nameEn": "Scale",
+    "nameHe": "משקל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62b"
+    }
+  },
+  {
+    "nameEn": "Drill",
+    "nameHe": "מקדחה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62c"
+    }
+  },
+  {
+    "nameEn": "Saw",
+    "nameHe": "מסור",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62c"
+    }
+  },
+  {
+    "nameEn": "Hammer",
+    "nameHe": "פטיש",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62c"
+    }
+  },
+  {
+    "nameEn": "Wrench",
+    "nameHe": "מפתח ברגים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62c"
+    }
+  },
+  {
+    "nameEn": "Pliers",
+    "nameHe": "פלייר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62c"
+    }
+  },
+  {
+    "nameEn": "Tape measure",
+    "nameHe": "סרט מדידה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62c"
+    }
+  },
+  {
+    "nameEn": "Level",
+    "nameHe": "פלס",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62c"
+    }
+  },
+  {
+    "nameEn": "Screw",
+    "nameHe": "בורג",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62c"
+    }
+  },
+  {
+    "nameEn": "Nail",
+    "nameHe": "מסמר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62c"
+    }
+  },
+  {
+    "nameEn": "Bolt",
+    "nameHe": "בורג הברגה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62c"
+    }
+  },
+  {
+    "nameEn": "Flashlight",
+    "nameHe": "פנס",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62d"
+    }
+  },
+  {
+    "nameEn": "Whistle",
+    "nameHe": "משרוקית",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62d"
+    }
+  },
+  {
+    "nameEn": "Generator",
+    "nameHe": "גנרטור",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62d"
+    }
+  },
+  {
+    "nameEn": "Battery",
+    "nameHe": "סוללה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62d"
+    }
+  },
+  {
+    "nameEn": "Flare",
+    "nameHe": "נור",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62d"
+    }
+  },
+  {
+    "nameEn": "First aid kit",
+    "nameHe": "ערכת עזרה ראשונה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62d"
+    }
+  },
+  {
+    "nameEn": "Fire extinguisher",
+    "nameHe": "מטף",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62d"
+    }
+  },
+  {
+    "nameEn": "Life jacket",
+    "nameHe": "חליפת הצלה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62d"
+    }
+  },
+  {
+    "nameEn": "Radio",
+    "nameHe": "רדיו",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62d"
+    }
+  },
+  {
+    "nameEn": "Rope",
+    "nameHe": "חבל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62d"
+    }
+  },
+  {
+    "nameEn": "Clover",
+    "nameHe": "תלתן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Mushroom",
+    "nameHe": "פטריה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Pinecone",
+    "nameHe": "אצטרובל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Log",
+    "nameHe": "בול עץ",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Twig",
+    "nameHe": "זרד",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Pebble",
+    "nameHe": "חלוק נחל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Coral",
+    "nameHe": "אלמוג",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Shell",
+    "nameHe": "קונכייה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Star",
+    "nameHe": "כוכב",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Cloud",
+    "nameHe": "ענן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca605"
+    }
+  },
+  {
+    "nameEn": "Donut",
+    "nameHe": "סופגנייה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Cookie",
+    "nameHe": "עוגייה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Ice cream",
+    "nameHe": "גלידה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Chocolate",
+    "nameHe": "שוקולד",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Honey",
+    "nameHe": "דבש",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Jam",
+    "nameHe": "ריבה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Syrup",
+    "nameHe": "סירופ",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Popcorn",
+    "nameHe": "פופקורן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Nuts",
+    "nameHe": "אגוזים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Candy",
+    "nameHe": "סוכרייה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca607"
+    }
+  },
+  {
+    "nameEn": "Lion",
+    "nameHe": "אריה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Tiger",
+    "nameHe": "נמר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Bear",
+    "nameHe": "דוב",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Deer",
+    "nameHe": "אייל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Fox",
+    "nameHe": "שועל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Wolf",
+    "nameHe": "זאב",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Zebra",
+    "nameHe": "זברה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Giraffe",
+    "nameHe": "ג'ירפה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Camel",
+    "nameHe": "גמל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Elephant",
+    "nameHe": "פיל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Pillow",
+    "nameHe": "כרית",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Blanket",
+    "nameHe": "שמיכה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Curtain",
+    "nameHe": "וילון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Rug",
+    "nameHe": "שטיח",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Clock",
+    "nameHe": "שעון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Lamp",
+    "nameHe": "מנורה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Vase",
+    "nameHe": "אגרטל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Key",
+    "nameHe": "מפתח",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Lock",
+    "nameHe": "מנעול",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Wallet",
+    "nameHe": "ארנק",
+    "category": {
+      "$oid": "69876de125b1a590af8ca604"
+    }
+  },
+  {
+    "nameEn": "Hat",
+    "nameHe": "כובע",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Scarf",
+    "nameHe": "צעיף",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Gloves",
+    "nameHe": "כפפות",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Socks",
+    "nameHe": "גרביים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Shoes",
+    "nameHe": "נעליים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Shirt",
+    "nameHe": "חולצה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Pants",
+    "nameHe": "מכנסיים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Jacket",
+    "nameHe": "ז'קט",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Dress",
+    "nameHe": "שמלה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Belt",
+    "nameHe": "חגורה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "House",
+    "nameHe": "בית",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Building",
+    "nameHe": "בניין",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Office",
+    "nameHe": "משרד",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Store",
+    "nameHe": "חנות",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "School",
+    "nameHe": "בית ספר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Library",
+    "nameHe": "ספרייה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Hospital",
+    "nameHe": "בית חולים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Park",
+    "nameHe": "פארק",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Beach",
+    "nameHe": "חוף הים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Mountain",
+    "nameHe": "הר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca608"
+    }
+  },
+  {
+    "nameEn": "Solar panel",
+    "nameHe": "לוח סולארי",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62e"
+    }
+  },
+  {
+    "nameEn": "Wind turbine",
+    "nameHe": "טורבינת רוח",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62e"
+    }
+  },
+  {
+    "nameEn": "Inverter",
+    "nameHe": "ממיר מתח",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62e"
+    }
+  },
+  {
+    "nameEn": "Dam",
+    "nameHe": "סכר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62e"
+    }
+  },
+  {
+    "nameEn": "Biofuel",
+    "nameHe": "דלק ביולוגי",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62e"
+    }
+  },
+  {
+    "nameEn": "Geothermal vent",
+    "nameHe": "פתח גיאותרמי",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62e"
+    }
+  },
+  {
+    "nameEn": "Canyon",
+    "nameHe": "קניון (גיאולוגיה)",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62f"
+    }
+  },
+  {
+    "nameEn": "Plateau",
+    "nameHe": "רמה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62f"
+    }
+  },
+  {
+    "nameEn": "Valley",
+    "nameHe": "עמק",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62f"
+    }
+  },
+  {
+    "nameEn": "Glacier",
+    "nameHe": "קרחון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62f"
+    }
+  },
+  {
+    "nameEn": "Peninsula",
+    "nameHe": "חצי אי",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62f"
+    }
+  },
+  {
+    "nameEn": "Swamp",
+    "nameHe": "ביצה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62f"
+    }
+  },
+  {
+    "nameEn": "Oasis",
+    "nameHe": "נווה מדבר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62f"
+    }
+  },
+  {
+    "nameEn": "Desert",
+    "nameHe": "מדבר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62f"
+    }
+  },
+  {
+    "nameEn": "Dune",
+    "nameHe": "דיונה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62f"
+    }
+  },
+  {
+    "nameEn": "Bagel",
+    "nameHe": "בייגל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca630"
+    }
+  },
+  {
+    "nameEn": "Croissant",
+    "nameHe": "קרואסון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca630"
+    }
+  },
+  {
+    "nameEn": "Pretzel",
+    "nameHe": "בייגלה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca630"
+    }
+  },
+  {
+    "nameEn": "Baguette",
+    "nameHe": "באגט",
+    "category": {
+      "$oid": "69876de125b1a590af8ca630"
+    }
+  },
+  {
+    "nameEn": "Tart",
+    "nameHe": "טארט",
+    "category": {
+      "$oid": "69876de125b1a590af8ca630"
+    }
+  },
+  {
+    "nameEn": "Brownie",
+    "nameHe": "בראוני",
+    "category": {
+      "$oid": "69876de125b1a590af8ca630"
+    }
+  },
+  {
+    "nameEn": "Loaf",
+    "nameHe": "כיכר לחם",
+    "category": {
+      "$oid": "69876de125b1a590af8ca630"
+    }
+  },
+  {
+    "nameEn": "Crust",
+    "nameHe": "קרום",
+    "category": {
+      "$oid": "69876de125b1a590af8ca630"
+    }
+  },
+  {
+    "nameEn": "Dough",
+    "nameHe": "בצק",
+    "category": {
+      "$oid": "69876de125b1a590af8ca630"
+    }
+  },
+  {
+    "nameEn": "Script",
+    "nameHe": "תסריט",
+    "category": {
+      "$oid": "69876de125b1a590af8ca631"
+    }
+  },
+  {
+    "nameEn": "Costume",
+    "nameHe": "תחפושת/תלבושת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca631"
+    }
+  },
+  {
+    "nameEn": "Stage",
+    "nameHe": "במה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca631"
+    }
+  },
+  {
+    "nameEn": "Curtain",
+    "nameHe": "מסך",
+    "category": {
+      "$oid": "69876de125b1a590af8ca631"
+    }
+  },
+  {
+    "nameEn": "Microphone stand",
+    "nameHe": "סטנד למיקרופון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca631"
+    }
+  },
+  {
+    "nameEn": "Spotlight",
+    "nameHe": "זרקור",
+    "category": {
+      "$oid": "69876de125b1a590af8ca631"
+    }
+  },
+  {
+    "nameEn": "Puppet",
+    "nameHe": "בובת יד",
+    "category": {
+      "$oid": "69876de125b1a590af8ca631"
+    }
+  },
+  {
+    "nameEn": "Prop",
+    "nameHe": "אביזר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca631"
+    }
+  },
+  {
+    "nameEn": "Wig",
+    "nameHe": "פאה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca631"
+    }
+  },
+  {
+    "nameEn": "Tambourine",
+    "nameHe": "תופים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60a"
+    }
+  },
+  {
+    "nameEn": "Clarinet",
+    "nameHe": "קלרינט",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60a"
+    }
+  },
+  {
+    "nameEn": "Trombone",
+    "nameHe": "טרומבון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60a"
+    }
+  },
+  {
+    "nameEn": "Violoncello",
+    "nameHe": "צ'לו",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60a"
+    }
+  },
+  {
+    "nameEn": "Banjo",
+    "nameHe": "בנג'ו",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60a"
+    }
+  },
+  {
+    "nameEn": "Mandolin",
+    "nameHe": "מנדולינה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60a"
+    }
+  },
+  {
+    "nameEn": "Harmonica",
+    "nameHe": "מפוחית",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60a"
+    }
+  },
+  {
+    "nameEn": "Xylophone",
+    "nameHe": "קסילופון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60a"
+    }
+  },
+  {
+    "nameEn": "Eagle",
+    "nameHe": "עיט",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Hawk",
+    "nameHe": "נץ",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Parrot",
+    "nameHe": "תוכי",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Hummingbird",
+    "nameHe": "קוליברי",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Penguin",
+    "nameHe": "פינגווין",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Ostrich",
+    "nameHe": "יען",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Flamingo",
+    "nameHe": "פלמינגו",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Squirrel",
+    "nameHe": "סנאי",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Fox",
+    "nameHe": "שועל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Mole",
+    "nameHe": "חפרפרת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca603"
+    }
+  },
+  {
+    "nameEn": "Sewer",
+    "nameHe": "ביוב",
+    "category": {
+      "$oid": "69876de125b1a590af8ca629"
+    }
+  },
+  {
+    "nameEn": "Foundation",
+    "nameHe": "יסודות",
+    "category": {
+      "$oid": "69876de125b1a590af8ca629"
+    }
+  },
+  {
+    "nameEn": "Façade",
+    "nameHe": "חזית",
+    "category": {
+      "$oid": "69876de125b1a590af8ca629"
+    }
+  },
+  {
+    "nameEn": "Gutter",
+    "nameHe": "מרזב",
+    "category": {
+      "$oid": "69876de125b1a590af8ca629"
+    }
+  },
+  {
+    "nameEn": "Ventilation",
+    "nameHe": "אוורור",
+    "category": {
+      "$oid": "69876de125b1a590af8ca629"
+    }
+  },
+  {
+    "nameEn": "Corridor",
+    "nameHe": "מסדרון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca629"
+    }
+  },
+  {
+    "nameEn": "Basement",
+    "nameHe": "מרתף",
+    "category": {
+      "$oid": "69876de125b1a590af8ca629"
+    }
+  },
+  {
+    "nameEn": "Attic",
+    "nameHe": "עליית גג",
+    "category": {
+      "$oid": "69876de125b1a590af8ca629"
+    }
+  },
+  {
+    "nameEn": "Porch",
+    "nameHe": "רחבת כניסה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca629"
+    }
+  },
+  {
+    "nameEn": "Brick",
+    "nameHe": "לבנה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca614"
+    }
+  },
+  {
+    "nameEn": "Plank",
+    "nameHe": "לוח עץ",
+    "category": {
+      "$oid": "69876de125b1a590af8ca614"
+    }
+  },
+  {
+    "nameEn": "Screw",
+    "nameHe": "בורג",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62c"
+    }
+  },
+  {
+    "nameEn": "Nut",
+    "nameHe": "אום",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62c"
+    }
+  },
+  {
+    "nameEn": "Washer",
+    "nameHe": "דיסקית",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62c"
+    }
+  },
+  {
+    "nameEn": "Sandpaper",
+    "nameHe": "נייר זכוכית",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62c"
+    }
+  },
+  {
+    "nameEn": "Sawdust",
+    "nameHe": "נסורת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62c"
+    }
+  },
+  {
+    "nameEn": "Tongs",
+    "nameHe": "מלקחיים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62c"
+    }
+  },
+  {
+    "nameEn": "File",
+    "nameHe": "שופין",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62c"
+    }
+  },
+  {
+    "nameEn": "Compass",
+    "nameHe": "מצפן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62c"
+    }
+  },
+  {
+    "nameEn": "Pencil case",
+    "nameHe": "קלמר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61c"
+    }
+  },
+  {
+    "nameEn": "Notebook",
+    "nameHe": "מחברת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61c"
+    }
+  },
+  {
+    "nameEn": "Clip",
+    "nameHe": "אטב",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61c"
+    }
+  },
+  {
+    "nameEn": "Correction fluid",
+    "nameHe": "טיפקס",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61c"
+    }
+  },
+  {
+    "nameEn": "Folder",
+    "nameHe": "תיקייה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61c"
+    }
+  },
+  {
+    "nameEn": "Ink cartridge",
+    "nameHe": "מחסנית דיו",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61c"
+    }
+  },
+  {
+    "nameEn": "Post-it",
+    "nameHe": "פתקית דביקה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61c"
+    }
+  },
+  {
+    "nameEn": "Staple",
+    "nameHe": "סיכת שדכן",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61c"
+    }
+  },
+  {
+    "nameEn": "Eraser",
+    "nameHe": "מחק",
+    "category": {
+      "$oid": "69876de125b1a590af8ca61c"
+    }
+  },
+  {
+    "nameEn": "Glove",
+    "nameHe": "כפפה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Mitten",
+    "nameHe": "כפפה שלמה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Shawl",
+    "nameHe": "צעיף",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Waistcoat",
+    "nameHe": "ווסט",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Tights",
+    "nameHe": "גרביונים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Apron",
+    "nameHe": "סינר",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Uniform",
+    "nameHe": "מדים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "V-neck",
+    "nameHe": "צווארון וי",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Sandal",
+    "nameHe": "סנדל",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Boots",
+    "nameHe": "מגפיים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca60d"
+    }
+  },
+  {
+    "nameEn": "Toothpaste",
+    "nameHe": "משחת שיניים",
+    "category": {
+      "$oid": "69876de125b1a590af8ca622"
+    }
+  },
+  {
+    "nameEn": "Razor",
+    "nameHe": "סכין גילוח",
+    "category": {
+      "$oid": "69876de125b1a590af8ca622"
+    }
+  },
+  {
+    "nameEn": "Shaving cream",
+    "nameHe": "קצף גילוח",
+    "category": {
+      "$oid": "69876de125b1a590af8ca622"
+    }
+  },
+  {
+    "nameEn": "Aftershave",
+    "nameHe": "אפטרשייב",
+    "category": {
+      "$oid": "69876de125b1a590af8ca622"
+    }
+  },
+  {
+    "nameEn": "Comb",
+    "nameHe": "מסרק",
+    "category": {
+      "$oid": "69876de125b1a590af8ca622"
+    }
+  },
+  {
+    "nameEn": "Brush",
+    "nameHe": "מברשת שיער",
+    "category": {
+      "$oid": "69876de125b1a590af8ca622"
+    }
+  },
+  {
+    "nameEn": "Towel",
+    "nameHe": "מגבת",
+    "category": {
+      "$oid": "69876de125b1a590af8ca622"
+    }
+  },
+  {
+    "nameEn": "Bath mat",
+    "nameHe": "שטיח אמבטיה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca622"
+    }
+  },
+  {
+    "nameEn": "Soap dish",
+    "nameHe": "סבונייה",
+    "category": {
+      "$oid": "69876de125b1a590af8ca622"
+    }
+  },
+  {
+    "nameEn": "Curtain rod",
+    "nameHe": "מוט וילון",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62b"
+    }
+  },
+  {
+    "nameEn": "Drain plug",
+    "nameHe": "פקק ניקוז",
+    "category": {
+      "$oid": "69876de125b1a590af8ca62b"
+    }
+  }
+]
