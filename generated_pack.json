@@ -1,0 +1,5258 @@
+{
+  "name": "Scrap Me",
+  "creator": {
+    "$oid": "69879381e89775ac323b8e29"
+  },
+  "cards": [
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d020"
+          },
+          "position": {
+            "x": 31.83,
+            "y": 97.7
+          },
+          "zoomRatio": 0.77,
+          "rotation": 274
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d025"
+          },
+          "position": {
+            "x": 56.93,
+            "y": 61.23
+          },
+          "zoomRatio": 0.98,
+          "rotation": 57
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d041"
+          },
+          "position": {
+            "x": 77.73,
+            "y": 21.13
+          },
+          "zoomRatio": 1.46,
+          "rotation": 247
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d016"
+          },
+          "position": {
+            "x": 5.12,
+            "y": 82.32
+          },
+          "zoomRatio": 1.52,
+          "rotation": 250
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d006"
+          },
+          "position": {
+            "x": 70.8,
+            "y": 23.72
+          },
+          "zoomRatio": 0.63,
+          "rotation": 326
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d049"
+          },
+          "position": {
+            "x": 49.82,
+            "y": 44.63
+          },
+          "zoomRatio": 1.0,
+          "rotation": 221
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d002"
+          },
+          "position": {
+            "x": 26.75,
+            "y": 93.19
+          },
+          "zoomRatio": 0.53,
+          "rotation": 171
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d004"
+          },
+          "position": {
+            "x": 7.52,
+            "y": 86.79
+          },
+          "zoomRatio": 1.35,
+          "rotation": 344
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d017"
+          },
+          "position": {
+            "x": 8.83,
+            "y": 31.99
+          },
+          "zoomRatio": 1.01,
+          "rotation": 52
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d010"
+          },
+          "position": {
+            "x": 15.34,
+            "y": 35.24
+          },
+          "zoomRatio": 0.83,
+          "rotation": 265
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d013"
+          },
+          "position": {
+            "x": 52.0,
+            "y": 88.27
+          },
+          "zoomRatio": 1.41,
+          "rotation": 10
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d020"
+          },
+          "position": {
+            "x": 30.11,
+            "y": 49.37
+          },
+          "zoomRatio": 1.53,
+          "rotation": 54
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d028"
+          },
+          "position": {
+            "x": 98.44,
+            "y": 71.92
+          },
+          "zoomRatio": 1.1,
+          "rotation": 244
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d031"
+          },
+          "position": {
+            "x": 39.28,
+            "y": 91.54
+          },
+          "zoomRatio": 1.63,
+          "rotation": 54
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d005"
+          },
+          "position": {
+            "x": 71.98,
+            "y": 6.61
+          },
+          "zoomRatio": 1.7,
+          "rotation": 236
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d033"
+          },
+          "position": {
+            "x": 32.3,
+            "y": 81.72
+          },
+          "zoomRatio": 1.15,
+          "rotation": 228
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d028"
+          },
+          "position": {
+            "x": 91.29,
+            "y": 27.91
+          },
+          "zoomRatio": 1.98,
+          "rotation": 126
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d000"
+          },
+          "position": {
+            "x": 99.64,
+            "y": 23.6
+          },
+          "zoomRatio": 2.0,
+          "rotation": 339
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d011"
+          },
+          "position": {
+            "x": 66.25,
+            "y": 37.49
+          },
+          "zoomRatio": 1.03,
+          "rotation": 304
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d049"
+          },
+          "position": {
+            "x": 29.31,
+            "y": 12.03
+          },
+          "zoomRatio": 0.67,
+          "rotation": 143
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d014"
+          },
+          "position": {
+            "x": 57.22,
+            "y": 22.95
+          },
+          "zoomRatio": 0.84,
+          "rotation": 198
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d019"
+          },
+          "position": {
+            "x": 71.85,
+            "y": 8.88
+          },
+          "zoomRatio": 1.66,
+          "rotation": 233
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d007"
+          },
+          "position": {
+            "x": 11.52,
+            "y": 55.15
+          },
+          "zoomRatio": 1.69,
+          "rotation": 333
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d026"
+          },
+          "position": {
+            "x": 73.28,
+            "y": 37.75
+          },
+          "zoomRatio": 1.27,
+          "rotation": 187
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d030"
+          },
+          "position": {
+            "x": 64.71,
+            "y": 18.62
+          },
+          "zoomRatio": 1.4,
+          "rotation": 111
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d000"
+          },
+          "position": {
+            "x": 53.71,
+            "y": 65.84
+          },
+          "zoomRatio": 0.71,
+          "rotation": 29
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d029"
+          },
+          "position": {
+            "x": 52.05,
+            "y": 2.97
+          },
+          "zoomRatio": 0.52,
+          "rotation": 280
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d035"
+          },
+          "position": {
+            "x": 54.78,
+            "y": 37.24
+          },
+          "zoomRatio": 1.38,
+          "rotation": 149
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d037"
+          },
+          "position": {
+            "x": 44.37,
+            "y": 45.02
+          },
+          "zoomRatio": 0.57,
+          "rotation": 263
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d040"
+          },
+          "position": {
+            "x": 39.53,
+            "y": 38.44
+          },
+          "zoomRatio": 0.72,
+          "rotation": 356
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d024"
+          },
+          "position": {
+            "x": 0.19,
+            "y": 28.77
+          },
+          "zoomRatio": 1.28,
+          "rotation": 42
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d008"
+          },
+          "position": {
+            "x": 5.18,
+            "y": 99.41
+          },
+          "zoomRatio": 1.94,
+          "rotation": 141
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d048"
+          },
+          "position": {
+            "x": 62.48,
+            "y": 46.17
+          },
+          "zoomRatio": 1.99,
+          "rotation": 307
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d044"
+          },
+          "position": {
+            "x": 4.42,
+            "y": 92.54
+          },
+          "zoomRatio": 1.3,
+          "rotation": 155
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d023"
+          },
+          "position": {
+            "x": 39.41,
+            "y": 32.54
+          },
+          "zoomRatio": 1.93,
+          "rotation": 57
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d032"
+          },
+          "position": {
+            "x": 90.07,
+            "y": 30.13
+          },
+          "zoomRatio": 0.99,
+          "rotation": 175
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d037"
+          },
+          "position": {
+            "x": 42.97,
+            "y": 71.42
+          },
+          "zoomRatio": 1.12,
+          "rotation": 352
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d035"
+          },
+          "position": {
+            "x": 52.54,
+            "y": 12.51
+          },
+          "zoomRatio": 1.05,
+          "rotation": 247
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d012"
+          },
+          "position": {
+            "x": 23.0,
+            "y": 11.1
+          },
+          "zoomRatio": 1.27,
+          "rotation": 358
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d039"
+          },
+          "position": {
+            "x": 43.82,
+            "y": 9.85
+          },
+          "zoomRatio": 1.03,
+          "rotation": 288
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d048"
+          },
+          "position": {
+            "x": 60.17,
+            "y": 50.02
+          },
+          "zoomRatio": 0.88,
+          "rotation": 120
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d038"
+          },
+          "position": {
+            "x": 3.47,
+            "y": 34.55
+          },
+          "zoomRatio": 0.51,
+          "rotation": 0
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d015"
+          },
+          "position": {
+            "x": 65.18,
+            "y": 66.19
+          },
+          "zoomRatio": 1.98,
+          "rotation": 288
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d041"
+          },
+          "position": {
+            "x": 81.25,
+            "y": 30.02
+          },
+          "zoomRatio": 1.44,
+          "rotation": 148
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d049"
+          },
+          "position": {
+            "x": 61.63,
+            "y": 21.84
+          },
+          "zoomRatio": 0.83,
+          "rotation": 16
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d039"
+          },
+          "position": {
+            "x": 55.31,
+            "y": 40.1
+          },
+          "zoomRatio": 1.21,
+          "rotation": 62
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d031"
+          },
+          "position": {
+            "x": 36.66,
+            "y": 8.64
+          },
+          "zoomRatio": 1.77,
+          "rotation": 119
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d027"
+          },
+          "position": {
+            "x": 96.24,
+            "y": 31.62
+          },
+          "zoomRatio": 1.35,
+          "rotation": 174
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d012"
+          },
+          "position": {
+            "x": 46.07,
+            "y": 59.37
+          },
+          "zoomRatio": 1.91,
+          "rotation": 124
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d044"
+          },
+          "position": {
+            "x": 81.05,
+            "y": 37.39
+          },
+          "zoomRatio": 1.44,
+          "rotation": 181
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d002"
+          },
+          "position": {
+            "x": 7.83,
+            "y": 57.35
+          },
+          "zoomRatio": 1.13,
+          "rotation": 214
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d022"
+          },
+          "position": {
+            "x": 88.12,
+            "y": 23.83
+          },
+          "zoomRatio": 1.57,
+          "rotation": 326
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d031"
+          },
+          "position": {
+            "x": 4.31,
+            "y": 2.37
+          },
+          "zoomRatio": 1.94,
+          "rotation": 77
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d039"
+          },
+          "position": {
+            "x": 54.5,
+            "y": 91.58
+          },
+          "zoomRatio": 1.24,
+          "rotation": 199
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d020"
+          },
+          "position": {
+            "x": 26.79,
+            "y": 24.16
+          },
+          "zoomRatio": 1.8,
+          "rotation": 143
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d046"
+          },
+          "position": {
+            "x": 62.83,
+            "y": 0.61
+          },
+          "zoomRatio": 0.8,
+          "rotation": 249
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d028"
+          },
+          "position": {
+            "x": 70.55,
+            "y": 27.47
+          },
+          "zoomRatio": 1.6,
+          "rotation": 75
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d031"
+          },
+          "position": {
+            "x": 77.28,
+            "y": 54.73
+          },
+          "zoomRatio": 0.62,
+          "rotation": 12
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d024"
+          },
+          "position": {
+            "x": 34.2,
+            "y": 73.97
+          },
+          "zoomRatio": 1.7,
+          "rotation": 281
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d011"
+          },
+          "position": {
+            "x": 50.04,
+            "y": 41.97
+          },
+          "zoomRatio": 0.89,
+          "rotation": 172
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d040"
+          },
+          "position": {
+            "x": 17.72,
+            "y": 99.53
+          },
+          "zoomRatio": 0.53,
+          "rotation": 113
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d009"
+          },
+          "position": {
+            "x": 51.74,
+            "y": 47.49
+          },
+          "zoomRatio": 0.57,
+          "rotation": 133
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d008"
+          },
+          "position": {
+            "x": 45.5,
+            "y": 71.88
+          },
+          "zoomRatio": 1.08,
+          "rotation": 82
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d001"
+          },
+          "position": {
+            "x": 29.88,
+            "y": 23.65
+          },
+          "zoomRatio": 1.2,
+          "rotation": 86
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d028"
+          },
+          "position": {
+            "x": 0.84,
+            "y": 71.03
+          },
+          "zoomRatio": 0.58,
+          "rotation": 358
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d011"
+          },
+          "position": {
+            "x": 45.46,
+            "y": 78.5
+          },
+          "zoomRatio": 1.4,
+          "rotation": 225
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d024"
+          },
+          "position": {
+            "x": 62.26,
+            "y": 42.78
+          },
+          "zoomRatio": 1.83,
+          "rotation": 157
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d027"
+          },
+          "position": {
+            "x": 74.27,
+            "y": 45.99
+          },
+          "zoomRatio": 0.92,
+          "rotation": 101
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d018"
+          },
+          "position": {
+            "x": 1.62,
+            "y": 13.41
+          },
+          "zoomRatio": 0.64,
+          "rotation": 22
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d041"
+          },
+          "position": {
+            "x": 21.97,
+            "y": 8.36
+          },
+          "zoomRatio": 0.79,
+          "rotation": 324
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d040"
+          },
+          "position": {
+            "x": 2.62,
+            "y": 29.86
+          },
+          "zoomRatio": 0.83,
+          "rotation": 143
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d050"
+          },
+          "position": {
+            "x": 90.57,
+            "y": 33.19
+          },
+          "zoomRatio": 1.95,
+          "rotation": 122
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d046"
+          },
+          "position": {
+            "x": 76.83,
+            "y": 1.36
+          },
+          "zoomRatio": 0.87,
+          "rotation": 332
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d032"
+          },
+          "position": {
+            "x": 78.49,
+            "y": 42.27
+          },
+          "zoomRatio": 0.99,
+          "rotation": 252
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d045"
+          },
+          "position": {
+            "x": 22.35,
+            "y": 27.36
+          },
+          "zoomRatio": 1.38,
+          "rotation": 103
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d000"
+          },
+          "position": {
+            "x": 72.4,
+            "y": 30.14
+          },
+          "zoomRatio": 1.96,
+          "rotation": 202
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d020"
+          },
+          "position": {
+            "x": 92.71,
+            "y": 98.69
+          },
+          "zoomRatio": 1.33,
+          "rotation": 262
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d008"
+          },
+          "position": {
+            "x": 70.9,
+            "y": 2.9
+          },
+          "zoomRatio": 1.32,
+          "rotation": 59
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d002"
+          },
+          "position": {
+            "x": 15.71,
+            "y": 9.03
+          },
+          "zoomRatio": 1.05,
+          "rotation": 131
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d001"
+          },
+          "position": {
+            "x": 47.55,
+            "y": 20.5
+          },
+          "zoomRatio": 1.94,
+          "rotation": 229
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d038"
+          },
+          "position": {
+            "x": 70.79,
+            "y": 83.91
+          },
+          "zoomRatio": 1.34,
+          "rotation": 298
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d015"
+          },
+          "position": {
+            "x": 11.67,
+            "y": 20.07
+          },
+          "zoomRatio": 1.57,
+          "rotation": 329
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d017"
+          },
+          "position": {
+            "x": 20.77,
+            "y": 46.35
+          },
+          "zoomRatio": 1.46,
+          "rotation": 230
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d048"
+          },
+          "position": {
+            "x": 98.31,
+            "y": 3.93
+          },
+          "zoomRatio": 1.89,
+          "rotation": 51
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d000"
+          },
+          "position": {
+            "x": 30.56,
+            "y": 20.74
+          },
+          "zoomRatio": 1.2,
+          "rotation": 252
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d001"
+          },
+          "position": {
+            "x": 8.28,
+            "y": 54.4
+          },
+          "zoomRatio": 1.26,
+          "rotation": 178
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d032"
+          },
+          "position": {
+            "x": 26.79,
+            "y": 60.16
+          },
+          "zoomRatio": 1.1,
+          "rotation": 305
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d021"
+          },
+          "position": {
+            "x": 1.05,
+            "y": 18.02
+          },
+          "zoomRatio": 1.17,
+          "rotation": 57
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d050"
+          },
+          "position": {
+            "x": 51.3,
+            "y": 7.61
+          },
+          "zoomRatio": 1.72,
+          "rotation": 311
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d007"
+          },
+          "position": {
+            "x": 90.36,
+            "y": 56.03
+          },
+          "zoomRatio": 0.87,
+          "rotation": 85
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d013"
+          },
+          "position": {
+            "x": 97.53,
+            "y": 55.34
+          },
+          "zoomRatio": 0.61,
+          "rotation": 216
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d048"
+          },
+          "position": {
+            "x": 11.31,
+            "y": 65.89
+          },
+          "zoomRatio": 1.3,
+          "rotation": 27
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d039"
+          },
+          "position": {
+            "x": 62.54,
+            "y": 10.25
+          },
+          "zoomRatio": 0.94,
+          "rotation": 228
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d043"
+          },
+          "position": {
+            "x": 34.9,
+            "y": 71.93
+          },
+          "zoomRatio": 0.53,
+          "rotation": 71
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d036"
+          },
+          "position": {
+            "x": 25.47,
+            "y": 56.55
+          },
+          "zoomRatio": 0.82,
+          "rotation": 141
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d027"
+          },
+          "position": {
+            "x": 59.98,
+            "y": 52.94
+          },
+          "zoomRatio": 1.67,
+          "rotation": 46
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d018"
+          },
+          "position": {
+            "x": 47.47,
+            "y": 18.73
+          },
+          "zoomRatio": 1.77,
+          "rotation": 102
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d050"
+          },
+          "position": {
+            "x": 52.58,
+            "y": 75.83
+          },
+          "zoomRatio": 0.8,
+          "rotation": 286
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d002"
+          },
+          "position": {
+            "x": 93.15,
+            "y": 27.88
+          },
+          "zoomRatio": 1.57,
+          "rotation": 138
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d000"
+          },
+          "position": {
+            "x": 35.22,
+            "y": 13.28
+          },
+          "zoomRatio": 0.84,
+          "rotation": 180
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d032"
+          },
+          "position": {
+            "x": 38.68,
+            "y": 37.68
+          },
+          "zoomRatio": 1.54,
+          "rotation": 183
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d023"
+          },
+          "position": {
+            "x": 75.36,
+            "y": 72.54
+          },
+          "zoomRatio": 1.15,
+          "rotation": 49
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d048"
+          },
+          "position": {
+            "x": 37.52,
+            "y": 73.75
+          },
+          "zoomRatio": 1.11,
+          "rotation": 96
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d008"
+          },
+          "position": {
+            "x": 90.75,
+            "y": 56.75
+          },
+          "zoomRatio": 1.22,
+          "rotation": 81
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d012"
+          },
+          "position": {
+            "x": 34.94,
+            "y": 31.7
+          },
+          "zoomRatio": 0.58,
+          "rotation": 286
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d030"
+          },
+          "position": {
+            "x": 32.21,
+            "y": 88.31
+          },
+          "zoomRatio": 0.57,
+          "rotation": 161
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d040"
+          },
+          "position": {
+            "x": 32.37,
+            "y": 48.24
+          },
+          "zoomRatio": 1.88,
+          "rotation": 22
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d009"
+          },
+          "position": {
+            "x": 3.97,
+            "y": 64.66
+          },
+          "zoomRatio": 1.43,
+          "rotation": 204
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d011"
+          },
+          "position": {
+            "x": 2.53,
+            "y": 5.28
+          },
+          "zoomRatio": 1.69,
+          "rotation": 255
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d035"
+          },
+          "position": {
+            "x": 70.14,
+            "y": 7.68
+          },
+          "zoomRatio": 1.32,
+          "rotation": 303
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d026"
+          },
+          "position": {
+            "x": 64.2,
+            "y": 74.11
+          },
+          "zoomRatio": 1.2,
+          "rotation": 36
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d010"
+          },
+          "position": {
+            "x": 83.03,
+            "y": 30.2
+          },
+          "zoomRatio": 1.82,
+          "rotation": 293
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d039"
+          },
+          "position": {
+            "x": 4.18,
+            "y": 97.59
+          },
+          "zoomRatio": 1.72,
+          "rotation": 342
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d021"
+          },
+          "position": {
+            "x": 76.65,
+            "y": 78.24
+          },
+          "zoomRatio": 1.28,
+          "rotation": 310
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d007"
+          },
+          "position": {
+            "x": 80.57,
+            "y": 99.0
+          },
+          "zoomRatio": 0.83,
+          "rotation": 73
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d032"
+          },
+          "position": {
+            "x": 64.88,
+            "y": 28.15
+          },
+          "zoomRatio": 1.6,
+          "rotation": 309
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d018"
+          },
+          "position": {
+            "x": 19.78,
+            "y": 42.04
+          },
+          "zoomRatio": 1.66,
+          "rotation": 136
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d028"
+          },
+          "position": {
+            "x": 21.4,
+            "y": 88.33
+          },
+          "zoomRatio": 1.73,
+          "rotation": 142
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d002"
+          },
+          "position": {
+            "x": 49.76,
+            "y": 53.56
+          },
+          "zoomRatio": 0.61,
+          "rotation": 321
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d027"
+          },
+          "position": {
+            "x": 66.3,
+            "y": 66.93
+          },
+          "zoomRatio": 0.76,
+          "rotation": 70
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d045"
+          },
+          "position": {
+            "x": 19.36,
+            "y": 72.78
+          },
+          "zoomRatio": 1.08,
+          "rotation": 235
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d017"
+          },
+          "position": {
+            "x": 53.74,
+            "y": 69.03
+          },
+          "zoomRatio": 1.85,
+          "rotation": 163
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d019"
+          },
+          "position": {
+            "x": 87.94,
+            "y": 3.1
+          },
+          "zoomRatio": 1.28,
+          "rotation": 167
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d042"
+          },
+          "position": {
+            "x": 93.75,
+            "y": 81.91
+          },
+          "zoomRatio": 1.41,
+          "rotation": 239
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d048"
+          },
+          "position": {
+            "x": 1.81,
+            "y": 71.05
+          },
+          "zoomRatio": 1.44,
+          "rotation": 43
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d027"
+          },
+          "position": {
+            "x": 73.28,
+            "y": 25.95
+          },
+          "zoomRatio": 0.62,
+          "rotation": 189
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d015"
+          },
+          "position": {
+            "x": 37.17,
+            "y": 45.45
+          },
+          "zoomRatio": 0.96,
+          "rotation": 92
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d034"
+          },
+          "position": {
+            "x": 22.43,
+            "y": 81.9
+          },
+          "zoomRatio": 1.4,
+          "rotation": 28
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d011"
+          },
+          "position": {
+            "x": 67.11,
+            "y": 61.25
+          },
+          "zoomRatio": 1.29,
+          "rotation": 142
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d007"
+          },
+          "position": {
+            "x": 16.64,
+            "y": 84.64
+          },
+          "zoomRatio": 1.99,
+          "rotation": 11
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d042"
+          },
+          "position": {
+            "x": 56.19,
+            "y": 92.13
+          },
+          "zoomRatio": 1.65,
+          "rotation": 207
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d048"
+          },
+          "position": {
+            "x": 62.79,
+            "y": 62.16
+          },
+          "zoomRatio": 0.8,
+          "rotation": 226
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d029"
+          },
+          "position": {
+            "x": 31.5,
+            "y": 61.5
+          },
+          "zoomRatio": 1.4,
+          "rotation": 328
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d012"
+          },
+          "position": {
+            "x": 98.1,
+            "y": 78.73
+          },
+          "zoomRatio": 1.22,
+          "rotation": 68
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d010"
+          },
+          "position": {
+            "x": 11.72,
+            "y": 64.45
+          },
+          "zoomRatio": 1.34,
+          "rotation": 277
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d019"
+          },
+          "position": {
+            "x": 37.63,
+            "y": 61.47
+          },
+          "zoomRatio": 1.35,
+          "rotation": 106
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d012"
+          },
+          "position": {
+            "x": 86.33,
+            "y": 3.55
+          },
+          "zoomRatio": 1.05,
+          "rotation": 256
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d046"
+          },
+          "position": {
+            "x": 6.47,
+            "y": 94.27
+          },
+          "zoomRatio": 1.3,
+          "rotation": 284
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d028"
+          },
+          "position": {
+            "x": 36.6,
+            "y": 68.15
+          },
+          "zoomRatio": 0.76,
+          "rotation": 145
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d044"
+          },
+          "position": {
+            "x": 45.56,
+            "y": 70.16
+          },
+          "zoomRatio": 0.88,
+          "rotation": 313
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d034"
+          },
+          "position": {
+            "x": 31.13,
+            "y": 89.86
+          },
+          "zoomRatio": 1.89,
+          "rotation": 49
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d049"
+          },
+          "position": {
+            "x": 96.83,
+            "y": 36.4
+          },
+          "zoomRatio": 1.17,
+          "rotation": 112
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d041"
+          },
+          "position": {
+            "x": 35.1,
+            "y": 36.37
+          },
+          "zoomRatio": 0.76,
+          "rotation": 29
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d018"
+          },
+          "position": {
+            "x": 50.71,
+            "y": 88.19
+          },
+          "zoomRatio": 1.74,
+          "rotation": 247
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d049"
+          },
+          "position": {
+            "x": 37.95,
+            "y": 77.82
+          },
+          "zoomRatio": 1.23,
+          "rotation": 31
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d018"
+          },
+          "position": {
+            "x": 57.13,
+            "y": 71.01
+          },
+          "zoomRatio": 1.31,
+          "rotation": 262
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d016"
+          },
+          "position": {
+            "x": 79.57,
+            "y": 23.02
+          },
+          "zoomRatio": 0.66,
+          "rotation": 207
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d035"
+          },
+          "position": {
+            "x": 64.84,
+            "y": 36.9
+          },
+          "zoomRatio": 1.42,
+          "rotation": 152
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d036"
+          },
+          "position": {
+            "x": 67.51,
+            "y": 34.83
+          },
+          "zoomRatio": 1.09,
+          "rotation": 117
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d011"
+          },
+          "position": {
+            "x": 63.22,
+            "y": 30.94
+          },
+          "zoomRatio": 1.97,
+          "rotation": 333
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d024"
+          },
+          "position": {
+            "x": 59.6,
+            "y": 62.17
+          },
+          "zoomRatio": 1.88,
+          "rotation": 96
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d032"
+          },
+          "position": {
+            "x": 32.68,
+            "y": 37.66
+          },
+          "zoomRatio": 1.23,
+          "rotation": 349
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d040"
+          },
+          "position": {
+            "x": 46.41,
+            "y": 56.59
+          },
+          "zoomRatio": 0.67,
+          "rotation": 162
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d008"
+          },
+          "position": {
+            "x": 8.41,
+            "y": 89.13
+          },
+          "zoomRatio": 1.79,
+          "rotation": 324
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d015"
+          },
+          "position": {
+            "x": 55.01,
+            "y": 78.07
+          },
+          "zoomRatio": 1.93,
+          "rotation": 323
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d003"
+          },
+          "position": {
+            "x": 81.2,
+            "y": 38.57
+          },
+          "zoomRatio": 0.67,
+          "rotation": 104
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d005"
+          },
+          "position": {
+            "x": 12.15,
+            "y": 1.39
+          },
+          "zoomRatio": 1.18,
+          "rotation": 151
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d004"
+          },
+          "position": {
+            "x": 27.4,
+            "y": 28.56
+          },
+          "zoomRatio": 1.91,
+          "rotation": 149
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d031"
+          },
+          "position": {
+            "x": 21.75,
+            "y": 51.42
+          },
+          "zoomRatio": 0.53,
+          "rotation": 327
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d039"
+          },
+          "position": {
+            "x": 86.24,
+            "y": 23.33
+          },
+          "zoomRatio": 1.35,
+          "rotation": 150
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d001"
+          },
+          "position": {
+            "x": 13.24,
+            "y": 22.18
+          },
+          "zoomRatio": 1.96,
+          "rotation": 198
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d027"
+          },
+          "position": {
+            "x": 22.07,
+            "y": 46.38
+          },
+          "zoomRatio": 0.79,
+          "rotation": 257
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d015"
+          },
+          "position": {
+            "x": 96.76,
+            "y": 62.27
+          },
+          "zoomRatio": 1.16,
+          "rotation": 83
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d046"
+          },
+          "position": {
+            "x": 32.75,
+            "y": 21.76
+          },
+          "zoomRatio": 1.29,
+          "rotation": 255
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d008"
+          },
+          "position": {
+            "x": 46.02,
+            "y": 30.38
+          },
+          "zoomRatio": 1.4,
+          "rotation": 157
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d010"
+          },
+          "position": {
+            "x": 33.14,
+            "y": 76.9
+          },
+          "zoomRatio": 1.98,
+          "rotation": 77
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d050"
+          },
+          "position": {
+            "x": 97.2,
+            "y": 42.72
+          },
+          "zoomRatio": 0.89,
+          "rotation": 217
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d028"
+          },
+          "position": {
+            "x": 24.61,
+            "y": 27.35
+          },
+          "zoomRatio": 0.88,
+          "rotation": 0
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d046"
+          },
+          "position": {
+            "x": 54.71,
+            "y": 5.66
+          },
+          "zoomRatio": 1.38,
+          "rotation": 265
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d011"
+          },
+          "position": {
+            "x": 85.08,
+            "y": 93.55
+          },
+          "zoomRatio": 0.81,
+          "rotation": 185
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d005"
+          },
+          "position": {
+            "x": 79.01,
+            "y": 66.93
+          },
+          "zoomRatio": 0.82,
+          "rotation": 359
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d041"
+          },
+          "position": {
+            "x": 44.07,
+            "y": 72.78
+          },
+          "zoomRatio": 1.37,
+          "rotation": 253
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d008"
+          },
+          "position": {
+            "x": 63.1,
+            "y": 2.45
+          },
+          "zoomRatio": 2.0,
+          "rotation": 113
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d014"
+          },
+          "position": {
+            "x": 98.29,
+            "y": 44.0
+          },
+          "zoomRatio": 1.74,
+          "rotation": 173
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d029"
+          },
+          "position": {
+            "x": 29.8,
+            "y": 45.19
+          },
+          "zoomRatio": 0.88,
+          "rotation": 97
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d050"
+          },
+          "position": {
+            "x": 58.19,
+            "y": 66.52
+          },
+          "zoomRatio": 1.29,
+          "rotation": 24
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d009"
+          },
+          "position": {
+            "x": 31.85,
+            "y": 82.46
+          },
+          "zoomRatio": 0.66,
+          "rotation": 8
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d011"
+          },
+          "position": {
+            "x": 81.97,
+            "y": 76.49
+          },
+          "zoomRatio": 0.65,
+          "rotation": 27
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d012"
+          },
+          "position": {
+            "x": 50.65,
+            "y": 63.16
+          },
+          "zoomRatio": 1.11,
+          "rotation": 116
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d000"
+          },
+          "position": {
+            "x": 28.23,
+            "y": 56.27
+          },
+          "zoomRatio": 1.04,
+          "rotation": 178
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d002"
+          },
+          "position": {
+            "x": 3.47,
+            "y": 1.01
+          },
+          "zoomRatio": 1.92,
+          "rotation": 64
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d028"
+          },
+          "position": {
+            "x": 99.24,
+            "y": 52.01
+          },
+          "zoomRatio": 1.05,
+          "rotation": 92
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d042"
+          },
+          "position": {
+            "x": 42.31,
+            "y": 6.4
+          },
+          "zoomRatio": 1.14,
+          "rotation": 299
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d021"
+          },
+          "position": {
+            "x": 96.87,
+            "y": 79.28
+          },
+          "zoomRatio": 0.84,
+          "rotation": 131
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d046"
+          },
+          "position": {
+            "x": 63.43,
+            "y": 36.32
+          },
+          "zoomRatio": 1.89,
+          "rotation": 265
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d026"
+          },
+          "position": {
+            "x": 13.08,
+            "y": 3.2
+          },
+          "zoomRatio": 0.92,
+          "rotation": 111
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d041"
+          },
+          "position": {
+            "x": 59.55,
+            "y": 84.78
+          },
+          "zoomRatio": 1.09,
+          "rotation": 102
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d024"
+          },
+          "position": {
+            "x": 48.53,
+            "y": 0.47
+          },
+          "zoomRatio": 1.8,
+          "rotation": 286
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d042"
+          },
+          "position": {
+            "x": 29.58,
+            "y": 97.79
+          },
+          "zoomRatio": 0.74,
+          "rotation": 310
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d023"
+          },
+          "position": {
+            "x": 16.86,
+            "y": 0.38
+          },
+          "zoomRatio": 0.84,
+          "rotation": 2
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d022"
+          },
+          "position": {
+            "x": 39.69,
+            "y": 22.91
+          },
+          "zoomRatio": 1.77,
+          "rotation": 305
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d010"
+          },
+          "position": {
+            "x": 96.88,
+            "y": 9.77
+          },
+          "zoomRatio": 1.95,
+          "rotation": 254
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d046"
+          },
+          "position": {
+            "x": 84.19,
+            "y": 37.11
+          },
+          "zoomRatio": 0.82,
+          "rotation": 91
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d012"
+          },
+          "position": {
+            "x": 9.54,
+            "y": 39.63
+          },
+          "zoomRatio": 0.81,
+          "rotation": 90
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d013"
+          },
+          "position": {
+            "x": 53.69,
+            "y": 14.56
+          },
+          "zoomRatio": 0.66,
+          "rotation": 277
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d032"
+          },
+          "position": {
+            "x": 91.22,
+            "y": 22.74
+          },
+          "zoomRatio": 1.57,
+          "rotation": 326
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d021"
+          },
+          "position": {
+            "x": 93.31,
+            "y": 71.31
+          },
+          "zoomRatio": 1.32,
+          "rotation": 79
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d027"
+          },
+          "position": {
+            "x": 72.73,
+            "y": 56.32
+          },
+          "zoomRatio": 1.81,
+          "rotation": 130
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d031"
+          },
+          "position": {
+            "x": 1.93,
+            "y": 82.6
+          },
+          "zoomRatio": 1.63,
+          "rotation": 346
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d002"
+          },
+          "position": {
+            "x": 98.24,
+            "y": 64.74
+          },
+          "zoomRatio": 1.02,
+          "rotation": 187
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d044"
+          },
+          "position": {
+            "x": 26.45,
+            "y": 48.38
+          },
+          "zoomRatio": 1.85,
+          "rotation": 84
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d035"
+          },
+          "position": {
+            "x": 2.65,
+            "y": 12.11
+          },
+          "zoomRatio": 1.81,
+          "rotation": 261
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d029"
+          },
+          "position": {
+            "x": 24.77,
+            "y": 30.55
+          },
+          "zoomRatio": 0.84,
+          "rotation": 75
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d002"
+          },
+          "position": {
+            "x": 64.3,
+            "y": 12.78
+          },
+          "zoomRatio": 1.92,
+          "rotation": 200
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d037"
+          },
+          "position": {
+            "x": 6.93,
+            "y": 76.64
+          },
+          "zoomRatio": 1.31,
+          "rotation": 209
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d001"
+          },
+          "position": {
+            "x": 66.84,
+            "y": 20.73
+          },
+          "zoomRatio": 1.28,
+          "rotation": 192
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d003"
+          },
+          "position": {
+            "x": 95.38,
+            "y": 94.19
+          },
+          "zoomRatio": 0.65,
+          "rotation": 257
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d045"
+          },
+          "position": {
+            "x": 36.92,
+            "y": 91.15
+          },
+          "zoomRatio": 1.01,
+          "rotation": 179
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d017"
+          },
+          "position": {
+            "x": 88.43,
+            "y": 63.43
+          },
+          "zoomRatio": 1.89,
+          "rotation": 31
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d045"
+          },
+          "position": {
+            "x": 76.78,
+            "y": 12.13
+          },
+          "zoomRatio": 1.12,
+          "rotation": 28
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d046"
+          },
+          "position": {
+            "x": 54.55,
+            "y": 2.62
+          },
+          "zoomRatio": 1.99,
+          "rotation": 292
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d029"
+          },
+          "position": {
+            "x": 9.9,
+            "y": 32.81
+          },
+          "zoomRatio": 1.39,
+          "rotation": 195
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d005"
+          },
+          "position": {
+            "x": 67.37,
+            "y": 0.79
+          },
+          "zoomRatio": 1.65,
+          "rotation": 314
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d015"
+          },
+          "position": {
+            "x": 15.71,
+            "y": 8.93
+          },
+          "zoomRatio": 1.27,
+          "rotation": 117
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d044"
+          },
+          "position": {
+            "x": 32.81,
+            "y": 30.34
+          },
+          "zoomRatio": 0.62,
+          "rotation": 127
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d014"
+          },
+          "position": {
+            "x": 40.53,
+            "y": 52.87
+          },
+          "zoomRatio": 1.45,
+          "rotation": 160
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d008"
+          },
+          "position": {
+            "x": 59.0,
+            "y": 15.84
+          },
+          "zoomRatio": 0.79,
+          "rotation": 114
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d013"
+          },
+          "position": {
+            "x": 34.06,
+            "y": 36.43
+          },
+          "zoomRatio": 0.77,
+          "rotation": 31
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d018"
+          },
+          "position": {
+            "x": 44.07,
+            "y": 6.86
+          },
+          "zoomRatio": 1.0,
+          "rotation": 67
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d037"
+          },
+          "position": {
+            "x": 45.93,
+            "y": 77.65
+          },
+          "zoomRatio": 1.43,
+          "rotation": 344
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d015"
+          },
+          "position": {
+            "x": 0.42,
+            "y": 62.96
+          },
+          "zoomRatio": 0.54,
+          "rotation": 102
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d000"
+          },
+          "position": {
+            "x": 14.82,
+            "y": 34.07
+          },
+          "zoomRatio": 1.06,
+          "rotation": 84
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d024"
+          },
+          "position": {
+            "x": 22.99,
+            "y": 30.78
+          },
+          "zoomRatio": 1.2,
+          "rotation": 311
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d011"
+          },
+          "position": {
+            "x": 20.31,
+            "y": 71.48
+          },
+          "zoomRatio": 1.42,
+          "rotation": 278
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d050"
+          },
+          "position": {
+            "x": 67.28,
+            "y": 7.83
+          },
+          "zoomRatio": 0.65,
+          "rotation": 86
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d002"
+          },
+          "position": {
+            "x": 41.31,
+            "y": 58.52
+          },
+          "zoomRatio": 0.82,
+          "rotation": 351
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d012"
+          },
+          "position": {
+            "x": 5.62,
+            "y": 64.32
+          },
+          "zoomRatio": 1.65,
+          "rotation": 286
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d039"
+          },
+          "position": {
+            "x": 76.25,
+            "y": 76.19
+          },
+          "zoomRatio": 1.32,
+          "rotation": 252
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d040"
+          },
+          "position": {
+            "x": 26.11,
+            "y": 38.17
+          },
+          "zoomRatio": 1.14,
+          "rotation": 329
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d004"
+          },
+          "position": {
+            "x": 43.37,
+            "y": 37.95
+          },
+          "zoomRatio": 1.05,
+          "rotation": 34
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d014"
+          },
+          "position": {
+            "x": 23.61,
+            "y": 37.66
+          },
+          "zoomRatio": 1.05,
+          "rotation": 283
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d019"
+          },
+          "position": {
+            "x": 47.4,
+            "y": 2.09
+          },
+          "zoomRatio": 0.99,
+          "rotation": 325
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d026"
+          },
+          "position": {
+            "x": 10.71,
+            "y": 67.96
+          },
+          "zoomRatio": 0.85,
+          "rotation": 79
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d018"
+          },
+          "position": {
+            "x": 43.34,
+            "y": 16.33
+          },
+          "zoomRatio": 1.24,
+          "rotation": 182
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d038"
+          },
+          "position": {
+            "x": 78.3,
+            "y": 9.88
+          },
+          "zoomRatio": 2.0,
+          "rotation": 232
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d034"
+          },
+          "position": {
+            "x": 16.44,
+            "y": 54.62
+          },
+          "zoomRatio": 1.53,
+          "rotation": 274
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d031"
+          },
+          "position": {
+            "x": 32.2,
+            "y": 2.63
+          },
+          "zoomRatio": 0.89,
+          "rotation": 176
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d033"
+          },
+          "position": {
+            "x": 2.74,
+            "y": 8.65
+          },
+          "zoomRatio": 1.5,
+          "rotation": 134
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d046"
+          },
+          "position": {
+            "x": 53.13,
+            "y": 54.71
+          },
+          "zoomRatio": 1.35,
+          "rotation": 33
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d044"
+          },
+          "position": {
+            "x": 17.93,
+            "y": 21.55
+          },
+          "zoomRatio": 0.95,
+          "rotation": 188
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d040"
+          },
+          "position": {
+            "x": 9.99,
+            "y": 74.21
+          },
+          "zoomRatio": 1.27,
+          "rotation": 118
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d020"
+          },
+          "position": {
+            "x": 48.63,
+            "y": 95.23
+          },
+          "zoomRatio": 1.51,
+          "rotation": 32
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d029"
+          },
+          "position": {
+            "x": 89.04,
+            "y": 7.51
+          },
+          "zoomRatio": 1.5,
+          "rotation": 239
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d026"
+          },
+          "position": {
+            "x": 12.84,
+            "y": 71.45
+          },
+          "zoomRatio": 0.86,
+          "rotation": 303
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d011"
+          },
+          "position": {
+            "x": 42.65,
+            "y": 14.51
+          },
+          "zoomRatio": 1.29,
+          "rotation": 11
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d002"
+          },
+          "position": {
+            "x": 89.07,
+            "y": 25.9
+          },
+          "zoomRatio": 1.88,
+          "rotation": 223
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d046"
+          },
+          "position": {
+            "x": 99.45,
+            "y": 98.96
+          },
+          "zoomRatio": 0.7,
+          "rotation": 88
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d048"
+          },
+          "position": {
+            "x": 65.59,
+            "y": 5.98
+          },
+          "zoomRatio": 1.36,
+          "rotation": 122
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d043"
+          },
+          "position": {
+            "x": 35.15,
+            "y": 34.67
+          },
+          "zoomRatio": 1.96,
+          "rotation": 51
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d044"
+          },
+          "position": {
+            "x": 5.4,
+            "y": 16.61
+          },
+          "zoomRatio": 0.7,
+          "rotation": 290
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d002"
+          },
+          "position": {
+            "x": 11.99,
+            "y": 88.35
+          },
+          "zoomRatio": 1.72,
+          "rotation": 178
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d034"
+          },
+          "position": {
+            "x": 14.34,
+            "y": 85.6
+          },
+          "zoomRatio": 0.93,
+          "rotation": 148
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d022"
+          },
+          "position": {
+            "x": 64.91,
+            "y": 5.29
+          },
+          "zoomRatio": 1.03,
+          "rotation": 252
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d036"
+          },
+          "position": {
+            "x": 47.2,
+            "y": 43.63
+          },
+          "zoomRatio": 0.66,
+          "rotation": 330
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d001"
+          },
+          "position": {
+            "x": 8.85,
+            "y": 11.94
+          },
+          "zoomRatio": 0.85,
+          "rotation": 339
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d050"
+          },
+          "position": {
+            "x": 30.28,
+            "y": 12.25
+          },
+          "zoomRatio": 1.31,
+          "rotation": 161
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d034"
+          },
+          "position": {
+            "x": 62.27,
+            "y": 33.34
+          },
+          "zoomRatio": 1.34,
+          "rotation": 294
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d048"
+          },
+          "position": {
+            "x": 93.34,
+            "y": 10.49
+          },
+          "zoomRatio": 1.85,
+          "rotation": 98
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d046"
+          },
+          "position": {
+            "x": 54.21,
+            "y": 18.03
+          },
+          "zoomRatio": 0.9,
+          "rotation": 222
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d039"
+          },
+          "position": {
+            "x": 78.75,
+            "y": 95.88
+          },
+          "zoomRatio": 1.36,
+          "rotation": 348
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d008"
+          },
+          "position": {
+            "x": 22.01,
+            "y": 13.82
+          },
+          "zoomRatio": 1.49,
+          "rotation": 235
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d020"
+          },
+          "position": {
+            "x": 6.77,
+            "y": 56.29
+          },
+          "zoomRatio": 1.26,
+          "rotation": 177
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d024"
+          },
+          "position": {
+            "x": 17.65,
+            "y": 72.4
+          },
+          "zoomRatio": 1.87,
+          "rotation": 140
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d044"
+          },
+          "position": {
+            "x": 49.24,
+            "y": 28.06
+          },
+          "zoomRatio": 1.34,
+          "rotation": 168
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d001"
+          },
+          "position": {
+            "x": 33.19,
+            "y": 65.08
+          },
+          "zoomRatio": 1.22,
+          "rotation": 173
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d012"
+          },
+          "position": {
+            "x": 88.25,
+            "y": 8.53
+          },
+          "zoomRatio": 1.75,
+          "rotation": 78
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d017"
+          },
+          "position": {
+            "x": 63.54,
+            "y": 66.77
+          },
+          "zoomRatio": 1.56,
+          "rotation": 232
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d000"
+          },
+          "position": {
+            "x": 69.43,
+            "y": 48.19
+          },
+          "zoomRatio": 1.58,
+          "rotation": 182
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d047"
+          },
+          "position": {
+            "x": 43.89,
+            "y": 32.3
+          },
+          "zoomRatio": 1.21,
+          "rotation": 30
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d027"
+          },
+          "position": {
+            "x": 25.66,
+            "y": 47.18
+          },
+          "zoomRatio": 1.37,
+          "rotation": 316
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d003"
+          },
+          "position": {
+            "x": 69.31,
+            "y": 36.52
+          },
+          "zoomRatio": 1.32,
+          "rotation": 17
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d030"
+          },
+          "position": {
+            "x": 5.04,
+            "y": 44.1
+          },
+          "zoomRatio": 1.49,
+          "rotation": 162
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d025"
+          },
+          "position": {
+            "x": 31.25,
+            "y": 3.1
+          },
+          "zoomRatio": 0.57,
+          "rotation": 132
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d004"
+          },
+          "position": {
+            "x": 12.11,
+            "y": 63.94
+          },
+          "zoomRatio": 1.87,
+          "rotation": 283
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d003"
+          },
+          "position": {
+            "x": 60.53,
+            "y": 15.93
+          },
+          "zoomRatio": 1.25,
+          "rotation": 102
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d002"
+          },
+          "position": {
+            "x": 31.14,
+            "y": 23.35
+          },
+          "zoomRatio": 1.75,
+          "rotation": 355
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d036"
+          },
+          "position": {
+            "x": 86.42,
+            "y": 30.43
+          },
+          "zoomRatio": 1.16,
+          "rotation": 56
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d048"
+          },
+          "position": {
+            "x": 81.08,
+            "y": 56.67
+          },
+          "zoomRatio": 0.73,
+          "rotation": 130
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d035"
+          },
+          "position": {
+            "x": 86.68,
+            "y": 15.53
+          },
+          "zoomRatio": 1.76,
+          "rotation": 8
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d043"
+          },
+          "position": {
+            "x": 8.46,
+            "y": 60.77
+          },
+          "zoomRatio": 1.46,
+          "rotation": 97
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d006"
+          },
+          "position": {
+            "x": 66.2,
+            "y": 66.03
+          },
+          "zoomRatio": 1.33,
+          "rotation": 343
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d040"
+          },
+          "position": {
+            "x": 82.53,
+            "y": 79.4
+          },
+          "zoomRatio": 0.67,
+          "rotation": 285
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d028"
+          },
+          "position": {
+            "x": 99.73,
+            "y": 85.44
+          },
+          "zoomRatio": 1.86,
+          "rotation": 315
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d021"
+          },
+          "position": {
+            "x": 59.51,
+            "y": 71.14
+          },
+          "zoomRatio": 0.93,
+          "rotation": 302
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d008"
+          },
+          "position": {
+            "x": 70.4,
+            "y": 0.53
+          },
+          "zoomRatio": 1.22,
+          "rotation": 230
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d020"
+          },
+          "position": {
+            "x": 39.19,
+            "y": 45.08
+          },
+          "zoomRatio": 1.96,
+          "rotation": 79
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d011"
+          },
+          "position": {
+            "x": 31.18,
+            "y": 46.47
+          },
+          "zoomRatio": 0.67,
+          "rotation": 317
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d027"
+          },
+          "position": {
+            "x": 51.13,
+            "y": 28.18
+          },
+          "zoomRatio": 0.58,
+          "rotation": 168
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d048"
+          },
+          "position": {
+            "x": 6.69,
+            "y": 41.93
+          },
+          "zoomRatio": 1.44,
+          "rotation": 83
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d037"
+          },
+          "position": {
+            "x": 78.08,
+            "y": 74.34
+          },
+          "zoomRatio": 0.65,
+          "rotation": 33
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d045"
+          },
+          "position": {
+            "x": 83.26,
+            "y": 77.72
+          },
+          "zoomRatio": 0.72,
+          "rotation": 257
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d017"
+          },
+          "position": {
+            "x": 40.33,
+            "y": 65.74
+          },
+          "zoomRatio": 1.55,
+          "rotation": 98
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d041"
+          },
+          "position": {
+            "x": 19.74,
+            "y": 91.42
+          },
+          "zoomRatio": 1.52,
+          "rotation": 299
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d000"
+          },
+          "position": {
+            "x": 2.14,
+            "y": 86.17
+          },
+          "zoomRatio": 0.87,
+          "rotation": 107
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d028"
+          },
+          "position": {
+            "x": 56.4,
+            "y": 54.8
+          },
+          "zoomRatio": 1.18,
+          "rotation": 236
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d034"
+          },
+          "position": {
+            "x": 26.11,
+            "y": 44.4
+          },
+          "zoomRatio": 0.73,
+          "rotation": 64
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d035"
+          },
+          "position": {
+            "x": 1.29,
+            "y": 36.53
+          },
+          "zoomRatio": 1.05,
+          "rotation": 80
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d034"
+          },
+          "position": {
+            "x": 26.4,
+            "y": 56.63
+          },
+          "zoomRatio": 1.73,
+          "rotation": 168
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d046"
+          },
+          "position": {
+            "x": 68.97,
+            "y": 44.19
+          },
+          "zoomRatio": 0.53,
+          "rotation": 161
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d024"
+          },
+          "position": {
+            "x": 36.68,
+            "y": 79.99
+          },
+          "zoomRatio": 1.87,
+          "rotation": 224
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d031"
+          },
+          "position": {
+            "x": 66.3,
+            "y": 98.72
+          },
+          "zoomRatio": 1.54,
+          "rotation": 94
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d044"
+          },
+          "position": {
+            "x": 16.49,
+            "y": 17.65
+          },
+          "zoomRatio": 1.48,
+          "rotation": 65
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d032"
+          },
+          "position": {
+            "x": 30.64,
+            "y": 6.47
+          },
+          "zoomRatio": 1.1,
+          "rotation": 296
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d004"
+          },
+          "position": {
+            "x": 31.71,
+            "y": 66.18
+          },
+          "zoomRatio": 1.03,
+          "rotation": 278
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d039"
+          },
+          "position": {
+            "x": 72.67,
+            "y": 86.29
+          },
+          "zoomRatio": 0.75,
+          "rotation": 267
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d005"
+          },
+          "position": {
+            "x": 15.06,
+            "y": 6.4
+          },
+          "zoomRatio": 1.31,
+          "rotation": 169
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d030"
+          },
+          "position": {
+            "x": 29.46,
+            "y": 41.34
+          },
+          "zoomRatio": 1.2,
+          "rotation": 2
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d025"
+          },
+          "position": {
+            "x": 89.18,
+            "y": 6.82
+          },
+          "zoomRatio": 1.16,
+          "rotation": 251
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d028"
+          },
+          "position": {
+            "x": 54.94,
+            "y": 43.55
+          },
+          "zoomRatio": 0.72,
+          "rotation": 215
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d004"
+          },
+          "position": {
+            "x": 63.5,
+            "y": 2.55
+          },
+          "zoomRatio": 1.41,
+          "rotation": 264
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d021"
+          },
+          "position": {
+            "x": 66.05,
+            "y": 9.86
+          },
+          "zoomRatio": 1.12,
+          "rotation": 203
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d042"
+          },
+          "position": {
+            "x": 78.34,
+            "y": 62.25
+          },
+          "zoomRatio": 1.18,
+          "rotation": 337
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d042"
+          },
+          "position": {
+            "x": 25.68,
+            "y": 40.29
+          },
+          "zoomRatio": 0.59,
+          "rotation": 313
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d010"
+          },
+          "position": {
+            "x": 71.58,
+            "y": 16.6
+          },
+          "zoomRatio": 1.27,
+          "rotation": 271
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d033"
+          },
+          "position": {
+            "x": 34.6,
+            "y": 8.07
+          },
+          "zoomRatio": 1.98,
+          "rotation": 292
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d047"
+          },
+          "position": {
+            "x": 84.28,
+            "y": 33.51
+          },
+          "zoomRatio": 1.94,
+          "rotation": 104
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d027"
+          },
+          "position": {
+            "x": 70.28,
+            "y": 89.79
+          },
+          "zoomRatio": 0.74,
+          "rotation": 262
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d022"
+          },
+          "position": {
+            "x": 25.48,
+            "y": 16.65
+          },
+          "zoomRatio": 1.73,
+          "rotation": 22
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d001"
+          },
+          "position": {
+            "x": 77.7,
+            "y": 74.17
+          },
+          "zoomRatio": 1.61,
+          "rotation": 85
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d018"
+          },
+          "position": {
+            "x": 55.28,
+            "y": 18.04
+          },
+          "zoomRatio": 0.86,
+          "rotation": 261
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d049"
+          },
+          "position": {
+            "x": 7.88,
+            "y": 18.93
+          },
+          "zoomRatio": 0.52,
+          "rotation": 327
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d030"
+          },
+          "position": {
+            "x": 89.85,
+            "y": 61.06
+          },
+          "zoomRatio": 1.61,
+          "rotation": 149
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d043"
+          },
+          "position": {
+            "x": 95.82,
+            "y": 31.11
+          },
+          "zoomRatio": 1.49,
+          "rotation": 222
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d001"
+          },
+          "position": {
+            "x": 74.98,
+            "y": 2.23
+          },
+          "zoomRatio": 0.58,
+          "rotation": 147
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d004"
+          },
+          "position": {
+            "x": 28.93,
+            "y": 65.46
+          },
+          "zoomRatio": 1.71,
+          "rotation": 46
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d014"
+          },
+          "position": {
+            "x": 86.2,
+            "y": 58.61
+          },
+          "zoomRatio": 1.82,
+          "rotation": 32
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d032"
+          },
+          "position": {
+            "x": 60.67,
+            "y": 35.3
+          },
+          "zoomRatio": 1.71,
+          "rotation": 341
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d035"
+          },
+          "position": {
+            "x": 41.04,
+            "y": 98.39
+          },
+          "zoomRatio": 1.07,
+          "rotation": 259
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d016"
+          },
+          "position": {
+            "x": 32.23,
+            "y": 64.55
+          },
+          "zoomRatio": 0.85,
+          "rotation": 305
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d044"
+          },
+          "position": {
+            "x": 76.38,
+            "y": 30.26
+          },
+          "zoomRatio": 1.5,
+          "rotation": 320
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d018"
+          },
+          "position": {
+            "x": 8.03,
+            "y": 57.8
+          },
+          "zoomRatio": 1.14,
+          "rotation": 164
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d015"
+          },
+          "position": {
+            "x": 58.11,
+            "y": 76.49
+          },
+          "zoomRatio": 1.05,
+          "rotation": 121
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d002"
+          },
+          "position": {
+            "x": 20.65,
+            "y": 83.1
+          },
+          "zoomRatio": 0.78,
+          "rotation": 196
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d008"
+          },
+          "position": {
+            "x": 56.63,
+            "y": 25.29
+          },
+          "zoomRatio": 1.42,
+          "rotation": 68
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d032"
+          },
+          "position": {
+            "x": 80.5,
+            "y": 45.66
+          },
+          "zoomRatio": 0.83,
+          "rotation": 218
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d022"
+          },
+          "position": {
+            "x": 85.12,
+            "y": 74.03
+          },
+          "zoomRatio": 1.79,
+          "rotation": 213
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d044"
+          },
+          "position": {
+            "x": 4.03,
+            "y": 66.89
+          },
+          "zoomRatio": 1.32,
+          "rotation": 261
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d009"
+          },
+          "position": {
+            "x": 37.62,
+            "y": 93.29
+          },
+          "zoomRatio": 1.26,
+          "rotation": 58
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d018"
+          },
+          "position": {
+            "x": 65.59,
+            "y": 1.36
+          },
+          "zoomRatio": 1.54,
+          "rotation": 273
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d021"
+          },
+          "position": {
+            "x": 39.63,
+            "y": 6.18
+          },
+          "zoomRatio": 0.78,
+          "rotation": 259
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d022"
+          },
+          "position": {
+            "x": 17.72,
+            "y": 99.25
+          },
+          "zoomRatio": 0.58,
+          "rotation": 19
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d025"
+          },
+          "position": {
+            "x": 13.56,
+            "y": 84.29
+          },
+          "zoomRatio": 1.6,
+          "rotation": 21
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d024"
+          },
+          "position": {
+            "x": 14.02,
+            "y": 38.45
+          },
+          "zoomRatio": 1.24,
+          "rotation": 80
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d019"
+          },
+          "position": {
+            "x": 51.21,
+            "y": 96.56
+          },
+          "zoomRatio": 1.7,
+          "rotation": 119
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d036"
+          },
+          "position": {
+            "x": 44.11,
+            "y": 0.17
+          },
+          "zoomRatio": 0.59,
+          "rotation": 186
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d035"
+          },
+          "position": {
+            "x": 4.43,
+            "y": 79.48
+          },
+          "zoomRatio": 0.66,
+          "rotation": 236
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d021"
+          },
+          "position": {
+            "x": 80.69,
+            "y": 27.16
+          },
+          "zoomRatio": 1.15,
+          "rotation": 131
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d005"
+          },
+          "position": {
+            "x": 42.28,
+            "y": 0.97
+          },
+          "zoomRatio": 0.8,
+          "rotation": 87
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d034"
+          },
+          "position": {
+            "x": 73.95,
+            "y": 56.72
+          },
+          "zoomRatio": 1.36,
+          "rotation": 47
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d019"
+          },
+          "position": {
+            "x": 62.52,
+            "y": 18.83
+          },
+          "zoomRatio": 0.78,
+          "rotation": 106
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d024"
+          },
+          "position": {
+            "x": 16.24,
+            "y": 54.52
+          },
+          "zoomRatio": 0.82,
+          "rotation": 240
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d043"
+          },
+          "position": {
+            "x": 44.06,
+            "y": 56.98
+          },
+          "zoomRatio": 1.6,
+          "rotation": 264
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d021"
+          },
+          "position": {
+            "x": 62.73,
+            "y": 42.89
+          },
+          "zoomRatio": 1.25,
+          "rotation": 274
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d032"
+          },
+          "position": {
+            "x": 55.04,
+            "y": 43.65
+          },
+          "zoomRatio": 1.66,
+          "rotation": 172
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d010"
+          },
+          "position": {
+            "x": 90.06,
+            "y": 32.29
+          },
+          "zoomRatio": 0.74,
+          "rotation": 250
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d026"
+          },
+          "position": {
+            "x": 59.29,
+            "y": 75.89
+          },
+          "zoomRatio": 1.76,
+          "rotation": 216
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d041"
+          },
+          "position": {
+            "x": 64.54,
+            "y": 10.03
+          },
+          "zoomRatio": 1.74,
+          "rotation": 241
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d029"
+          },
+          "position": {
+            "x": 55.78,
+            "y": 30.24
+          },
+          "zoomRatio": 1.93,
+          "rotation": 81
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d006"
+          },
+          "position": {
+            "x": 91.01,
+            "y": 43.72
+          },
+          "zoomRatio": 1.98,
+          "rotation": 277
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d028"
+          },
+          "position": {
+            "x": 48.11,
+            "y": 15.95
+          },
+          "zoomRatio": 1.51,
+          "rotation": 82
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d011"
+          },
+          "position": {
+            "x": 37.14,
+            "y": 52.56
+          },
+          "zoomRatio": 1.96,
+          "rotation": 355
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d005"
+          },
+          "position": {
+            "x": 8.49,
+            "y": 85.55
+          },
+          "zoomRatio": 1.66,
+          "rotation": 299
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d014"
+          },
+          "position": {
+            "x": 43.56,
+            "y": 83.36
+          },
+          "zoomRatio": 1.22,
+          "rotation": 257
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d013"
+          },
+          "position": {
+            "x": 36.64,
+            "y": 47.84
+          },
+          "zoomRatio": 1.77,
+          "rotation": 313
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d003"
+          },
+          "position": {
+            "x": 80.32,
+            "y": 71.55
+          },
+          "zoomRatio": 1.76,
+          "rotation": 118
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d000"
+          },
+          "position": {
+            "x": 81.62,
+            "y": 59.64
+          },
+          "zoomRatio": 1.51,
+          "rotation": 19
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d008"
+          },
+          "position": {
+            "x": 35.49,
+            "y": 25.1
+          },
+          "zoomRatio": 1.34,
+          "rotation": 25
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d035"
+          },
+          "position": {
+            "x": 87.62,
+            "y": 70.32
+          },
+          "zoomRatio": 1.55,
+          "rotation": 320
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d001"
+          },
+          "position": {
+            "x": 17.88,
+            "y": 58.05
+          },
+          "zoomRatio": 1.78,
+          "rotation": 27
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d049"
+          },
+          "position": {
+            "x": 41.39,
+            "y": 2.85
+          },
+          "zoomRatio": 1.12,
+          "rotation": 328
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d021"
+          },
+          "position": {
+            "x": 96.71,
+            "y": 78.9
+          },
+          "zoomRatio": 1.37,
+          "rotation": 246
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d039"
+          },
+          "position": {
+            "x": 54.96,
+            "y": 2.82
+          },
+          "zoomRatio": 1.89,
+          "rotation": 265
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d028"
+          },
+          "position": {
+            "x": 48.01,
+            "y": 92.46
+          },
+          "zoomRatio": 1.55,
+          "rotation": 173
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d024"
+          },
+          "position": {
+            "x": 74.69,
+            "y": 17.8
+          },
+          "zoomRatio": 0.56,
+          "rotation": 196
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d010"
+          },
+          "position": {
+            "x": 45.94,
+            "y": 85.72
+          },
+          "zoomRatio": 1.98,
+          "rotation": 103
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d030"
+          },
+          "position": {
+            "x": 87.65,
+            "y": 14.5
+          },
+          "zoomRatio": 1.58,
+          "rotation": 322
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d024"
+          },
+          "position": {
+            "x": 27.53,
+            "y": 77.25
+          },
+          "zoomRatio": 0.92,
+          "rotation": 211
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d044"
+          },
+          "position": {
+            "x": 74.66,
+            "y": 73.83
+          },
+          "zoomRatio": 1.78,
+          "rotation": 200
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d026"
+          },
+          "position": {
+            "x": 41.63,
+            "y": 3.92
+          },
+          "zoomRatio": 0.51,
+          "rotation": 180
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d043"
+          },
+          "position": {
+            "x": 33.08,
+            "y": 70.78
+          },
+          "zoomRatio": 1.57,
+          "rotation": 112
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d032"
+          },
+          "position": {
+            "x": 88.07,
+            "y": 18.94
+          },
+          "zoomRatio": 1.71,
+          "rotation": 215
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d045"
+          },
+          "position": {
+            "x": 74.54,
+            "y": 85.04
+          },
+          "zoomRatio": 1.71,
+          "rotation": 13
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d036"
+          },
+          "position": {
+            "x": 22.23,
+            "y": 30.63
+          },
+          "zoomRatio": 0.92,
+          "rotation": 203
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d050"
+          },
+          "position": {
+            "x": 87.73,
+            "y": 20.08
+          },
+          "zoomRatio": 0.78,
+          "rotation": 301
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d016"
+          },
+          "position": {
+            "x": 42.01,
+            "y": 65.11
+          },
+          "zoomRatio": 0.92,
+          "rotation": 284
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d048"
+          },
+          "position": {
+            "x": 28.33,
+            "y": 61.29
+          },
+          "zoomRatio": 1.17,
+          "rotation": 257
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d017"
+          },
+          "position": {
+            "x": 84.66,
+            "y": 80.81
+          },
+          "zoomRatio": 1.99,
+          "rotation": 166
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d012"
+          },
+          "position": {
+            "x": 17.04,
+            "y": 73.09
+          },
+          "zoomRatio": 1.88,
+          "rotation": 127
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d047"
+          },
+          "position": {
+            "x": 93.08,
+            "y": 94.14
+          },
+          "zoomRatio": 0.99,
+          "rotation": 22
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d042"
+          },
+          "position": {
+            "x": 63.17,
+            "y": 14.29
+          },
+          "zoomRatio": 0.59,
+          "rotation": 81
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d045"
+          },
+          "position": {
+            "x": 7.37,
+            "y": 28.86
+          },
+          "zoomRatio": 0.73,
+          "rotation": 116
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d022"
+          },
+          "position": {
+            "x": 90.91,
+            "y": 9.91
+          },
+          "zoomRatio": 0.76,
+          "rotation": 342
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d045"
+          },
+          "position": {
+            "x": 44.39,
+            "y": 94.55
+          },
+          "zoomRatio": 0.82,
+          "rotation": 32
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d030"
+          },
+          "position": {
+            "x": 13.1,
+            "y": 78.38
+          },
+          "zoomRatio": 1.0,
+          "rotation": 329
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d035"
+          },
+          "position": {
+            "x": 9.17,
+            "y": 17.11
+          },
+          "zoomRatio": 0.81,
+          "rotation": 198
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d015"
+          },
+          "position": {
+            "x": 53.04,
+            "y": 35.47
+          },
+          "zoomRatio": 1.35,
+          "rotation": 143
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d027"
+          },
+          "position": {
+            "x": 6.44,
+            "y": 25.1
+          },
+          "zoomRatio": 1.67,
+          "rotation": 323
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d049"
+          },
+          "position": {
+            "x": 74.06,
+            "y": 22.76
+          },
+          "zoomRatio": 1.78,
+          "rotation": 23
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d042"
+          },
+          "position": {
+            "x": 37.91,
+            "y": 81.91
+          },
+          "zoomRatio": 0.93,
+          "rotation": 184
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d044"
+          },
+          "position": {
+            "x": 93.02,
+            "y": 57.66
+          },
+          "zoomRatio": 1.65,
+          "rotation": 78
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d026"
+          },
+          "position": {
+            "x": 88.42,
+            "y": 48.57
+          },
+          "zoomRatio": 1.22,
+          "rotation": 35
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d031"
+          },
+          "position": {
+            "x": 3.44,
+            "y": 7.07
+          },
+          "zoomRatio": 0.98,
+          "rotation": 76
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d019"
+          },
+          "position": {
+            "x": 27.29,
+            "y": 53.91
+          },
+          "zoomRatio": 1.14,
+          "rotation": 133
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d030"
+          },
+          "position": {
+            "x": 95.69,
+            "y": 38.81
+          },
+          "zoomRatio": 1.09,
+          "rotation": 355
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d040"
+          },
+          "position": {
+            "x": 12.4,
+            "y": 72.69
+          },
+          "zoomRatio": 1.91,
+          "rotation": 207
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d041"
+          },
+          "position": {
+            "x": 32.48,
+            "y": 49.76
+          },
+          "zoomRatio": 1.96,
+          "rotation": 258
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d036"
+          },
+          "position": {
+            "x": 27.03,
+            "y": 89.47
+          },
+          "zoomRatio": 1.82,
+          "rotation": 261
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d028"
+          },
+          "position": {
+            "x": 64.66,
+            "y": 46.99
+          },
+          "zoomRatio": 1.0,
+          "rotation": 213
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d026"
+          },
+          "position": {
+            "x": 77.24,
+            "y": 47.85
+          },
+          "zoomRatio": 1.13,
+          "rotation": 16
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d029"
+          },
+          "position": {
+            "x": 16.97,
+            "y": 47.69
+          },
+          "zoomRatio": 1.49,
+          "rotation": 93
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d000"
+          },
+          "position": {
+            "x": 11.92,
+            "y": 66.31
+          },
+          "zoomRatio": 1.0,
+          "rotation": 285
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d040"
+          },
+          "position": {
+            "x": 4.79,
+            "y": 86.14
+          },
+          "zoomRatio": 1.89,
+          "rotation": 71
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d036"
+          },
+          "position": {
+            "x": 91.25,
+            "y": 16.92
+          },
+          "zoomRatio": 1.87,
+          "rotation": 186
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d039"
+          },
+          "position": {
+            "x": 14.55,
+            "y": 68.26
+          },
+          "zoomRatio": 1.02,
+          "rotation": 83
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d028"
+          },
+          "position": {
+            "x": 77.44,
+            "y": 10.43
+          },
+          "zoomRatio": 0.6,
+          "rotation": 280
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d020"
+          },
+          "position": {
+            "x": 2.84,
+            "y": 4.08
+          },
+          "zoomRatio": 1.71,
+          "rotation": 336
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d025"
+          },
+          "position": {
+            "x": 39.92,
+            "y": 35.33
+          },
+          "zoomRatio": 0.78,
+          "rotation": 212
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d006"
+          },
+          "position": {
+            "x": 36.04,
+            "y": 49.16
+          },
+          "zoomRatio": 1.25,
+          "rotation": 69
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d026"
+          },
+          "position": {
+            "x": 97.27,
+            "y": 51.14
+          },
+          "zoomRatio": 1.91,
+          "rotation": 173
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d048"
+          },
+          "position": {
+            "x": 59.0,
+            "y": 6.23
+          },
+          "zoomRatio": 0.69,
+          "rotation": 302
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d042"
+          },
+          "position": {
+            "x": 0.97,
+            "y": 5.72
+          },
+          "zoomRatio": 1.75,
+          "rotation": 133
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d035"
+          },
+          "position": {
+            "x": 39.1,
+            "y": 17.45
+          },
+          "zoomRatio": 0.51,
+          "rotation": 238
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d001"
+          },
+          "position": {
+            "x": 58.14,
+            "y": 40.47
+          },
+          "zoomRatio": 1.49,
+          "rotation": 309
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d009"
+          },
+          "position": {
+            "x": 85.28,
+            "y": 10.93
+          },
+          "zoomRatio": 1.35,
+          "rotation": 287
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d041"
+          },
+          "position": {
+            "x": 75.76,
+            "y": 23.27
+          },
+          "zoomRatio": 0.78,
+          "rotation": 261
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d030"
+          },
+          "position": {
+            "x": 8.06,
+            "y": 78.95
+          },
+          "zoomRatio": 1.81,
+          "rotation": 199
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d036"
+          },
+          "position": {
+            "x": 7.83,
+            "y": 12.11
+          },
+          "zoomRatio": 1.75,
+          "rotation": 106
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d020"
+          },
+          "position": {
+            "x": 26.31,
+            "y": 18.64
+          },
+          "zoomRatio": 0.73,
+          "rotation": 55
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d028"
+          },
+          "position": {
+            "x": 21.6,
+            "y": 28.52
+          },
+          "zoomRatio": 1.88,
+          "rotation": 73
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d042"
+          },
+          "position": {
+            "x": 9.05,
+            "y": 20.58
+          },
+          "zoomRatio": 1.67,
+          "rotation": 173
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d022"
+          },
+          "position": {
+            "x": 83.77,
+            "y": 21.13
+          },
+          "zoomRatio": 1.68,
+          "rotation": 209
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d049"
+          },
+          "position": {
+            "x": 10.75,
+            "y": 7.4
+          },
+          "zoomRatio": 1.83,
+          "rotation": 297
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d036"
+          },
+          "position": {
+            "x": 32.45,
+            "y": 99.28
+          },
+          "zoomRatio": 0.69,
+          "rotation": 144
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d048"
+          },
+          "position": {
+            "x": 47.4,
+            "y": 61.44
+          },
+          "zoomRatio": 1.09,
+          "rotation": 359
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d033"
+          },
+          "position": {
+            "x": 21.21,
+            "y": 74.84
+          },
+          "zoomRatio": 1.73,
+          "rotation": 173
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d027"
+          },
+          "position": {
+            "x": 41.83,
+            "y": 99.16
+          },
+          "zoomRatio": 1.47,
+          "rotation": 351
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d023"
+          },
+          "position": {
+            "x": 92.9,
+            "y": 72.39
+          },
+          "zoomRatio": 1.1,
+          "rotation": 133
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d007"
+          },
+          "position": {
+            "x": 38.93,
+            "y": 54.62
+          },
+          "zoomRatio": 1.94,
+          "rotation": 178
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d012"
+          },
+          "position": {
+            "x": 89.55,
+            "y": 56.01
+          },
+          "zoomRatio": 0.87,
+          "rotation": 346
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d040"
+          },
+          "position": {
+            "x": 15.92,
+            "y": 25.39
+          },
+          "zoomRatio": 1.57,
+          "rotation": 244
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d044"
+          },
+          "position": {
+            "x": 45.36,
+            "y": 8.19
+          },
+          "zoomRatio": 1.46,
+          "rotation": 241
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d005"
+          },
+          "position": {
+            "x": 98.07,
+            "y": 9.1
+          },
+          "zoomRatio": 1.28,
+          "rotation": 120
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d031"
+          },
+          "position": {
+            "x": 20.48,
+            "y": 90.46
+          },
+          "zoomRatio": 1.36,
+          "rotation": 19
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d050"
+          },
+          "position": {
+            "x": 43.21,
+            "y": 37.03
+          },
+          "zoomRatio": 0.64,
+          "rotation": 325
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d045"
+          },
+          "position": {
+            "x": 86.27,
+            "y": 97.16
+          },
+          "zoomRatio": 0.57,
+          "rotation": 173
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d042"
+          },
+          "position": {
+            "x": 33.26,
+            "y": 53.5
+          },
+          "zoomRatio": 0.89,
+          "rotation": 50
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d001"
+          },
+          "position": {
+            "x": 76.44,
+            "y": 13.39
+          },
+          "zoomRatio": 1.65,
+          "rotation": 253
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d002"
+          },
+          "position": {
+            "x": 30.14,
+            "y": 49.76
+          },
+          "zoomRatio": 1.94,
+          "rotation": 64
+        }
+      ]
+    },
+    {
+      "symbols": [
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d039"
+          },
+          "position": {
+            "x": 5.49,
+            "y": 36.64
+          },
+          "zoomRatio": 1.1,
+          "rotation": 50
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d018"
+          },
+          "position": {
+            "x": 92.8,
+            "y": 29.75
+          },
+          "zoomRatio": 1.0,
+          "rotation": 341
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d050"
+          },
+          "position": {
+            "x": 31.68,
+            "y": 75.06
+          },
+          "zoomRatio": 1.82,
+          "rotation": 68
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d021"
+          },
+          "position": {
+            "x": 98.73,
+            "y": 75.25
+          },
+          "zoomRatio": 1.27,
+          "rotation": 40
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d040"
+          },
+          "position": {
+            "x": 63.95,
+            "y": 53.37
+          },
+          "zoomRatio": 0.76,
+          "rotation": 215
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d043"
+          },
+          "position": {
+            "x": 37.51,
+            "y": 81.8
+          },
+          "zoomRatio": 0.67,
+          "rotation": 184
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d033"
+          },
+          "position": {
+            "x": 4.0,
+            "y": 20.09
+          },
+          "zoomRatio": 1.22,
+          "rotation": 352
+        },
+        {
+          "noun": {
+            "$oid": "65c1f2e3d4e5f6a7b8c9d015"
+          },
+          "position": {
+            "x": 29.15,
+            "y": 19.4
+          },
+          "zoomRatio": 1.63,
+          "rotation": 337
+        }
+      ]
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-02-10T12:00:00.000+00:00"
+  },
+  "updatedAt": {
+    "$date": "2026-02-10T12:00:00.000+00:00"
+  }
+}
