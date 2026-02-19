@@ -1,15 +1,5 @@
 [
-  { "nameEn": "Lion", "nameHe": "אריה", "categoryHe": "בעלי חיים" },
-  { "nameEn": "Tiger", "nameHe": "נמר", "categoryHe": "בעלי חיים" },
-  { "nameEn": "Elephant", "nameHe": "פיל", "categoryHe": "בעלי חיים" },
-  { "nameEn": "Giraffe", "nameHe": "ג'ירפה", "categoryHe": "בעלי חיים" },
-  { "nameEn": "Wolf", "nameHe": "זאב", "categoryHe": "בעלי חיים" },
-  { "nameEn": "Zebra", "nameHe": "זברה", "categoryHe": "בעלי חיים" },
-  { "nameEn": "Monkey", "nameHe": "קוף", "categoryHe": "בעלי חיים" },
-  { "nameEn": "Rabbit", "nameHe": "ארנב", "categoryHe": "בעלי חיים" },
-  { "nameEn": "Deer", "nameHe": "אייל", "categoryHe": "בעלי חיים" },
-  { "nameEn": "Bear", "nameHe": "דוב", "categoryHe": "בעלי חיים" },
-  { "nameEn": "Dolphin", "nameHe": "דולפין", "categoryHe": "בעלי חיים" },
-  { "nameEn": "Shark", "nameHe": "כריש", "categoryHe": "בעלי חיים" },
-  { "nameEn": "Whale", "nameHe": "לווייתן", "categoryHe": "בעלי חיים" }
+  { "nameEn": "Glass", "nameHe": "זכוכית", "categoryHe": "חומרי בניין" },
+  { "nameEn": "Fog", "nameHe": "ערפל", "categoryHe": "מזג אוויר" },
+  { "nameEn": "Orange", "nameHe": "תפוז", "categoryHe": "מזון" }
 ]

@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca60d"
+  },
+  "categoryHe": "ביגוד",
+  "categoryEn": "Clothing",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/double-3153b.firebasestorage.app/o/categories%2Fclothing_1771177614009_q4w6e8r.png?alt=media&token=0ade13e6-cb81-4274-9d90-69c7c7dc6938"
+},
+{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca614"
+  },
+  "categoryHe": "חומרי בניין",
+  "categoryEn": "Construction Materials",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/double-3153b.firebasestorage.app/o/categories%2Fconstruction_materials_1771177614008_7m2n9b1.png?alt=media&token=80723462-43e8-4b2f-a53d-6043115e47bb"
+},
+{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca618"
+  },
+  "categoryHe": "משחקים וצעצועים",
+  "categoryEn": "Games and Toys",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/double-3153b.firebasestorage.app/o/categories%2Fgames_and_toys_1771177614007_z1x5c4v.png?alt=media&token=f247ab0e-a7b3-4f60-9d15-4f1b71c4af66"
+}
+]

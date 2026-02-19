@@ -1,0 +1,729 @@
+[{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca60d"
+  },
+  "categoryHe": "ביגוד",
+  "categoryEn": "Clothing",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/double-3153b.firebasestorage.app/o/categories%2Fclothing_1771177614009_q4w6e8r.png?alt=media&token=0ade13e6-cb81-4274-9d90-69c7c7dc6938"
+},
+{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca614"
+  },
+  "categoryHe": "חומרי בניין",
+  "categoryEn": "Construction Materials",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/double-3153b.firebasestorage.app/o/categories%2Fconstruction_materials_1771177614008_7m2n9b1.png?alt=media&token=80723462-43e8-4b2f-a53d-6043115e47bb"
+},
+{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca618"
+  },
+  "categoryHe": "משחקים וצעצועים",
+  "categoryEn": "Games and Toys",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/double-3153b.firebasestorage.app/o/categories%2Fgames_and_toys_1771177614007_z1x5c4v.png?alt=media&token=f247ab0e-a7b3-4f60-9d15-4f1b71c4af66"
+},
+{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca61d"
+  },
+  "categoryHe": "מכשירי חשמל",
+  "categoryEn": "Electrical Appliances",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/double-3153b.firebasestorage.app/o/categories%2Felectrical_appliances_1771177614006_k6j8l3p.png?alt=media&token=124175d7-81c4-417c-80dd-1f7b444391f3"
+},
+{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca620"
+  },
+  "categoryHe": "חלקי רכב",
+  "categoryEn": "Car Parts",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/double-3153b.firebasestorage.app/o/categories%2Fcar_parts_1771177614005_b2v5c7n.png?alt=media&token=c6c3d4f4-4ea0-49df-8d21-7d18098747b7"
+},
+{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca622"
+  },
+  "categoryHe": "היגיינה",
+  "categoryEn": "Hygiene",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/double-3153b.firebasestorage.app/o/categories%2Fhygiene_1771177614004_h9x3w8m.png?alt=media&token=87c91fa4-a747-41c3-8924-ae3bc5df968f"
+},
+{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca626"
+  },
+  "categoryHe": "חרקים",
+  "categoryEn": "Insects",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/double-3153b.firebasestorage.app/o/categories%2Finsects_1771177614003_3n1p6z2.png?alt=media&token=28d1fa22-9b13-4860-8871-1213a7cfa03a"
+},
+{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca62a"
+  },
+  "categoryHe": "ציוד ספורט",
+  "categoryEn": "Sports Equipment",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/double-3153b.firebasestorage.app/o/categories%2Fsports_equipment_1771177614002_f4r7t9s.png?alt=media&token=895b2a37-4c13-49aa-a341-cb8d6a413811"
+},
+{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca62d"
+  },
+  "categoryHe": "ציוד חירום",
+  "categoryEn": "Emergency Equipment",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/double-3153b.firebasestorage.app/o/categories%2Femergency_equipment_1771177614001_j8m2k5v.png?alt=media&token=688bb036-f26e-43e2-8ab8-657a81c9b379"
+},
+{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca603"
+  },
+  "categoryHe": "בעלי חיים",
+  "categoryEn": "Animals",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/double-3153b.firebasestorage.app/o/categories%2Fanimals_1771177614010_a9s7d3f.png?alt=media&token=43434f58-a1d1-440d-9ded-22adf9cccabd"
+},
+{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca610"
+  },
+  "categoryHe": "גוף האדם",
+  "categoryEn": "Human Body",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/double-3153b.firebasestorage.app/o/categories%2Fhuman_body_1771177614013_h8g4f9d.png?alt=media&token=f8eada8d-1a8a-45d9-97e2-3da6dd35bddd"
+},
+{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca612"
+  },
+  "categoryHe": "כלי מטבח",
+  "categoryEn": "Kitchen Utensils",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/double-3153b.firebasestorage.app/o/categories%2Fkitchen_utensils1771177614012_p3l6k2j.png?alt=media&token=72d8120c-ad2b-4740-8b08-4a924d9434b8"
+},
+{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca613"
+  },
+  "categoryHe": "מזג אוויר",
+  "categoryEn": "Weather",
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/double-3153b.firebasestorage.app/o/categories%2Fweather_1771177614014_x1z5c7v.png?alt=media&token=07b98f35-7e0f-4ba7-84e5-b553afaa87bf"
+},
+{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca615"
+  },
+  "categoryHe": "כלי עבודה",
+  "categoryEn": "Working Tools"
+},
+{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca61b"
+  },
+  "categoryHe": "מינרלים ואבני חן",
+  "categoryEn": "Minerals and Gemstones"
+},
+{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca624"
+  },
+  "categoryHe": "גרמי שמיים",
+  "categoryEn": "Celestial Bodies"
+},
+{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca627"
+  },
+  "categoryHe": "צילום",
+  "categoryEn": "Photography"
+},
+{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca629"
+  },
+  "categoryHe": "אדריכלות",
+  "categoryEn": "Architecture"
+},
+{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca62b"
+  },
+  "categoryHe": "חדר רחצה",
+  "categoryEn": "Bathroom",
+  "imageUrl": ""
+},
+{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca62c"
+  },
+  "categoryHe": "כלים",
+  "categoryEn": "Instruments and Tools"
+},
+{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca604"
+  },
+  "categoryHe": "חפצים",
+  "categoryEn": "Objects"
+},
+{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca609"
+  },
+  "categoryHe": "כלי תחבורה",
+  "categoryEn": "Vehicles"
+},
+{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca60e"
+  },
+  "categoryHe": "ציוד משרדי",
+  "categoryEn": "Office Supplies"
+},
+{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca60f"
+  },
+  "categoryHe": "חלל",
+  "categoryEn": "Space"
+},
+{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca617"
+  },
+  "categoryHe": "חיי המים",
+  "categoryEn": "Aquatic Life"
+},
+{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca619"
+  },
+  "categoryHe": "רהיטים",
+  "categoryEn": "Furniture"
+},
+{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca61c"
+  },
+  "categoryHe": "כלי כתיבה",
+  "categoryEn": "Writing Utensils"
+},
+{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca61f"
+  },
+  "categoryHe": "מחנאות",
+  "categoryEn": "Camping"
+},
+{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca621"
+  },
+  "categoryHe": "מכלים",
+  "categoryEn": "Containers"
+},
+{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca630"
+  },
+  "categoryHe": "מאפים",
+  "categoryEn": "Pastries"
+},
+{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca605"
+  },
+  "categoryHe": "טבע",
+  "categoryEn": "Nature"
+},
+{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca607"
+  },
+  "categoryHe": "מזון",
+  "categoryEn": "Food"
+},
+{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca608"
+  },
+  "categoryHe": "מקומות",
+  "categoryEn": "Places"
+},
+{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca60a"
+  },
+  "categoryHe": "כלי נגינה",
+  "categoryEn": "Musical Instruments"
+},
+{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca60b"
+  },
+  "categoryHe": "מדע",
+  "categoryEn": "Science"
+},
+{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca60c"
+  },
+  "categoryHe": "ספורט",
+  "categoryEn": "Sports"
+},
+{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca61a"
+  },
+  "categoryHe": "ציוד בנייה",
+  "categoryEn": "Construction Equipment"
+},
+{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca61e"
+  },
+  "categoryHe": "היסטוריה וכלי נשק",
+  "categoryEn": "History and Weapons"
+},
+{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca625"
+  },
+  "categoryHe": "ציוד רפואי",
+  "categoryEn": "Medical Equipment"
+},
+{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca628"
+  },
+  "categoryHe": "תפירה",
+  "categoryEn": "Sewing"
+},
+{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca62e"
+  },
+  "categoryHe": "אנרגיה מתחדשת",
+  "categoryEn": "Renewable Energy"
+},
+{
+  "_id": {
+    "$oid": "69876de125b1a590af8ca62f"
+  },
+  "categoryHe": "צורות נוף",
+  "categoryEn": "Landforms"
+},
+{
+  "_id": {
+    "$oid": "698a09550a1271fdd3e106c2"
+  },
+  "categoryHe": "אבני חן",
+  "categoryEn": "Gemstones",
+  "createdAt": {
+    "$date": "2026-02-09T16:20:37.311Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T16:20:37.311Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698a09590a1271fdd3e10710"
+  },
+  "categoryHe": "ציוד מחנאות",
+  "categoryEn": "Camping Equipment",
+  "createdAt": {
+    "$date": "2026-02-09T16:20:41.438Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T16:20:41.438Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698a096b0a1271fdd3e10870"
+  },
+  "categoryHe": "ריהוט גן",
+  "categoryEn": "Garden Furniture",
+  "createdAt": {
+    "$date": "2026-02-09T16:20:59.727Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T16:20:59.727Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698a097f0a1271fdd3e109fc"
+  },
+  "categoryHe": "תעופה",
+  "categoryEn": "Aviation",
+  "createdAt": {
+    "$date": "2026-02-09T16:21:19.955Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T16:21:19.955Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698a09830a1271fdd3e10a3b"
+  },
+  "categoryHe": "אופטיקה",
+  "categoryEn": "Optics",
+  "createdAt": {
+    "$date": "2026-02-09T16:21:23.091Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T16:21:23.091Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698a09850a1271fdd3e10a6e"
+  },
+  "categoryHe": "לבוש",
+  "categoryEn": "Attire and Clothing",
+  "createdAt": {
+    "$date": "2026-02-09T16:21:25.620Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T16:21:25.620Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698a098b0a1271fdd3e10ae9"
+  },
+  "categoryHe": "אמנות",
+  "categoryEn": "Art",
+  "createdAt": {
+    "$date": "2026-02-09T16:21:31.827Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T16:21:31.827Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698a098d0a1271fdd3e10b10"
+  },
+  "categoryHe": "משחקים",
+  "categoryEn": "Games",
+  "createdAt": {
+    "$date": "2026-02-09T16:21:33.736Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T16:21:33.736Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698a098e0a1271fdd3e10b22"
+  },
+  "categoryHe": "פארק שעשועים",
+  "categoryEn": "Amusement Park",
+  "createdAt": {
+    "$date": "2026-02-09T16:21:34.577Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T16:21:34.577Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698a09940a1271fdd3e10b93"
+  },
+  "categoryHe": "ציוד פנאי",
+  "categoryEn": "Leisure Equipment",
+  "createdAt": {
+    "$date": "2026-02-09T16:21:40.238Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T16:21:40.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698a099c0a1271fdd3e10c3d"
+  },
+  "categoryHe": "תעשייה",
+  "categoryEn": "Industry",
+  "createdAt": {
+    "$date": "2026-02-09T16:21:48.729Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T16:21:48.729Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698a099e0a1271fdd3e10c58"
+  },
+  "categoryHe": "אביזרי שיער",
+  "categoryEn": "Hair Accessories",
+  "createdAt": {
+    "$date": "2026-02-09T16:21:50.060Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T16:21:50.060Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698a099f0a1271fdd3e10c7f"
+  },
+  "categoryHe": "ציוד תפירה",
+  "categoryEn": "Sewing Equipment",
+  "createdAt": {
+    "$date": "2026-02-09T16:21:51.983Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T16:21:51.983Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698a09ad0a1271fdd3e10d86"
+  },
+  "categoryHe": "כלי תפירה וסדקית",
+  "categoryEn": "Sewing Tools and Haberdashery",
+  "createdAt": {
+    "$date": "2026-02-09T16:22:05.235Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T16:22:05.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698a09b60a1271fdd3e10e38"
+  },
+  "categoryHe": "אביזרי אמבטיה",
+  "categoryEn": "Bathroom Accessories",
+  "createdAt": {
+    "$date": "2026-02-09T16:22:14.472Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-12T04:42:05.971Z"
+  },
+  "__v": 0,
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/double-3153b.firebasestorage.app/o/categories%2Fbathroom_accessories_1771214952000_x7b2k9p.png?alt=media&token=a821e62d-4586-4b31-9e0d-dfbe7551669f"
+},
+{
+  "_id": {
+    "$oid": "698a09c50a1271fdd3e10f58"
+  },
+  "categoryHe": "מוצרי תינוקות",
+  "categoryEn": "Baby Products",
+  "createdAt": {
+    "$date": "2026-02-09T16:22:29.002Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T16:22:29.002Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698a09c60a1271fdd3e10f7c"
+  },
+  "categoryHe": "ציוד דייג",
+  "categoryEn": "Fishing Equipment",
+  "createdAt": {
+    "$date": "2026-02-09T16:22:30.763Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T16:22:30.763Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698a09d30a1271fdd3e11076"
+  },
+  "categoryHe": "ציוד צילום",
+  "categoryEn": "Photography Equipment",
+  "createdAt": {
+    "$date": "2026-02-09T16:22:43.476Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T16:22:43.476Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698a09d40a1271fdd3e1108e"
+  },
+  "categoryHe": "אביזרי רכב פנימיים",
+  "categoryEn": "Interior Car Accessories",
+  "createdAt": {
+    "$date": "2026-02-09T16:22:44.641Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T16:22:44.641Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698a09d60a1271fdd3e110b8"
+  },
+  "categoryHe": "חומרי יצירה",
+  "categoryEn": "Craft Materials",
+  "createdAt": {
+    "$date": "2026-02-09T16:22:46.675Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T16:22:46.675Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698a09e00a1271fdd3e1117c"
+  },
+  "categoryHe": "ציוד הגנה אישי",
+  "categoryEn": "Personal Protective Equipment",
+  "createdAt": {
+    "$date": "2026-02-09T16:22:56.986Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T16:22:56.986Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698a09e20a1271fdd3e111a0"
+  },
+  "categoryHe": "כלי גישור ומדידה",
+  "categoryEn": "Measuring and Surveying Tools",
+  "createdAt": {
+    "$date": "2026-02-09T16:22:58.750Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T16:22:58.750Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698a0dfb0a1271fdd3e11501"
+  },
+  "categoryHe": "אלקטרוניקה",
+  "categoryEn": "Electronics",
+  "createdAt": {
+    "$date": "2026-02-09T16:40:27.301Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T16:40:27.301Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698a0e5f0a1271fdd3e11b57"
+  },
+  "categoryHe": "אביזרי רכיבה",
+  "categoryEn": "Riding Accessories",
+  "createdAt": {
+    "$date": "2026-02-09T16:42:07.995Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-15T08:05:16.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698a145712fd6dc7d57b379c"
+  },
+  "categoryHe": "אנשים",
+  "categoryEn": "People",
+  "createdAt": {
+    "$date": "2026-02-09T17:07:35.933Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T17:07:35.933Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698a149612fd6dc7d57b3b8e"
+  },
+  "categoryHe": "אמנויות הבמה",
+  "categoryEn": "Performing Arts",
+  "createdAt": {
+    "$date": "2026-02-09T17:08:38.777Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T17:08:38.777Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698a14e812fd6dc7d57b40a4"
+  },
+  "categoryHe": "אביזרי שינה",
+  "categoryEn": "Sleeping Accessories",
+  "createdAt": {
+    "$date": "2026-02-09T17:10:00.234Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-15T08:03:29.245Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698a1739dd4a554224b039f2"
+  },
+  "categoryHe": "גינון",
+  "categoryEn": "Gardening",
+  "createdAt": {
+    "$date": "2026-02-09T17:19:53.954Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T17:19:53.954Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698a1759dd4a554224b03beb"
+  },
+  "categoryHe": "אמנות ויצירה",
+  "categoryEn": "Arts and Crafts",
+  "createdAt": {
+    "$date": "2026-02-09T17:20:25.357Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T17:20:25.357Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698a178bdd4a554224b03f14"
+  },
+  "categoryHe": "טכנולוגיה",
+  "categoryEn": "Technology",
+  "createdAt": {
+    "$date": "2026-02-09T17:21:15.242Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T17:21:15.242Z"
+  },
+  "__v": 0
+}]

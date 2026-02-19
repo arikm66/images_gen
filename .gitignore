@@ -19,6 +19,8 @@ __pycache__/
 
 # Generated images and old files
 images/
+nouns_images/
+category_images/
 Old/
 
 # IDE

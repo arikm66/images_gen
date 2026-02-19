@@ -14,16 +14,15 @@ load_dotenv()
 
 # Parse command line arguments
 parser = argparse.ArgumentParser(
-    description='Generate images for nouns using Hugging Face AI models with transparent backgrounds.',
+    description='Generate images for objects using AI models API.',
     formatter_class=argparse.RawDescriptionHelpFormatter,
     epilog='''
 Examples:
   python create_images.py                    # Process default file (nouns_short.json) with HF model
   python create_images.py -f nouns.json      # Process custom file
   python create_images.py -m dalle           # Use DALL-E instead of Hugging Face
-  python create_images.py -m together        # Use Together.ai
-  python create_images.py -m segmind         # Use Segmind
   python create_images.py -f nouns.json -m dalle  # Custom file with DALL-E
+  python create_images.py -a category        # Generate category images (saves to category_images)
     '''
 )
 parser.add_argument(
@@ -36,6 +35,12 @@ parser.add_argument(
     choices=['hf', 'dalle', 'together', 'segmind'],
     default='hf',
     help='AI model to use: hf (Hugging Face), dalle (DALL-E), together (Together.ai), or segmind (Segmind) (default: hf)'
+)
+parser.add_argument(
+    '-a', '--ab',
+    choices=['noun', 'category'],
+    default='noun',
+    help='A/B selection: generate images for "noun" (default) or "category"'
 )
 args = parser.parse_args()
 
@@ -86,20 +91,39 @@ if not os.path.exists(input_file):
 
 print(f"Processing file: {input_file}")
 with open(input_file, 'r', encoding='utf-8') as f:
-    nouns = json.load(f)
+    objects = json.load(f)
 
-# Create images directory if it doesn't exist
-os.makedirs('images', exist_ok=True)
+# Determine output directory based on A/B selection (noun or category)
+images_dir = 'noun_images' if args.ab == 'noun' else 'category_images'
+os.makedirs(images_dir, exist_ok=True)
+print(f"Using mode: {args.ab}; saving images to: {images_dir}")
 
-# Prompt template
-prompt_template = (
+# Prompt template for nouns
+noun_prompt_template = (
     "Create A high-quality 2D drawing of a {nameEn}. The drawing is intended for children aged 5-10. "
     "The drawing should be of the entire object, not a close-up. Not a face only. "
     "The viewer should see the object from the side and not the front. "
-    "Vibrant colors. The object must be centered on a pure solid white background. "
+    "Vibrant colors. The object must be centered on a transparent background. "
     "Minimal white margins: the object should fill most of the frame without touching "
     "the edges. "
     "1:1 square aspect ratio, clean minimalist digital art."
+)
+
+# Prompt template for categories
+category_prompt_template = (
+    "Clean minimal vector illustration representing the {nameEn} category. "
+    "Include exactly 4 to 5 different {nameEn} objects. "
+    "Use a mix of different {nameEn} types. "
+    "At least 3 different sub-categories must be represented. "
+    "Avoid having more than two objects from the same type. "
+    "Objects should be arranged in a compact but organized group. "
+    "Use distinct, clearly visible pastel colors for every object. "
+    "Avoid white or near-white objects. "
+    "Each object must have its own unique color palette. "
+    "Use medium-saturation pastels so colors remain readable and not washed out. "
+    "Thick, clean outlines with good contrast against the object colors. "
+    "Flat 2D pastel style, minimal shading. "
+    "Pure solid white background (not transparent), high resolution, no text."
 )
 
 # Counters for summary
@@ -108,20 +132,27 @@ skipped_count = 0
 failed_count = 0
 
 # Generate images for each noun
-for i, noun in enumerate(nouns, 1):
-    name_en = noun['nameEn']
+for i, object in enumerate(objects, 1):
+    # Choose the English name field based on A/B mode: noun -> nameEn, category -> categoryEn
+    if args.ab == 'category':
+        object_en = object['categoryEn']
+    else:
+        object_en = object['nameEn']
     
     # Check if image already exists
-    filename = f"images/{name_en.lower().replace(' ', '_')}.png"
+    filename = f"{images_dir}/{object_en.lower().replace(' ', '_')}.png"
     if os.path.exists(filename):
-        print(f"[{i}/{len(nouns)}] ⊙ Skipping {name_en} (already exists)")
+        print(f"[{i}/{len(objects)}] ⊙ Skipping {object_en} (already exists)")
         skipped_count += 1
         continue
     
-    # Create the prompt with the actual nameEn
-    prompt = prompt_template.format(nameEn=name_en)
+    # Create the prompt with the actual nameEn (object vs category)
+    if args.ab == 'category':
+        prompt = category_prompt_template.format(nameEn=object_en)
+    else:
+        prompt = noun_prompt_template.format(nameEn=object_en)
     
-    print(f"[{i}/{len(nouns)}] Generating image for: {name_en}")
+    print(f"[{i}/{len(objects)}] Generating image for: {object_en}")
     
     # Retry logic for API rate limits and model loading
     max_retries = 5
@@ -193,9 +224,9 @@ for i, noun in enumerate(nouns, 1):
                     input_image = Image.open(io.BytesIO(response.content))
                     output_image = remove(input_image)
                     
-                    # Save the image with transparent background
+                    # Save the image
                     output_image.save(filename, 'PNG')
-                    print(f"  ✓ Saved with transparent background: {filename}")
+                    print(f"  ✓ Saved: {filename}")
                 elif args.model == 'dalle':
                     # DALL-E returns a URL to the image
                     image_url = response.json()['data'][0]['url']
@@ -208,9 +239,9 @@ for i, noun in enumerate(nouns, 1):
                     input_image = Image.open(io.BytesIO(img_response.content))
                     output_image = remove(input_image)
                     
-                    # Save the image with transparent background
+                    # Save the image
                     output_image.save(filename, 'PNG')
-                    print(f"  ✓ Saved with transparent background: {filename}")
+                    print(f"  ✓ Saved: {filename}")
                 elif args.model == 'together':
                     # Together.ai returns a URL or base64 depending on response_format
                     result = response.json()
@@ -229,9 +260,9 @@ for i, noun in enumerate(nouns, 1):
                         # Remove background
                         output_image = remove(input_image)
                         
-                        # Save the image with transparent background
+                        # Save the image
                         output_image.save(filename, 'PNG')
-                        print(f"  ✓ Saved with transparent background: {filename}")
+                        print(f"  ✓ Saved: {filename}")
                     else:
                         print(f"  ✗ Unexpected response format from Together.ai")
                         break
@@ -242,9 +273,9 @@ for i, noun in enumerate(nouns, 1):
                     # Remove background
                     output_image = remove(input_image)
                     
-                    # Save the image with transparent background
+                    # Save the image
                     output_image.save(filename, 'PNG')
-                    print(f"  ✓ Saved with transparent background: {filename}")
+                    print(f"  ✓ Saved: {filename}")
                 
                 success = True
                 generated_count += 1
@@ -279,7 +310,7 @@ for i, noun in enumerate(nouns, 1):
                 print(f"  ⚠ Error: {str(e)}, retrying in {wait_time} seconds...")
                 time.sleep(wait_time)
             else:
-                print(f"  ✗ Error generating image for {name_en}: {str(e)}")
+                print(f"  ✗ Error generating image for {object_en}: {str(e)}")
     
     # Track failed generations
     if not success:
@@ -289,4 +320,4 @@ for i, noun in enumerate(nouns, 1):
     if success:
         time.sleep(2)
 
-print(f"\nCompleted! Generated: {generated_count}, Skipped: {skipped_count}, Failed: {failed_count} (Total: {len(nouns)} nouns)")
+print(f"\nCompleted! Generated: {generated_count}, Skipped: {skipped_count}, Failed: {failed_count} (Total: {len(objects)} objects)")
